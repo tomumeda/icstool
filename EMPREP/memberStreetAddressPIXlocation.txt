@@ -1,0 +1,93 @@
+<circle cx='-1' cy='-1' r='5' fill='yellow' stroke='black' id='La Loma Ave=1636='/>
+<circle cx='-1' cy='-1' r='5' fill='yellow' stroke='black' id='La Vereda Rd=?='/>
+<circle cx='286' cy='330' r='5' fill='yellow' stroke='black' id='Le Roy Ave=1597='/>
+<circle cx='306' cy='424' r='5' fill='yellow' stroke='black' id='Le Roy Ave=1619='/>
+<circle cx='320' cy='221' r='5' fill='yellow' stroke='black' id='La Loma Ave=1530='/>
+<circle cx='321' cy='307' r='5' fill='yellow' stroke='black' id='Cedar St=2639='/>
+<circle cx='341' cy='400' r='5' fill='yellow' stroke='black' id='Cedar St=2644='/>
+<circle cx='342' cy='459' r='5' fill='yellow' stroke='black' id='Le Roy Ave=1643='/>
+<circle cx='347' cy='313' r='5' fill='yellow' stroke='black' id='Cedar St=2647='/>
+<circle cx='351' cy='308' r='5' fill='yellow' stroke='black' id='Cedar St=2649='/>
+<circle cx='353' cy='782' r='5' fill='yellow' stroke='black' id='Le Conte Ave=2611='/>
+<circle cx='355' cy='716' r='5' fill='yellow' stroke='black' id='Virginia St=2634=#25'/>
+<circle cx='355' cy='716' r='5' fill='yellow' stroke='black' id='Virginia St=2634=#32'/>
+<circle cx='363' cy='383' r='5' fill='yellow' stroke='black' id='Cedar St=2696='/>
+<circle cx='367' cy='292' r='5' fill='yellow' stroke='black' id='La Loma Ave=1546='/>
+<circle cx='375' cy='877' r='5' fill='yellow' stroke='black' id='Le Conte Ave=2634='/>
+<circle cx='377' cy='616' r='5' fill='yellow' stroke='black' id='Virginia St=2655=#A'/>
+<circle cx='377' cy='616' r='5' fill='yellow' stroke='black' id='Virginia St=2655=#C'/>
+<circle cx='377' cy='616' r='5' fill='yellow' stroke='black' id='Virginia St=2655='/>
+<circle cx='377' cy='775' r='5' fill='yellow' stroke='black' id='Le Conte Ave=2617='/>
+<circle cx='379' cy='316' r='5' fill='yellow' stroke='black' id='Cedar St=2661='/>
+<circle cx='381' cy='190' r='5' fill='yellow' stroke='black' id='La Loma Ave=1525='/>
+<circle cx='381' cy='396' r='5' fill='yellow' stroke='black' id='La Loma Ave=1600='/>
+<circle cx='381' cy='949' r='5' fill='yellow' stroke='black' id='Ridge Rd=2615=Unit B'/>
+<circle cx='390' cy='421' r='5' fill='yellow' stroke='black' id='La Loma Ave=1628='/>
+<circle cx='392' cy='549' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2670='/>
+<circle cx='392' cy='710' r='5' fill='yellow' stroke='black' id='Virginia St=2656='/>
+<circle cx='394' cy='415' r='5' fill='yellow' stroke='black' id='La Loma Ave=1640='/>
+<circle cx='396' cy='543' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2672='/>
+<circle cx='402' cy='769' r='5' fill='yellow' stroke='black' id='Le Conte Ave=2663='/>
+<circle cx='403' cy='467' r='5' fill='yellow' stroke='black' id='La Loma Ave=1644='/>
+<circle cx='415' cy='195' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1551='/>
+<circle cx='417' cy='706' r='5' fill='yellow' stroke='black' id='Virginia St=2666='/>
+<circle cx='421' cy='540' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2680='/>
+<circle cx='425' cy='534' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2682='/>
+<circle cx='427' cy='767' r='5' fill='yellow' stroke='black' id='Le Conte Ave=2669='/>
+<circle cx='438' cy='144' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1555='/>
+<circle cx='441' cy='192' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1553='/>
+<circle cx='442' cy='541' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2694='/>
+<circle cx='446' cy='536' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2692='/>
+<circle cx='446' cy='536' r='5' fill='yellow' stroke='black' id='La Loma Ave=1670='/>
+<circle cx='461' cy='581' r='5' fill='yellow' stroke='black' id='La Loma Ave=1680='/>
+<circle cx='464' cy='602' r='5' fill='yellow' stroke='black' id='La Loma Ave=1688='/>
+<circle cx='473' cy='459' r='5' fill='yellow' stroke='black' id='La Loma Ave=1647='/>
+<circle cx='475' cy='301' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1590='/>
+<circle cx='476' cy='102' r='5' fill='yellow' stroke='black' id='Buena Vista Way=2750='/>
+<circle cx='477' cy='453' r='5' fill='yellow' stroke='black' id='La Loma Ave=1641='/>
+<circle cx='479' cy='696' r='5' fill='yellow' stroke='black' id='La Loma Ave=1700='/>
+<circle cx='480' cy='245' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1570='/>
+<circle cx='482' cy='448' r='5' fill='yellow' stroke='black' id='La Loma Ave=1643='/>
+<circle cx='486' cy='442' r='5' fill='yellow' stroke='black' id='La Loma Ave=1645='/>
+<circle cx='488' cy='757' r='5' fill='yellow' stroke='black' id='Le Conte Ave=2695='/>
+<circle cx='521' cy='435' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2709='/>
+<circle cx='538' cy='533' r='5' fill='yellow' stroke='black' id='La Loma Ave=1675='/>
+<circle cx='539' cy='609' r='5' fill='yellow' stroke='black' id='Virginia St=2701='/>
+<circle cx='544' cy='233' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1585='/>
+<circle cx='544' cy='388' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1606='/>
+<circle cx='549' cy='581' r='5' fill='yellow' stroke='black' id='La Loma Ave=1683='/>
+<circle cx='549' cy='581' r='5' fill='yellow' stroke='black' id='La Loma Ave=1683=back rental'/>
+<circle cx='560' cy='676' r='5' fill='yellow' stroke='black' id='La Loma Ave=1705='/>
+<circle cx='563' cy='278' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1591='/>
+<circle cx='567' cy='432' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1616='/>
+<circle cx='570' cy='713' r='5' fill='yellow' stroke='black' id='La Loma Ave=1709='/>
+<circle cx='585' cy='221' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1589='/>
+<circle cx='586' cy='737' r='5' fill='yellow' stroke='black' id='La Loma Ave=1715='/>
+<circle cx='593' cy='548' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1680='/>
+<circle cx='594' cy='282' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1595='/>
+<circle cx='595' cy='587' r='5' fill='yellow' stroke='black' id='Virginia St=2711=#A'/>
+<circle cx='595' cy='587' r='5' fill='yellow' stroke='black' id='Virginia St=2711=#B'/>
+<circle cx='595' cy='587' r='5' fill='yellow' stroke='black' id='Virginia St=2711=#D'/>
+<circle cx='595' cy='587' r='5' fill='yellow' stroke='black' id='Virginia St=2711='/>
+<circle cx='595' cy='587' r='5' fill='yellow' stroke='black' id='Virginia St=2711=C'/>
+<circle cx='606' cy='407' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1615='/>
+<circle cx='616' cy='364' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1609='/>
+<circle cx='617' cy='335' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1601='/>
+<circle cx='621' cy='329' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1603='/>
+<circle cx='632' cy='664' r='5' fill='yellow' stroke='black' id='Virginia St=2708='/>
+<circle cx='641' cy='729' r='5' fill='yellow' stroke='black' id='Virginia St=2706='/>
+<circle cx='644' cy='484' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1629='/>
+<circle cx='647' cy='507' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1631='/>
+<circle cx='651' cy='530' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1633='/>
+<circle cx='652' cy='583' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1701='/>
+<circle cx='653' cy='551' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1639='/>
+<circle cx='679' cy='715' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1700='/>
+<circle cx='680' cy='663' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1724='/>
+<circle cx='682' cy='502' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2772=Lower Unit'/>
+<circle cx='704' cy='562' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1731='/>
+<circle cx='705' cy='659' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1730='/>
+<circle cx='717' cy='397' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2777='/>
+<circle cx='730' cy='493' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2776='/>
+<circle cx='731' cy='557' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1735='/>
+<circle cx='743' cy='718' r='5' fill='yellow' stroke='black' id='La Vereda Rd=1732='/>
+<circle cx='782' cy='550' r='5' fill='yellow' stroke='black' id='Hilgard Ave=2805='/>

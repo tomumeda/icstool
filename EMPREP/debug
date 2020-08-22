@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+>>22 ::Timestamp::LastName::FirstName::StreetName::StreetAddress::subAddress::DivisionBlock::HomePhone::CellPhone::EmailAddress::OtherContactInfo::SkillsForEmergency::CERTClasses::BirthYear::EmergencyContactInfo::SpecialNeeds::Visitors::Pets::EmergencyEquipment::ACAlertSignUp::GasShutOffValveInfo::Comments::InactiveMember<<
+
+>>22 ::0::Last Name::First Name::Street Name of residence location::Address on Street (numbers only)::Specific location at address, e.g., unit number, back cottage, etc.::EmPrep Division and Block designation of residence::Home Phone Number::Cell Phone Number::Email address to use for EmPrep::Other Contact Info (Business Phone, Business Email,etc.)::Skills that are useful during disasters (Search and Rescue, First Aid, Fire Suppression, Communications, etc.)::CERT classes taken (type,date)::Your birth year::People outside the neighborhood to notify of your status (Name, phone, email)::List people with mobility problems and medical issues, and children that may need care (Format: issue, name, birthyear, e.g. Child,John Doe,2009). Only one entry per household please.::List short term (less than a year) visitors who are regularly in the structure, e.g., weekly house keeper, month long visiting relatives, etc. (Format: Name, Days present). Long term tenants should have their own spreadsheet record. Only one entry per household.::Pets (Format: Description, Name). Only one entry per household.::List resources that you are willing to share in a disaster (the number of people you are able to shelter for 1-3 days, food, ladders, cribbing, etc.). Only one entry per household.::Alameda County Alert (ACA) System Sign Up::Gas Shut Off Valve Description (Location on property, type:auto or manual, photo). Only one entry per household.::Any other comments If you leave the EmPrep group::If you leave the EmPrep group<<
+
+2 ::Timestamp:2/1/2016  2/1/2016
+>>22 ::2/1/2016::Hill::Mary::Cedar St::2644::::A2::510 684-5347::510 684-5347::hillbkhp@gmail.com::::::::::::::::::::::::Away May-October::<<
+
+3 ::Timestamp:2/1/2016  2/1/2016
+>>22 ::2/1/2016::Toffey::Kyle::La Vereda Rd::1555::::::::::toffey@pobox.com::::::::::::::en::dog (nuala) Jindo::Ladder (20' Ext), Jacks(Auto)::::::::yes<<
+
+4 ::Timestamp:3/1/2016 10:25:06  3/1/2016 10:25:06
+>>22 ::3/1/2016 10:25:06::Rossetto::Louis::La Vereda Rd::1732::::::510 841-7567::415 271-0159::louis@forca.com::::First Aid::::::::::Spouse: Jane MetcalfeChildren: Zoe Metcalfe (1999); Orson (1997)Housekeeper: Glenda Calderon (Tuesday, Friday)::Bird (cockatiel=Lemon)::Water, MREs::::::::<<
+
+5 ::Timestamp:6/2/2016 9:54:52  6/2/2016 9:54:52
+>>22 ::6/2/2016 9:54:52::Crooks::Arlene::La Vereda Rd::1609::::::510 833-1941::::arapena@hush.com::::::::::::::B&B visitors::Cat (white named Sultan), old dog (Stripe)::::::::::<<
+
+6 ::Timestamp:7/1/2016 12:52:06  7/1/2016 12:52:06
+>>22 ::7/1/2016 12:52:06::Stonier::Linda::Hilgard Ave::2694::::::510 644-2103::415 254-0031::lindajstonier@gmail.com::::Communications::::::::Sarah Isen (9/17/99) type 1 diabetic, insulin dependent::Molly Isen 7/26/95 in college but lives part time at home; 5 Cal student tenants at 2692 Hilgard (downstairs unit)::Cat: Opal (Siamese)2 dogs: Italian greyhound/chihuahua (toy size) Alfie, Gabby::Tools, ladder, shelter::::::Carol Isen, spouse, also lives at the address.::<<
+
+7 ::Timestamp:7/14/2016 8:10:52  7/14/2016 8:10:52
+>>22 ::7/14/2016 8:10:52::Dixon::Leslie::La Loma Ave::1700::::::::310 666-5972::lesliebdixon@gmail.com::::::::::::Thomas (son) 310-666-7098::Frank Brooks (renter) 415-459-1358; Jack Penix (renter)::2 Rabbits Snickers (black & white male Rex), Lucy (female New Zealand white)::::::::::<<
+
+8 ::Timestamp:7/14/2016 8:11:13  7/14/2016 8:11:13
+>>22 ::7/14/2016 8:11:13::Ropelewski::Tom::La Loma Ave::1700::::::::310 666-5972::tomropelewski@gmail.com::::::::::::Thomas (son) 310-666-7098::Frank Brooks (renter) 415-459-1358Jack Penix (renter)::2 Rabbits Snickers (black & white male Rex), Lucy (female New Zealand white)::::::::::<<
+
+9 ::Timestamp:8/2/2016 5:41:51  8/2/2016 5:41:51
+>>22 ::8/2/2016 5:41:51::Clark::Susan::Buena Vista Way::2750::::A3::510 644-0159::510 292-0920::sclark963@gmail.com::::Search and Rescue::::::::Chemical hypersensitivity: esp plywood, fiberboard, aldehydes::::::::::::Jack: 530 273-8246: Naomi & Walter: 916-456-4038::yes<<
+
+10 ::Timestamp:8/2/2016 16:55:46  8/2/2016 16:55:46
+>>22 ::8/2/2016 16:55:46::Fallon::Alisa::Virginia St::2711::::::::::alisafallon@yahoo.com::::::::::::::::::::::::::yes<<
+
+11 ::Timestamp:9/1/2016 12:08:47  9/1/2016 12:08:47
+>>22 ::9/1/2016 12:08:47::Fraker::Molly::La Vereda Rd::1595::::::510 548-7830 (home); 510 644-6244 (work)::510-872-7830::mollyf@onemain.com::::::::::::::Son(Colin; 10/89; 510-847-1519; in NYC) , Son(Will; 1/93; 510-847-5588; in NYC), Tenant: Lars 510-207-4560::Dog (golden retriever=Yolo)::Ladders, camp stove, sleeping bags, power tools::::::::<<
+
+12 ::Timestamp:9/12/2016 20:06:48  9/12/2016 20:06:48
+>>22 ::9/12/2016 20:06:48::Lama::Phulam::Virginia St::2708::::::510 841-1481::510 541-0536::joanseear@yahoo.com::::First Aid::::::::Children: Sailung, 20 yrs, Suna: 17yrs, Koshi: 17yrs::Lawrence Talbot::cat-chocolate (Thumper)::3 ladders, sledge, crutches::::::::<<
+
+13 ::Timestamp:10/1/2016 16:29:32  10/1/2016 16:29:32
+>>22 ::10/1/2016 16:29:32::Titus::Lisa::La Loma Ave::1705::::::510 898-1323::510 701-3210::titusmcdonnell@gmail.com::::Communications::::::::Children(Paul , John, Jake, Owen)::::Lily, dog 75 lbs.::20' ladder (lower garage), ax, water, bed (6),::::::::<<
+
+14 ::Timestamp:11/1/2016  11/1/2016
+>>22 ::11/1/2016::Streiff::Madeline::La Vereda Rd::1590::::::510 841-7388::410 530-6549::m.streiff@yahoo.com::::::::::::::::::::::::::<<
+
+15 ::Timestamp:11/1/2016 12:31:10  11/1/2016 12:31:10
+>>22 ::11/1/2016 12:31:10::Brunner::Wendel::La Vereda Rd::1629::::::510-841-7778::925 260-3107::wendel.brunner@gmail.com::::First Aid::::1944::::::::::Water, 1st aid, warm blankets::::::::<<
+
+16 ::Timestamp:11/3/2016 15:13:29  11/3/2016 15:13:29
+>>22 ::11/3/2016 15:13:29::Lubner::Sean::La Loma Ave::1683::::::::203 520-4503::seanlubner@gmail.com::::Fire Suppression, Communications::::::::::Imran Khan 254-421-3652::::basic first aid kit: bandaids, pain killers, gauze::::::::yes<<
+
+17 ::Timestamp:11/6/2016 20:21:57  11/6/2016 20:21:57
+>>22 ::11/6/2016 20:21:57::Bryant::Emily::Hilgard Ave::2672::::::::619 587-6569::::::::::::::::::::::::::::<<
+
+18 ::Timestamp:12/1/2016  12/1/2016
+>>22 ::12/1/2016::Dundes::David::La Vereda Rd::1590::::::510 841-7388::925 708-3987::dmdundes@gmail.com::::::::::::::::::Ladder::::::::yes<<
+
+19 ::Timestamp:12/1/2016  12/1/2016
+>>22 ::12/1/2016::Dundes::Lauren::La Vereda Rd::1590::::::::410 530-6548::ldundes@mcdaniel.edu::::::::::::::::::::::::::<<
+
+20 ::Timestamp:12/10/2016  12/10/2016
+>>22 ::12/10/2016::Murphy::Wanita::La Loma Ave::1530::::::510 644-9415::::::::::::::::::::::::::::::<<
+
+21 ::Timestamp:12/19/2016 20:43:34  12/19/2016 20:43:34
+>>22 ::12/19/2016 20:43:34::Sklar::Hillary::La Loma Ave::1641::::::::714 615-0475::Hsklar95@gmail.com::::understands animals::::::::::::Cats; black and white, black::Camping gear::::::::<<
+
+22 ::Timestamp:12/19/2016 20:45:15  12/19/2016 20:45:15
+>>22 ::12/19/2016 20:45:15::Haffner::Stephanie::La Loma Ave::1641::::::::510 332-7641::shaffner@igc.org::::::::::::::::Cat: black and white, black::Camping gear::::::::<<
+
+23 ::Timestamp:1/29/2017 10:11:52  1/29/2017 10:11:52
+>>22 ::1/29/2017 10:11:52::McDonnell::Mike::La Loma Ave::1705::::::510 898-1323::510 701-6848::titusmcdonnell@gmail.com::::::::::::Children: Paul, John, Jacob, Owen::::::20' ladder(lower grade), ax, watershelter: 8+ bed(6), cot(2)::::::::<<
+
+24 ::Timestamp:1/29/2017 10:19:00  1/29/2017 10:19:00
+>>22 ::1/29/2017 10:19:00::Wan::Jessica::La Loma Ave::1709::::::::415 509-1757::spotlight@gmail.com::::::::::::::::::::::::::<<
+
+25 ::Timestamp:2/1/2017 21:13:01  2/1/2017 21:13:01
+>>22 ::2/1/2017 21:13:01::Clemency::Mary::La Vereda Rd::1631::::::510 849-4517::510 579-5044::m6clem@gmail.com::::::::::::::::::::::::::<<
+
+26 ::Timestamp:2/1/2017 22:12:30  2/1/2017 22:12:30
+>>22 ::2/1/2017 22:12:30::Metcalfe::Jane::La Vereda Rd::1732::::::510 841-7567::415 601-2332::jane@forca.com::::Fire Suppression::Fire Suppression Sept 2007::::::::Housekeeper (Glenda) speaks no English, here on Tuesdays and Fridays.::Bird (cockatiel=Lemon)::Water, MREs, tools, i.e. saw, crow bar, shovel, ladders, multiple pairs of crutches, blood pressure monitor.::::::::<<
+
+27 ::Timestamp:2/2/2017 22:12:14  2/2/2017 22:12:14
+>>22 ::2/2/2017 22:12:14::Schmidt::Laura::La Vereda Rd::1601::::::510 649-0635::510 918-5225::Laura.Schmidt@ucsf.edu::::Communications::::::::Child: Eliza(born:2002)::Renter in 1603 inlaw unit::Dogs(Phoebe, Surfer)Canary(SHerbert)::::::::::<<
+
+28 ::Timestamp:2/3/2017 12:13:54  2/3/2017 12:13:54
+>>22 ::2/3/2017 12:13:54::DeNero::Henry::Le Conte Ave::2695::::::::626 253-2773::htdenero@gmail.com::::::::::::::::Frances (6 pound Yorkshire Terrier)::Temporary housing in two guest bedrooms, each accommodating 2 adults in a Queen or King sized bed, and 1 or 2 children on foam or fold out beds, each room with a full bath.Typical tools such as step ladder, drills, and hand tools.::::::::<<
+
+29 ::Timestamp:2/8/2017 15:07:50  2/8/2017 15:07:50
+>>22 ::2/8/2017 15:07:50::Neil::Carol::La Loma Ave::1675::::::510 845-4674::510 908-4810::carolneil@me.com::::First Aid::::::::::Laura van Hoff (daughter) Randy Morris (Oregon neighbor)::Dog (Black Lab) Nell::Well and cistern, couple of ladders in the pump::::::::yes<<
+
+30 ::Timestamp:2/26/2017 22:41:27  2/26/2017 22:41:27
+>>22 ::2/26/2017 22:41:27::Dasgupta::Shamik::La Vereda Rd::1606::::::::917-216-8681::shamik@shamik.net::::::::::::::::::Depends on the state of the house in the emergency, but possibly can provide shelter for 2.::::::::<<
+
+31 ::Timestamp:2/26/2017 22:45:29  2/26/2017 22:45:29
+>>22 ::2/26/2017 22:45:29::Abt::Emily::La Vereda Rd::1606::::::::646-894-5653::shamik@shamik.net::::::::::::Dylan Dasgupta (DOB 11/05/2009)Elowyn Dasgupta (DOB 11/12/2011)::::::::::::::<<
+
+32 ::Timestamp:5/1/2017 17:26:38  5/1/2017 17:26:38
+>>22 ::5/1/2017 17:26:38::Chew Spence::Matt::La Loma Ave::1647::::::510 649-6959::510 303-6288::chewspence@yahoo.com::::::::::::::::::::::::::<<
+
+33 ::Timestamp:6/1/2017 10:40:56  6/1/2017 10:40:56
+>>22 ::6/1/2017 10:40:56::Medak::Susie::La Loma Ave::1530::::::(510)644-9415::(510)543-5443::smedak@sbcglobal.net::::::::::::::Benjamin Murphy, Wanita Murphy, occasional tenants in rental unit::Dogs: Hershey::Canopies (2); basic tools; camping gear (tent, stove, sleeping bags, etc.)::::::::<<
+
+34 ::Timestamp:7/3/2017 12:19:09  7/3/2017 12:19:09
+>>22 ::7/3/2017 12:19:09::Wollak::Jerzy::La Vereda Rd::1615::::::510-704-9922::415-845-4685::jerzy.wollak@gmail.com::::architect::::::::::::::20' extension ladder in garage, ax, heavy pry bar, fire wood::::::::Yes<<
+
+35 ::Timestamp:7/31/2017 21:37:24  7/31/2017 21:37:24
+>>22 ::7/31/2017 21:37:24::Carroll::Kenneth::La Vereda Rd::1615::::B1::::202-669-8727::Kejaca@verizon.net::415-489-6536::::::::Kevin Carroll (brother) – (775) 843-5815::::::Cat(name Tofu)::ladder 20 foot extension, located in our garage and hanging horizontal on the south wall. We have two basic handsaws (not large, each with 10 blades), also in garage and hanging from white shelf brackets on the south wall., Shelter 2-3 persons::::::::No<<
+
+36 ::Timestamp:7/31/2017 21:40:32  7/31/2017 21:40:32
+>>22 ::7/31/2017 21:40:32::Zorrilla::Carlos::La Vereda Rd::1615::::B1::::(619) 888-0064::Czorrilla1@gmail.com::::First Aid::::::Pepe Zorrilla (brother) – (714) 724-4526::::::::::::::::No<<
+
+37 ::Timestamp:9/1/2017 10:08:51  9/1/2017 10:08:51
+>>22 ::9/1/2017 10:08:51::DeNero::Nancy::Le Conte Ave::2695::::C1::::626 840-5178::nsdenero@mac.com::::::::1946::Karen Dearing (daughter in Menlo Park) (650) 427-9161; kfdearing@gmail.com::::Janeth and 3 cleaning ladies @ 10am -noon Thursdays::6 lb. Yorkie named Frances::5-6 people short-term;::::Automatic shut off::::<<
+
+38 ::Timestamp:10/1/2017 21:07:20  10/1/2017 21:07:20
+>>22 ::10/1/2017 21:07:20::Olsen::Valorie::Virginia St::2706::::B2::510 841-8285::510 847-8141::valorieo@earthlink.net::::::Fire suppression, first aid, years unknown::1944::erin mallory 707 228-6275; bryn mallory 510 590-8569::::David Cohen, tenant::black cat with white markings, light brown cat, both are feral but are fed on my north deck twice a day. As altered cats they have a notch in their ears.::3 people, lumber under my deck, tools in basement open to outside::::gas meter by basement door with automatic shutoff::::<<
+
+39 ::Timestamp:11/1/2017 17:44:33  11/1/2017 17:44:33
+>>22 ::11/1/2017 17:44:33::Wong::Marilyn::La Loma Ave::1628::::::510 665-7947::510 681-3220::marilyn.p.wong@gmail.com::::Fire Suppression, First Aid, Search and Rescue, medical::::1951::::::::Rabbit (Panda)::::::::::<<
+
+40 ::Timestamp:1/1/2018 10:54:10  1/1/2018 10:54:10
+>>22 ::1/1/2018 10:54:10::Grossman::Bonnie::Cedar St::2661::::::510-549-1055::510 847-8405::amesgal@comcast.net::510-845-4949(business)::Cooking::::1934::Michael at michael_grossman@mac.com, Deborah at deborahjgrossman@gmail.com::I use a cane on the stairs and for difficult walking::Employees(Sherry; Mon-Thurs 10:30-2:30), Housekeeper(Thurs 10:30-2:30)::::3 small fire extinguishers, 6' ladders (on in the garage, one upstairs), crowbars, big pots for cooking soups and lots of (soups) food in my freezer.::::::::<<
+
+41 ::Timestamp:1/2/2018 13:08:13  1/2/2018 13:08:13
+>>22 ::1/2/2018 13:08:13::Schneider::Elizabeth::Hilgard Ave::2672::::::::510 926-9059::elizabeth.schneider@gmail.com::::::::::::::::Cat: Domestic Longhair(White Male) Snowy, Cat: Domestic Longhair(Calico Female) Cleo::::::::::Yes<<
+
+42 ::Timestamp:2/1/2018 13:32:19  2/1/2018 13:32:19
+>>22 ::2/1/2018 13:32:19::McKee::Suzanne::Virginia St::2666::::::510 644-3705::510 684-7994::suzannemckee4@gmail.com::::Cooking::::::::::::Cat(grey-tan tabby, name:Belle)::water::::::::<<
+
+43 ::Timestamp:5/1/2018 11:49:21  5/1/2018 11:49:21
+>>22 ::5/1/2018 11:49:21::Sher::Alan::La Vereda Rd::1680::::::510 540-6672::510 499-9402::suziandalan@gmail.com::::First Aid, MD,Pediatrics::Earthquake prep Berkeley Fire Dept 2010::1949::Morgan Sher 510-326-9188::::::2 cats: Gato (male Bengal) Kedi (female Bengal)::::::Auto North side of house::Thank you everyone for all your work!::No<<
+
+44 ::Timestamp:7/4/2018 9:04:06  7/4/2018 9:04:06
+>>22 ::7/4/2018 9:04:06::Simon::Leo::La Vereda Rd::1730::::::(510)841-1386::(510)917-2916::leosimon@berkeley.edu::::First Aid, Search and Rescue, Communications::::1948::Nhu Goodhue , 515-710 1881, nhu@goodhue.org::::::Basset hound, Lucy   ; Basset hound, Zoey::maybe 1-2 ladders, shelter(10-12)::::auto::::<<
+
+45 ::Timestamp:8/1/2018 17:13:41  8/1/2018 17:13:41
+>>22 ::8/1/2018 17:13:41::Schlesinger::Sandra::Le Roy Ave::1619::::::::415 328-6311::sandra.schles@gmail.com::::::::::::::::Dog (bichon frise), Isabella (Izzy)::::::Auto shut off::::<<
+
+46 ::Timestamp:8/1/2018 17:22:13  8/1/2018 17:22:13
+>>22 ::8/1/2018 17:22:13::Block::Gladys::Le Conte Ave::2634::::::510 704-8554::510 301-2984::gblock@berkeley.edu::::::::1938::Andrew Block, 510-529-5056; Torin Block, 510-684-6806::::::Dog, Romeo::Ladders, other tools, crutches::::::::<<
+
+47 ::Timestamp:8/25/2018 11:22:59  8/25/2018 11:22:59
+>>22 ::8/25/2018 11:22:59::Baum::Amelia::La Vereda Rd::1616::1/2 The Studio::::::650 504-9242::amelia.baum@berkeley.edu::::::::1997::Sam Baum (650) 218-6059 sam_baum@yahoo.com::none::none::none::see Yvonne Burgess entry::::see Yvonne Burgess entry::::<<
+
+48 ::Timestamp:9/5/2018 7:59:37  9/5/2018 7:59:37
+>>22 ::9/5/2018 7:59:37::Mullen::Don::La Vereda Rd::1589::::::510 644-8238::650 380-0737::dbmullen008@gmail.com::::Search and Rescue, (Retired architect)::::::::::::::::::::::Yes<<
+
+49 ::Timestamp:10/1/2018 8:25:06  10/1/2018 8:25:06
+>>22 ::10/1/2018 8:25:06::Segal::Fran::Le Conte Ave::2611::::::510 549-1231::510 301-7425::seagull@sonic.net::::First Aid, couseling,CERT-mental health::CERT mental health (I’m a psychologist)::1950::Roger Van Ouytsel510 301-7424Rogervo@sonic.net::Medical(daily medication)::1. Tenant(Student)2. My partner, Roger Van Ouytsel is here 50% time::::Tools (LADDER,8ft)::::Manual, on the west side of my building::::<<
+
+50 ::Timestamp:10/15/2018 22:01:37  10/15/2018 22:01:37
+>>22 ::10/15/2018 22:01:37::Zentner::Jenny::La Vereda Rd::1731::::::::510 847 1648::jennyzentner@mac.com::::Fire Suppression, First Aid::::1951::son Robert Zentner / 510 851 1918 / robertpz@mac.com::::James renter in lower unit/ Housekeeper works every other week on Thursday/ Husband Robert Perry Zentner (No place on form for his name)::Dog (Bodhi) Brown Cocker Spaniel / Cat #1 (Crybaby) Black color/ Cat #2 (Yoda) Black color::Ladder 8 ft::::::Husband Robert Perry Zentner contact cell 510 847 9963::<<
+
+51 ::Timestamp:10/25/2018 14:30:57  10/25/2018 14:30:57
+>>22 ::10/25/2018 14:30:57::Rosenthal::David::Hilgard Ave::2776::::::510 841-0767::510 847-4945::evayarmo@gmail.com::::::::1938::::wife has physical limitations due to Parkinson's Disease - also medications needed for the above::::::::::Has auto shut off valve - on first landing off steps between upper and lower driveways::::<<
+
+52 ::Timestamp:1/1/2019 22:34:13  1/1/2019 22:34:13
+>>22 ::1/1/2019 22:34:13::Moore::Colin::Virginia St::2711::C::::510 883-1149::510 859 5981::cmoorex@comcast.net::::First Aid, Search and Rescue, Fire Suppression, Communications, some construction & handyman skills::::1953::Tori Casanova (daughter) Home 925 376-4821; mobile 510 529-5360::::::Dog (small gray terrier), Frizzle::Garden and shop tools, elec. chain saw, prybars, ladders, elec. radial arm saw, car jack, walkie-talkies, emergency radio, cribbing::No::automatic::::<<
+
+53 ::Timestamp:1/1/2019 23:13:04  1/1/2019 23:13:04
+>>22 ::1/1/2019 23:13:04::Trippe::Tom::La Vereda Rd::1551::::A1::510 548-8435::510-529-5721::trippe321@gmail.com::::::::::::::::::::Yes::::partially restored info::No<<
+
+54 ::Timestamp:1/2/2019 10:00:29  1/2/2019 10:00:29
+>>22 ::1/2/2019 10:00:29::McKee::Chris::Virginia St::2666::::::::510 593-4312::cmckee@astro.berkeley.edu::::::::1942::Maria McKee 415-505-8742::::Tenants(Kolen and Ivy Cheung)::Cat(name=Belle)::::Yes::::::<<
+
+55 ::Timestamp:1/4/2019 12:08:01  1/4/2019 12:08:01
+>>22 ::1/4/2019 12:08:01::Yarmo::Eva::Hilgard Ave::2776::::::510 841-3324::510 507-9623::evayarmo@gmail.com::::::::1941::::Parkinson's Disease, Physical limitations and medications related to PD: Medication in Emergency Backpack in coat closet by front door::housekeeper, Maria, comes monday PM and Thursday AM::::::::right off first landing on steps between upper and lower driveways::::<<
+
+56 ::Timestamp:1/24/2019 17:19:03  1/24/2019 17:19:03
+>>22 ::1/24/2019 17:19:03::Thompson::Daniella::Le Conte Ave::2663::::C3::510-644-9344  510-616-1386::::dt@daniellathompson.com::::Communications::Disaster Preparedness, Light Search & Rescue, Fire Suppression, ICS Command::1945::::::::::15 ft. ladder; gas shutoff wrench; some cribbing; shelter (1–2 people, no plumbing)::Yes::2 automatic Little Firefighter shut-off valves on west side of house, behind a low door.::::<<
+
+57 ::Timestamp:2/2/2019 0:07:30  2/2/2019 0:07:30
+>>22 ::2/2/2019 0:07:30::Leinbach::Hannah (Mimi)::La Vereda Rd::1591::::::::510 852-4044::mimi@schork.com::::::::::::Child, Stella,2004 Child, Flora, 2007 (no special needs)::::dog, Cinnamon cat, Maui::::::::::<<
+
+58 ::Timestamp:3/1/2019 12:07:46  3/1/2019 12:07:46
+>>22 ::3/1/2019 12:07:46::Wallace::Jo Anne::Cedar St::2647::::::510 649-8105::415 819-6631::jo.anne.wallace.sf@gmail.com::jo_anne_w@hotmail.com::Communications::::1940::Amy Wallace Harvey. 323-6333123 amywallace323@gmail.com::::::Dog(female terrier, 3 month old, (name: Maisie))::::Yes::There is an automatic gas shutoff valve at my apartment.::::<<
+
+59 ::Timestamp:4/1/2019 16:07:05  4/1/2019 16:07:05
+>>22 ::4/1/2019 16:07:05::O'Gillooly::Patricia::La Loma Ave::1644::::::(510)843-0283::(510)502-6122::patog@comcast.net::::::::1938::::::Octavio Narvaez Aroche ; (510)847-1664)::::6ft ladder,buckets,tools::::Back of house behind small square door auto shut off::::<<
+
+60 ::Timestamp:4/1/2019 20:38:00  4/1/2019 20:38:00
+>>22 ::4/1/2019 20:38:00::Umeda::Takato(Tom)::Le Roy Ave::1643::::A2::(510)548-1427::510 761-2280::takato@sonic.net::::Fire Suppression, First Aid, Communications, ICSTool::::1944::::::HouseKeeper(Bertha on Wednesdays)::occasional bengal cat: Bhima::Ladder(6 and 20 ft), Shelter(4 person),Tools(pry bar, hammer, saws)::Yes::Automatic shut off at front east corner of house under deck::::No<<
+
+61 ::Timestamp:6/1/2019 10:07:15  6/1/2019 10:07:15
+>>22 ::6/1/2019 10:07:15::Welch::Megan::La Vereda Rd::MOVED OUT OF AREA::PLEASE REMOVE FROM DATABASE, THANKS!::::::510 283-3554::mulorien@sonic.net::::::::::::::::::::::::::Yes<<
+
+62 ::Timestamp:6/2/2019 20:45:49  6/2/2019 20:45:49
+>>22 ::6/2/2019 20:45:49::Burgess::Yvonne::La Vereda Rd::1616::::::510 947-5476::415 816-2674::ymburgess@gmail.com::business: 415-930-9090::Communications::::1959::::::::::ladders (under studio stairs), medical supplies (crutches, braces, bandaging, in basement), cribbing material at NW corner of property; gas chain saw in (not usually locked) closet behind garage (extra keys in cache); gasoline cans (shelf near north fence by studio stairs) camp gear (stove, sleeping bags in garage), blankets and bedding (in basement); bike, scooter in garage ... many other resources ...::::::::<<
+
+63 ::Timestamp:6/6/2019 8:32:46  6/6/2019 8:32:46
+>>22 ::6/6/2019 8:32:46::Li::Stacy::La Vereda Rd::1603::::B1::::510-301-3678::stacysmkl@gmail.com::::::::::Lizzy Klingen: (480)-313-0612Nikki Duong: (714)-907-6384::::::Dog	 Shiba Inu (red-brown)    Bolt::::::::::<<
+
+64 ::Timestamp:6/6/2019 8:35:55  6/6/2019 8:35:55
+>>22 ::6/6/2019 8:35:55::Shweh::Peter::La Vereda Rd::1603::::B1::::925-270-9979::pshweh@gmail.com::::::::::Jim Shweh (father): (510)-589-2111Lilei Chen (mother): (925)-381-6375::::::::::::::::No<<
+
+65 ::Timestamp:6/12/2019 22:27:36  6/12/2019 22:27:36
+>>22 ::6/12/2019 22:27:36::Petiet::Carole::La Loma Ave::1683::::C2::510 843-6760::510 409-8458::carolepetiet@gmail.com::::First Aid, Nurse,psychologist::::1952::Dave Pettit 503-830-4030::::Tenants: Theresa Nguyen, cell: 669-207-9845; Sherif Halim, cell: 408-391-0222; my daughter Nicole Petiet is again living in the basement and plans to remain here, 510-409-8458::Nicole has a small, elderly, black (rescue) dog named Wezee::3 tents, 5 sleeping bags, climbing ropes, regular and extension ladders, tools, bbq propane tank on deck, some food reserves, large water heater for water in emergency (if it does not break in a bad situation)::Yes::::::<<
+
+66 ::Timestamp:7/1/2019 11:15:40  7/1/2019 11:15:40
+>>22 ::7/1/2019 11:15:40::Rosen::Ruth::La Vereda Rd::1629::::::510 841-7778::510 851-0213::ruthrosen3@gmail.com::Gina Wright is living in the basement studio::::::1945::::replaced knee so can no longer help with rescue::Housekeeper on Wednesday::::Water, 1st aid, warm blankets::::::I was inactive because I had a number of foot problems and then a full knee transplant. But I should not be listed as someone who's disabled. Wendel Brunner no long lives here.::No<<
+
+67 ::Timestamp:7/1/2019 11:43:56  7/1/2019 11:43:56
+>>22 ::7/1/2019 11:43:56::Bronstein::Eli::La Vereda Rd::1616::1/2 studio above the garage::::541 520-2910::541 520-2910::ebronstein@berkeley.edu::::::::1997::::::::::::::::::Yes<<
+
+68 ::Timestamp:8/1/2019 21:42:49  8/1/2019 21:42:49
+>>22 ::8/1/2019 21:42:49::Foote::Alexandra::La Vereda Rd::1553::::::::::afootelaw@gmail.com::::::::::::::::Dog::::::::::No<<
+
+69 ::Timestamp:8/2/2019 4:13:00  8/2/2019 4:13:00
+>>22 ::8/2/2019 4:13:00::Kaderadli::Rehana::Ridge Rd::2615::Unit B::::::319 471-2920::krehana@gmail.com::Rak5@berkeley.edu::First Aid, Search and Rescue, FirstAid,CPR::::1971::(610) 745 - 7733::::Emily Chaffin, often visits::::Hammer, small saw, ladder::Yes::::::<<
+
+70 ::Timestamp:8/19/2019 17:04:12  8/19/2019 17:04:12
+>>22 ::8/19/2019 17:04:12::Zilinskas::Alex::La Vereda Rd::1616::The Green Suite::::7084469270::7084469270::alexzilinskas@gmail.com::::::::1996::Maggie Zilinskas, 7084214429, zilinskas.amc@att.net::::::::::No::::::<<
+
+71 ::Timestamp:7/1/2019 9:34:00  7/1/2019 9:34:00
+>>22 ::7/1/2019 9:34:00::Signaigo::Susan::La Loma Ave::1670::::C1::510 848-6100::Susan 510 816-9719; Adam 415 215-8729::susansignaigo@gmail.com::::First Aid,RN::::::::::Patrick Sheets::::Ladder(6ft,12ft), shovels in garage, shelter(4-5)::::::::No<<
+
+>>22 ::::Adams::Jane::Virginia St::2701::::::510 549-2701::510 254-1938::janehadams@gmail.com::::Fire Suppression, Communications::::::::::::::::::::::<<
+
+>>22 ::::Adams::Chris::Virginia St::2701::::::510 549-2701::510 847-6078::cjadamsmail@sbcglobal.net::::Search and Rescue, First Aid, Fire Suppression::::::::::::::Shelter (2 people), Tools (small crowbar, shovels, basic tool box stuff)::::::::<<
+
+>>22 ::::Andersen::Richard::Hilgard Ave::2777::::::510 848-7406::::::::::::::::::::::Water, beans, tuna, blankets, tools::::::::<<
+
+>>22 ::::Barschi::Edith (Edie)::Le Roy Ave::1597::::::510 486-0846::510 847-7860::edie@sophocles.com::::First Aid, Search and Rescue, Fire Suppression::::::::::::::Ladder(6 ft), Shelter(4 people)::::::::<<
+
+>>22 ::::ben Izzy::Joel::La Loma Ave::1715::::::510 846-6196; 510 883-0883::510 854-0432::joel@storypage.com, jbenizzy@aol.com::::::::::::::Michaela & Elijah (young adults)::::::::::::<<
+
+>>22 ::::Benedict::Marion::Hilgard Ave::2805::::::510 841-6545::::marion_benedict@comcast.net::::First Aid::::::::::Hoang::::one fire extinguisher::::::::yes<<
+
+>>22 ::::Berg::Kirsten::La Vereda Rd::1551::::::510 548-8435::510-529-5722::kirstenberg@yahoo.com::::animals::::::::::::Dog (Frizzle)::::::::::<<
+
+>>22 ::::Berger::Anna::Buena Vista Way::2750::::::510 665-8637; 510 665-8636::510 821-4409::fokcal@aol.com::::Thad: Architect, construction skills::::::::::::::::::::::<<
+
+>>22 ::::Block::Cliff::Le Conte Ave::2634::::::510 704-8554::510 384 2510::clifbus@aol.com::::::::::::::::::::::::::<<
+
+>>22 ::::Borowiak::Barbara::La Loma Ave::1640::::::510 841-0473::510 684-6093::bgborowiak@gmail.com::::::::::::immobile(sciatica)::::::::::::::<<
+
+>>22 ::::Breen::Cate::Hilgard Ave::2772::Lower Unit::::510-549-1841::510 508-0876(emergencies only)::braisedlamb@yahoo.com::::First Aid, (psychological support during crisis)::::::::::::::::::::::<<
+
+>>22 ::::Casida::John::La Vereda Rd::1570::::A3::510 845-4956::::kefi328@sbcglobal.net::::FirstAid, Mental Health::::::::::::::Designs for emergency equip::::::::<<
+
+>>22 ::::Casida::Kati::La Vereda Rd::1570::::A3::510 845-4956::::kefi328@sbcglobal.net::::Mental Health::::::::::::::ladder (outside house), shelter(2 person)::::::::<<
+
+>>22 ::::Colella::Phillip::La Loma Ave::1546::::::510 843-6616::510 708-5998::PColella@lbl.gov::::Cooking::::::::::::::::::::::<<
+
+>>22 ::::Colt::Liz::Virginia St::2711::#D::::510 540-6276::510 495-4986::elizabethcolt@att.net::::First Aid,(psychotherapist)::::::::::::::::::::::<<
+
+>>22 ::::Curtis::Julia::La Vereda Rd::1553::::::::510 610-6104::julia.curtis@gmail.com::::::::::::Child (Cornelia 1 yr)::Toles::::Large water supply available::::::::yes<<
+
+>>22 ::::DeNero::John::La Loma Ave::1709::::::::415 203-1943::papajohn@gmail.com::::::::::::::::Dog (Shih Tzu), Samosa::::::::Emergency contact:Father: 614 471-2671; Karen: 650 427-9161::<<
+
+>>22 ::::deVries::Jan::La Vereda Rd::1701::::::510 843-7067::510 910-7272::devries@berkeley.edu::::::::::::::::::::::::::<<
+
+>>22 ::::deVries::Jeannie::La Vereda Rd::1701::::::510 843-7067::::jggdevries@gmail.com::::::::::::::::::::::::::<<
+
+>>22 ::::Donadio::Carlo::La Loma Ave::1636::::::::510-529-8880::geodonadio@iol.it::::::::::::Child(Pietro 9yr)::::::::::::::yes<<
+
+>>22 ::::Dubinsky::Al::Hilgard Ave::2692::::::510 548-8807::::al@alandubinsky.com::::::::::::::::Dog (American Eskimo=Gita)::Camping equipment: tents, Coleman stove, sleeping bags, pads, etc.::::::::yes<<
+
+>>22 ::::Edginton::Jane::Hilgard Ave::2709::::::510 843-6966::510 289-2066::jedginton@edg-law.com::::::::::::::::::Full backpacking/back country equipment, lg group-size water filter, cooking equipment::::::::<<
+
+>>22 ::::Evans::Mali::La Vereda Rd::1639::::::510 845-5781::510 484-1017::mali@lmi.net::::in finance::::::::::Nasibeh, mother sometimes visits::::::::::::<<
+
+>>22 ::::Evans::Layla::La Vereda Rd::1639::::::510 845-5781::::::::::::::::::::::::::::::<<
+
+>>22 ::::Evans::Rex::La Vereda Rd::1639::::::510 845-5781::415 235-7202::trex12001@yahoo.com::::banker::::::::::Nasibeh, mother sometimes visits::::2 ladders (one reaches 2nd floor), flashlights::::::Emergency contacts:Carla: 415/509-5267, Martha 703/768-2487::<<
+
+>>22 ::::Fallon::Kris::Virginia St::2711::#A::::510 647-8414::415 215-4890::krisfallon@yahoo.com::::Lifeguard,First Aid::::::::::(Child)::::::::::::yes<<
+
+>>22 ::::Fisher::Elena Rodriguez::La Loma Ave::1644::::::::505 280-4830::elenadrodriguez@gmail.com::::First Aid,Nurse Practicianer in Gastroenterology Practice::::::::::Jason Fisher after 11/2011::::::::::::yes<<
+
+>>22 ::::Fletcher::Daniel::La Loma Ave::1680::::::510 540-9324::510 219-0341::fletch@uclink.berkeley.edu::::::::::::::::::Tools(Emergency radio, shovels)::::::::<<
+
+>>22 ::::Fraker::Harrison::La Vereda Rd::1595::::::510 548-7830 (home); 510 665-1964 (work)::510 207-4906::fraker@berkeley.edu::::Architect, informed about buildings, construction skills::::::::::::::Ladders, camp stove, sleeping bags, power tools::::::::<<
+
+>>22 ::::Gahni::Tarek::La Loma Ave::1643::::::::415 867-0676::tghani@gmail.com::::backcountry camping, rock climbing::::::::::::::::::::::yes<<
+
+>>22 ::::Gardiser::Harry::La Vereda Rd::1585::::::510 845-8717::::hargard@aol.com, hargardis@yahoo.com::::help others with skills::::::::Wife in Wheelchair(WIFE'S CONDITION WILL IMPROVE BUT OVER A LONG PERIOD OF TIME OF UNKNOWN EXTENT AT THIS TIME)::ISABEL - HOME HELPER 7 DAYS 8AM-8PM::::Garden 12' ladder on north side of garage and 2 smaller ladders::::::::<<
+
+>>22 ::::Gardiser::Marian::La Vereda Rd::1585::::::510 845-8717::::margardis@aol.com::::::::::::::::::Garden & power tools::::::::<<
+
+>>22 ::::Gillespie::Michael::Cedar St::2696::::::510 845-0997::510 847-5053::mgillespie21@yahoo.com::::Search and Rescue::::::::::Maggie (daughter 6yrs), Ryan (son 4yrs)::Cat (orange and white, Bubba)::Ladder, fire extinguishers, axe::::::::<<
+
+>>22 ::::Gillespie::Nicola::Cedar St::2696::::::510 845-0997::415 595-4190::ngillespie26@gmail.com::::Nicola is a veterinarian::::::::::Maggie (daughter 3yrs), Ryan (son 1yr)::::Ladder, fire extinguishers, tent::::::::<<
+
+>>22 ::::Goodhue::Rachael::La Vereda Rd::1730::::::510 841-1386::916 849-9926::goodhue@primal.ucdavis.edu::::two economists who can count!::::::::::::::maybe 1-2 ladders::::::::<<
+
+>>22 ::::Guilford::Joan::Le Conte Ave::2617::::::::::::::::::::::::::::::::::::<<
+
+>>22 ::::Gurin::Ilya::Virginia St::2634::#25::::510 649-9379::Tamara 949 400-1296; Ilya 949 400-2638::tamara.holden-gurin@acgov.org::::Tamara: computers, hiker, backpacker; Ilya: hiker, backpacker, wilderness preparedness (Eagle Scout)::::::::::::::tent, camping gas stove, water filter, sleeping bag::::::::yes<<
+
+>>22 ::::Hansen::Hillary::Virginia St::2711::::::510 883-1149::510 705-2566::hansen.hillary@yahoo.com::::::::::::::::::::::::::<<
+
+>>22 ::::Hara::Carmel::Virginia St::2711::#B::::510 548-9899::510 219-2485::carmelhara1@pacbell.net::::::::::::::::::4 fire extenguishers in the building::::::::<<
+
+>>22 ::::Holden-Gurin::Tamara::Virginia St::2634::#25::::::949 400-1296::t_gurin@yahoo.com::::Communications::::::::::::::Tent ( 4-person), camping stove, camping gear::::::::<<
+
+>>22 ::::Holden-Gurin::Ilya::Virginia St::2634::#25::::510 649-9379::949 400-2638::t_gurin@yahoo.com::::hiker, backpacker, wilderness preparedness (Eagle Scout)::::::::::::::::::::::yes<<
+
+>>22 ::::Huang::Crystal::Hilgard Ave::2670::::::::530-574-6939::crystalhg@gmail.com::::Search and Rescue, Communications::::::::::::::::::::::<<
+
+>>22 ::::Isen::Richard::Hilgard Ave::2692::::::510 548-8807::510 821-2824::risen@clearsong.com::::Communications::::::::::::Dog(Tibetan Terrier, name:Ceban)::Camping equipment: tents, Coleman stove, sleeping bags, pads, etc.::::::::<<
+
+>>22 ::::Isen::Carol::Hilgard Ave::2694::::::510 644-2103::415 254-0049::cisen@clearsong.com::::::::::::::Molly (age: ) & Sarah Isen(age:)::Dog (mixed=Milo)&Cat (mixed =Opal )::::::::::<<
+
+>>22 ::::Jackson::Richard::Le Conte Ave::2617::::::::::::::::::::::::::::::::::::<<
+
+>>22 ::::Jackson::Robert::Le Roy Ave::1597::::::510 486-0846::Edi 510 847-7860::edie@sophocles.com::::::::::::::::::::::::::<<
+
+>>22 ::::Johnson::David::Le Roy Ave::1619::::::::::::::::::::::::::::::::::::<<
+
+>>22 ::::King::Kenton (Ken)::La Loma Ave::1525::::::510 540-7015; 510 540-7016::650 814-0312::kentonking@yahoo.com::::::::::::::::::::::::::<<
+
+>>22 ::::King::Kuniko::La Loma Ave::1525::::::510 540-7015; 510 540-7016::::kunikoking@yahoo.com::::::::::::::::::::::::::<<
+
+>>22 ::::Knight::Lynne::La Vereda Rd::1724::::::510 843-2419::510 333-7647::thislynneknight@gmail.com::::::::::::::::Dog::Tools(Shovels, sledge hammer, light weight extension ladder)::::::::yes<<
+
+>>22 ::::Kram::Mike::La Vereda Rd::1616::::::::::mkram@cwo.com::::::::::::::::::::::::::yes<<
+
+>>22 ::::Landry::Derik::Cedar St::2649::::::510 848-2278::415 810-1110::dclandry@yahoo.com::::Provide assistance shutting off gas lines and water mains.::::::::::Housekeeper (Marlene)::Cat (=Leo, born 2002), Dog (Westie, name:Bunny, born 5/18/10)::::::::::<<
+
+>>22 ::::Lehmann::Emmanuelle::La Vereda Rd::1553::::::::::emmanuelle.taugovroleau@ens-cachan.fr::::::::::::::::::::::::::yes<<
+
+>>22 ::::Lehmann::Etienne::La Vereda Rd::1553::::::::::etienne.lehmann@engae.fr::::::::::::::::::::::::::yes<<
+
+>>22 ::::Lewis::John::Le Conte Ave::2669::::::::415 378-6567::jrl94116@yahoo.com::::NERT training::::::::::::dog::extension ladder and lots of tools::::::::<<
+
+>>22 ::::Lodberg::Pia::Le Roy Ave::1643::::::510 548-1427::510 206-5196::plodberg@yahoo.com::::First Aid::::::::::::::::::::::<<
+
+>>22 ::::Londerville::Susan::La Loma Ave::1546::::::510 843-6616::510 928-0839::suelonderville@att.net::::First Aid, MD::::::::::michael londerville::::::::::::<<
+
+>>22 ::::Lundburg::Barbara::Hilgard Ave::2680::::::510 548-0841::510 734-6095::barbara@rhaa.com::::Landscape architect::::::::::Ralp Panecaldo -renter, Irena and Oleksiy Agapitov - renters::Cats(2)::Tools, Ladder::::::::<<
+
+>>22 ::::McDonald::Craig::La Loma Ave::1645::::::510 845-5589::::::::::::::::::::::::::::::<<
+
+>>22 ::::Mikkelsen::Line::La Loma Ave::1530::::::510 665-5527::510 326-7200::pacd.spamblock@gmail.com::::Youth and energy::::::::Child(age=4,name=Oscar)::::::::::::::yes<<
+
+>>22 ::::Miller::Kimberly::Cedar St::2647::::::510 469-6289::::kimberlyjmiller1@msn.com::::::::::::::::Dog (Border Collie=Emmie)::::::::::yes<<
+
+>>22 ::::Miller::Dan::La Vereda Rd::1735::::::510 849-1180::510 914-2038::dan@forca.com::::::::::::::::::::::::::<<
+
+>>22 ::::Mitra::Maureen::Le Roy Ave::1643::::::510 548-1427::510 520-2526; 510 545 2727::nandini.mitra@gmail.com::::First Aid, Search and Rescue, Communications::::::::::::::::::::::yes<<
+
+>>22 ::::Murlas::Christopher::Virginia St::2656::::::510 421-0310::::cmurlas@yahoo.com::::First Aid, Physician(Lung&Critical Care)::::::::::::::ladder 12 and 25 ft.::::::::<<
+
+>>22 ::::Murphy::Gregory::La Loma Ave::1530::::::510 644-9415::415 652-0225::GregM@JFCS.ORG::::First Aid, Construction::::::::::Wanita Murphy is aged 81 but mobile.::2 dogs::Ladders, pry bars, basic hand tools, water shut off wrench, camping equipment, ﾓpop-upﾔ canopy::::::::<<
+
+>>22 ::::Neil::Joe::La Loma Ave::1675::::::510 845-4674::510 406-0892::joeberkeley@msn.com::::::::::::::::::Well and cistern, couple of ladders in the pump::::::::yes<<
+
+>>22 ::::Oliver::Tess::La Vereda Rd::?::::::::::tessjoliver@gmail.com::::::::::::::::::::::::::yes<<
+
+>>22 ::::Ormsby::Larry::Cedar St::2639::::::510 540-1130::510 918-9928::ormsbysl@comcast.net::::::::::::::::Dogs ( Charlie & B.B.)::::::::::<<
+
+>>22 ::::Ormsby::Sachiko::Cedar St::2639::::::510 540-1130::510 289-0962::ormsbysl@comcast.net::::::::::::::::Dogs ( Charlie & B.B.)::::::::::<<
+
+>>22 ::::Owens::Jimmy::La Loma Ave::1600::::::510 486-1600::510 304-0673::jimmy-owens@pacbell.net::::::::::::semi-paralysis of left leg, COPD::::Cat (Aki Hito)::6 foot ladder; 8 foot ladder ~ leaning against west wall of house::::::::<<
+
+>>22 ::::Parker::Ann::La Vereda Rd::1700::::::510 548-7994; 510 548-1409::::annparker@comcast.net::::First Aid,MD, Pediatrician::::::::::::Dog::::::::::<<
+
+>>22 ::::Parker::Michael::La Vereda Rd::1700::::::510 548-7994; 510 548-1409::510 708-6992::mlparker1@comcast.net, mike@lomaverde.com::::::::::::::::Dog::::::::::<<
+
+>>22 ::::Peterson::Suzi::La Vereda Rd::1680::::::510 540-6672::510 499-5746::suziandalan@gmail.com::::Veterinarian (retired)::::::::::::::::::::::<<
+
+>>22 ::::Petiet::Nicole::La Loma Ave::1643::::::::510 409-8457::::::::::::::::::black pomeranian dog-Boo Radley::::::::::<<
+
+>>22 ::::Petiet::David::La Loma Ave::1683::::::503 648-2665::503 830-4030::::::::::::::::::::::::::::<<
+
+>>22 ::::Ralph::Panecaldo::Hilgard Ave::2682::::::::::::::::::::::::::::::::::::<<
+
+>>22 ::::Rife::Shane::La Loma Ave::1683::back rental::::::717 816-4186::smrife@gmail.com::::::::::::::::::::::::::<<
+
+>>22 ::::Robitscher::Jan::Virginia St::2634::#32::::510 540-1575::510 543-5350::jbrobit@aol.com::::First Aid, Search and Rescue, AnimalRescue::::::::diabetic, low vision::::guide dog::::::::::<<
+
+>>22 ::::Russell::Pat::Virginia St::2655::#A::::510 548-7051::::::::Good at phone tree, Retired Berkeley High teacher, editing skills::::::::::Phyllis Walinsky::::Small tent::::::::<<
+
+>>22 ::::Rutenberg::Taly::La Loma Ave::1715::::::510 846-6196; 510 883-0883::510 847-5060::talyberg@aol.com::::Psychotherapy::::::::::Izzy (age: 18) , Elijah (age 21)::Cavalier King Charles Spaniel named Herschel::::::::::<<
+
+152 ::Timestamp:8/3/2019  8/3/2019
+>>22 ::8/3/2019::Sale::Logan::Virginia St::2655::#C::::510 841-8707::510 499-0117::loganofsale@gmail.com::::::::::::::::::::::::::no<<
+
+>>22 ::::Sale::Alison::Virginia St::2655::::::::::aksale772@YAHOO.COM::::::::::::::::::::::::::yes<<
+
+>>22 ::::Sale::David::Virginia St::2655::::::510 841-8707::510 928-3498::dsale@prodigy.net::::Communications::::::::::::cat::ladders,cribbing,pry bars & power tools::::::::yes<<
+
+>>22 ::::Schlesinger::Victoria::Le Roy Ave::1619::::::::917 903-5868::victoria.schles@gmail.com::::::::::::asthmatic; Octavia Johnson (b. 15 June 2010)::::::::::::::<<
+
+>>22 ::::Seear::Joan::Virginia St::2708::::::510 848-1481::::joanseear@yahoo.com::::::::::::hearing impaired, Children(Sailong-16yr, Suna-14yr, Koshi-14yr)::Lawrence Talbot::Cat(chocolate brown w/black-white spots)::ladders,sledge,shovels, We have room for shelter, crutches, other tools::::::::<<
+
+>>22 ::::Sharp::Jim::Le Conte Ave::2663::::::510-848-6897::::itsa@lmi.net::::Search and Rescue::Light Search and Rescue 13May2017,::::::::::::Sleeping bags, camp stove, tent, crowbar, gas shut-off wrench, some tools, crank & solar radios::::::::<<
+
+>>22 ::::Smith::Carl::La Vereda Rd::1606::::::510 848-0918::510 717-3979::carlgracesmith@comcast.net::::First Aid,(retired MD)::::::::::housekeeper Mondays & Thursday::::Blankets, clothing, 4-wheel drive vehicle::::::::yes<<
+
+>>22 ::::Smith::Grace::La Vereda Rd::1606::::::510 848-0918::510 759 7466::carlgracesmith@comcast.net::::First Aid, (retired MD)::::::::Grace has difficulty with balance and walking on uneven surfaces::Paul and Smith::cat black Puki::Blankets, clothing, 4-wheel drive vehicle::::::::yes<<
+
+>>22 ::::Snow::Todd::La Loma Ave::1688::::::510 843-1722::510 908-1908::makjts@msn.com::::::::::::::::::::::::::<<
+
+>>22 ::::Stockton::Sallie::La Vereda Rd::1633::::::510 841-8915::510 847-3265::::::::::::::::::Cat( Blackie)&Cat(Nellie)::::::::::<<
+
+>>22 ::::Streiff::Zachary::La Vereda Rd::1590::::::510 841-7388::410 530-6543::zachalans@gmail.com::::::::::::::::::::::::::<<
+
+>>22 ::::Ta::Quyen::Hilgard Ave::2670::::::::408 712-8778::qlt21@hotmail.com::::::::::::Children(age:1)::::::::::::::yes<<
+
+>>22 ::::Tamang::Kumar Daniel::Virginia St::2708::::::Joan 510 848-1481; Kumar & Phulam 510 841-4144::Kumar 510 258-5860; Phulam 510 541-0536::joanseear@yahoo.com::::Kumar adept at rescue::::::::::Sailong (age: ) & Suna (age:) & Koshi Tamang (age: )::::Small & large ladders, saws, sledge hammer, cutters, camp gear::::::::yes<<
+
+>>22 ::::Troncoso::Lucrecia::La Loma Ave::1680::::::510 540-9324 Call cell first::Dan 510 219-0341; Lucrecia 510 541-4432::lucrecia.troncoso@gmail.com, fletch@uclink.berkeley.edu::::First Aid, Search and Rescue, Fire Suppression::::::::::::::Emergency radio, lots of shovels and other such tools::::::::yes<<
+
+>>22 ::::Umeda::Ian::Le Roy Ave::1643::::::510 548-1427::510 545-2525::ianumeda@gmail.com::::::::::::::::Cat(Bengal,Bhima)::::::::::yes<<
+
+>>22 ::::Umeda::Torben::Le Roy Ave::1643::::::510 548-1427::510 761-2312::torben@yahoo.com::::First Aid::::::::::::::::::::::<<
+
+>>22 ::::Valente::Renata::La Loma Ave::1636::::::::510 529-8350::archivalente@iol.it::::::::::::::::::::::::::yes<<
+
+>>22 ::::Van Ouytsel::Roger::Le Conte Ave::2611::::::510 549-1231::510 301-7424::rogervo@sonic.net::::::::::::::::::::::::::<<
+
+>>22 ::::Wang-sang::Koon::La Loma Ave::1628::::::510 665-7947::626 616-4698::koon@cds.caltech.edu::::::::::::::::::::::::::<<
+
+>>22 ::::Weiss::Michael::La Vereda Rd::1724::::::510 843-2419::Lynne 510 333-7647; Michael 510 816-7647::michaelhweiss2@yahoo.com, lynneknight@yahoo.com::::::::::::::::Dog::Shovels, sledge hammer, light weight extension ladder, most hand tools::::::::Yes<<
+
+>>22 ::::Westbrook::Cate::Hilgard Ave::2772::Lower Unit::::510 549-1841::510 684-4836 (emergencies only)::braisedlamb@yahoo.com::::First Aid,(Psychological support during crisis)::::::::::::Cat(black shorthair=Lucia)::::::::::yes<<
+
+>>22 ::::Zentner::Robert::La Vereda Rd::1731::::::510 848-0820::510 847-0821::::::Communications, Ham radio (fly 747)::::::::::(Caregiver)::::::::::::<<

@@ -1,0 +1,2 @@
+Parcel address to LatLon data file is: DB/MapStreetAddressLL.db
+This file was derived from the City of Berkeley Parcel.db

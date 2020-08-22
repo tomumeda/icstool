@@ -1,0 +1,24 @@
+#!/usr/bin/perl
+# generates DB/DBmember.db from MemberDB.csv
+chmod 0777,"DB";
+unlink <DB/DB*.db>;
+do "subMemberDB.pl";
+
+&TIE( @DBname );
+open L3,"$file_csv" ||die "Can't open $file_csv";
+my $tmp=<L3>;	#skip header
+@rec= &STRG4String($tmp) ;
+open L,">$file_csv.Header";
+$tmp=join("\t",@rec);
+print L "$tmp\n";
+
+open L3,"$file_csv" ||die "Can't open $file_csv"; # reopen to get column labels
+my $cnt=0;
+while(<L3>)
+{ print;
+  @rec= &STRG4String($_) ;
+  &UpdateDB($cnt,@rec);
+  $cnt++;
+}
+&UNTIE( @DBname );
+chmod 0666,<DB/*>;

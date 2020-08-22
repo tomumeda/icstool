@@ -1,0 +1,236 @@
+/*
+Site:       Site name
+CSS author: Your name here
+Updated:    Date
+Updated by: Your name here
+-------------------------------- */
+
+html, /* body, ul, ol, li,*/ form, fieldset, legend {
+                          font-family: verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+	width: 100%; 
+}
+
+h1, h2, h3, h4, h5, h6, p { 
+  margin-top: 0; margin-bottom: 0;
+}
+h2, h4 { color:darkblue; text-align:center; font-size:150%; font-weight:bold;
+  border: 2px solid blue;
+}
+
+h3 { color:darkblue;  text-align:center;
+  border: 1px solid blue;
+}
+
+h5 { color:green;  text-align:center; font-size:130%
+}
+
+
+h6 { text-align:center; font-size:100%; font-weight:bold;
+} 
+fieldset,img { border: 0; }
+legend { color: #000; }
+/*li { list-style: none; }*/
+sup { vertical-align: text-top; }
+sub { vertical-align: text-bottom; }
+
+table {
+        border: 1px solid black;
+	border-collapse: collapse;
+	border-spacing: 1px solid black;
+	width: 100%; 
+}
+
+table.staffing {
+  table-layout: fixed;
+}
+table.damageform {
+  table-layout: fixed;
+}
+table.head {
+  color: red;
+}
+
+caption {
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+}
+
+input, textarea, select {
+	font-size: 100%;
+
+}
+
+abbr, acronym {
+	border-bottom: .1em dotted;
+	cursor: help;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%; 
+	color: #000;
+	background: #eeeeee;
+	font: 100% "Helvetica Neue", Helvetica, Arial, "Microsoft Sans Serif", sans-serif;
+}
+a { color:blue; text-decoration:underline; }
+a:hover { text-decoration:none }
+
+#container {
+	float: left;
+	width: 1000px;
+	background: #bbb;
+}
+
+#nav {
+	float: left;
+	width: 200px;
+	background: lime;
+}
+
+#content {
+	float: left;
+	width: 550px;
+	margin: 0 0 0 25px;
+	background: yellow;
+}
+
+#extras {
+	float: right;
+	width: 200px;
+	background: gray;
+}
+
+.feature-image {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+@media only screen and (max-width:640px) {
+	#container { width: 600px; }
+	
+	#extras
+	{
+		clear: left;
+		float: none;
+		margin: 0 0 0 225px;
+		width: 550px;
+	}
+}
+
+@media screen and (max-width:480px) {
+	#container { width: 400px; }
+	#nav
+	{
+		float: none;
+		width: auto;
+	}
+	
+	#content
+	{
+		float: none;
+		width: auto;
+		margin: 0;
+	}
+	
+	#extras
+	{
+		float: none;
+		width: auto;
+		margin: 0;
+	}
+	
+	.feature-image { display: none; }
+}
+li a { text-decoration:none; font-weight: bold; text-transform:uppercase; display:block; }
+li font { color:#666; font-size:.6em; }
+h5 { text-decoration:underline;}
+
+div.map {
+	position:relative;
+	left:25px;
+	top:0px;
+	z-index: -1;
+}
+
+img.mapbase {
+	position:absolute;
+	z-index:0;
+}
+
+canvas.map_marker {
+	position:absolute;
+	z-index: 100;
+}
+
+input[type=submit] {
+  color: green;
+}
+
+input[type='checkbox'] {
+  transform: scale(1);
+  margin-left:00px;
+  margin-right:00px;
+}
+
+input[type='radio'] {
+  transform: scale(1);
+  margin-left:00px;
+  margin-right:00px;
+}
+
+.button
+{
+    background-color: #4CAF50;
+    border: none;
+    color: #008CBA; /*blue*/
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 130%;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#helpButton { 
+  color: orange; font-size: 100%;
+}
+
+#Cancel { 
+  color: red; font: bold; font-size: 130%;
+}
+
+@keyframes svg-blink {
+  0%, 10% {opacity: 0}
+  15%, 85% {opacity: 1}
+  100% {opacity: 0}
+}
+
+.svg-blink {
+  animation: svg-blink 1s ease infinite;
+}
+
+.svg-division {
+  font-size:60%; font-style:italic; font-weight:bolder;
+}
+
+tr:nth-child(even) {
+                      background-color: #dddddd;
+                    }
+
+th { text-align:center;
+                        padding: 2pt;
+                        vertical-align: top;
+                        border-bottom: 1pt solid;
+                    }
+td { text-align:left;
+                        padding: 2pt;
+                        vertical-align: top;
+                    }
+.widthSet {
+	max-width: 200px;
+      }

@@ -1,0 +1,17 @@
+Personnel {Name,Skills,Status}
+PersonnelHistory
+
+Teams {Personnel}
+TeamHistory
+
+Incidents {Location,Type,Status}
+IncidentHistory
+
+Victims {Name,Status}
+VictimHistory
+
+Equipment {Location,Status}
+EquipmentHistory
+
+Messages
+

@@ -1,0 +1,15 @@
+Steps to update DBMaster.db from Google form and send UpdateRequest
+
+1. Edit Northside EmPrep Member Information Form:
+add new entries from other sources, delete older duplicate name entries
+
+2. Download google.csv file to icstool:~tom/Sites/EMPREP/ICSTool/PL/DB/MasterDB.csv.<date>
+
+3. Run csvFix.j (edit the date reference for the .csv file)
+
+4. Run MasterDB.csv2db.pl
+
+5. Run UpdateRequest.j (uncomment for TEST first)
+
+6. Run UpdateRequest.j (for all)
+

@@ -1,0 +1,87 @@
+Buena Vista Way=2750=	476	102
+Cedar St=2639=	321	307
+Cedar St=2644=	341	400
+Cedar St=2647=	347	313
+Cedar St=2649=	351	308
+Cedar St=2661=	379	316
+Cedar St=2696=	363	383
+Hilgard Ave=2650=	342	557
+Hilgard Ave=2670=	392	549
+Hilgard Ave=2672=	396	543
+Hilgard Ave=2680=	421	540
+Hilgard Ave=2682=	425	534
+Hilgard Ave=2692=	446	536
+Hilgard Ave=2694=	442	541
+Hilgard Ave=2709=	521	435
+Hilgard Ave=2772=	682	502
+Hilgard Ave=2776=	730	493
+Hilgard Ave=2777=	717	397
+Hilgard Ave=2805=	782	550
+La Loma Ave=1525=	381	190
+La Loma Ave=1530=	320	221
+La Loma Ave=1546=	367	292
+La Loma Ave=1600=	381	396
+La Loma Ave=1628=	390	421
+La Loma Ave=1636=	-1	-1
+La Loma Ave=1640=	384	467
+La Loma Ave=1641=	477	453
+La Loma Ave=1643=	482	448
+La Loma Ave=1644=	403	467
+La Loma Ave=1645=	486	442
+La Loma Ave=1647=	473	459
+La Loma Ave=1670=	446	536
+La Loma Ave=1675=	538	533
+La Loma Ave=1680=	461	581
+La Loma Ave=1683=	549	581
+La Loma Ave=1688=	464	602
+La Loma Ave=1700=	479	696
+La Loma Ave=1705=	560	676
+La Loma Ave=1709=	570	713
+La Loma Ave=1715=	586	737
+La Vereda Rd=1551=	415	195
+La Vereda Rd=1553=	441	192
+La Vereda Rd=1555=	438	144
+La Vereda Rd=1570=	480	245
+La Vereda Rd=1585=	544	233
+La Vereda Rd=1589=	585	221
+La Vereda Rd=1590=	475	301
+La Vereda Rd=1591=	563	278
+La Vereda Rd=1595=	594	282
+La Vereda Rd=1601=	617	335
+La Vereda Rd=1603=	621	329
+La Vereda Rd=1606=	544	388
+La Vereda Rd=1609=	616	364
+La Vereda Rd=1615=	606	407
+La Vereda Rd=1616=	567	432
+La Vereda Rd=1629=	644	484
+La Vereda Rd=1631=	647	507
+La Vereda Rd=1633=	651	530
+La Vereda Rd=1639=	653	551
+La Vereda Rd=1680=	593	548
+La Vereda Rd=1700=	679	715
+La Vereda Rd=1701=	652	583
+La Vereda Rd=1724=	680	663
+La Vereda Rd=1730=	705	659
+La Vereda Rd=1731=	704	562
+La Vereda Rd=1732=	743	718
+La Vereda Rd=1735=	731	557
+La Vereda Rd=?=	-1	-1
+La Vereda Rd=MOVED OUT OF AREA=	-1	-1
+Le Conte Ave=2611=	353	782
+Le Conte Ave=2617=	377	775
+Le Conte Ave=2634=	375	877
+Le Conte Ave=2663=	402	769
+Le Conte Ave=2669=	427	767
+Le Conte Ave=2695=	488	757
+Le Roy Ave=1597=	286	330
+Le Roy Ave=1619=	306	424
+Le Roy Ave=1643=	342	459
+Ridge Rd=2615=	381	949
+Virginia St=2634=	355	716
+Virginia St=2655=	377	616
+Virginia St=2656=	392	710
+Virginia St=2666=	417	706
+Virginia St=2701=	539	609
+Virginia St=2706=	641	729
+Virginia St=2708=	632	664
+Virginia St=2711=	595	587
