@@ -1,0 +1,72 @@
+==	-1	-1
+Buena Vista Way=1265=	-1	-1
+Buena Vista Way=2530=	0	196
+Buena Vista Way=2535=	71	119
+Buena Vista Way=2555=	136	99
+Buena Vista Way=2564=	202	70
+Buena Vista Way=2565=	134	73
+Buena Vista Way=2597=	109	-55
+Buena Vista Way=2599=	109	-94
+Buena Vista Way=2655=	257	-66
+Buena Vista Way=2798=	686	287
+Buena Vista Way=9999999=	-1	-1
+Buena Vista Way=999999=	-1	-1
+Cedar St=2570=	160	426
+Cedar St=2583=	188	329
+Cedar St=2630=	301	393
+Cedar St=2661=	379	316
+Cedar St=999999=	-1	-1
+Euclid Ave=999999=	-1	-1
+Fifth Street=1521=	-1	-1
+Greenwood Cmn=3=	-1	-1
+Greenwood Cmn=999999=	-1	-1
+Greenwood Ter=1459=	276	-235
+Greenwood Ter=1476=	155	-118
+Greenwood Ter=1486=	158	-91
+Greenwood Ter=999999=	-1	-1
+Harrison Ave=1233=	-1	-1
+Hawthorne Ter=1429=	-257	-65
+Hawthorne Ter=2526=	-85	34
+Hawthorne Ter=999999=	-1	-1
+Hilgard Ave=2541=	58	509
+Hilgard Ave=2591=	172	490
+Hilgard Ave=2630=	317	561
+Hill Ct=2502=	-1	-1
+Hill Ct=2511=	-39	299
+Hill Ct=2515=	-12	310
+Hill Ct=2525=	62	336
+Hill Ct=999999=	-1	-1
+La Loma Ave=1515=	369	102
+La Loma Ave=1521=	384	149
+La Loma Ave=1530=	320	221
+La Loma Ave=1550=	-1	-1
+La Loma Ave=1600=	381	396
+La Loma Ave=1698=	467	623
+La Loma Ave=999999=	-1	-1
+La Vereda Rd=999999=	-1	-1
+Le Roy Ave=1404=	-55	-210
+Le Roy Ave=1440=	-44	-160
+Le Roy Ave=1505=	62	18
+Le Roy Ave=1514=	-20	64
+Le Roy Ave=1516=	-18	89
+Le Roy Ave=1520=	1	116
+Le Roy Ave=1542=	7	275
+Le Roy Ave=1544=	55	298
+Le Roy Ave=1546=	83	308
+Le Roy Ave=1550=	105	296
+Le Roy Ave=1554=	135	316
+Le Roy Ave=1580=	212	240
+Le Roy Ave=1581=	199	179
+Le Roy Ave=1584=	207	261
+Le Roy Ave=1596=	218	341
+Le Roy Ave=1626=	246	458
+Le Roy Ave=1635=	306	452
+Le Roy Ave=1636=	261	490
+Le Roy Ave=1643=	342	459
+Le Roy Ave=999999=	-1	-1
+Maritime Plaza=One=	-1	-1
+Scenic Ave=1635=	-303	562
+Shattuck Ave=1625=	-1178	803
+Solano Ave=1323=	-1	-1
+Tamalpais Rd=107=	93	-673
+Virginia Ave=2701=	-1	-1
