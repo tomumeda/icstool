@@ -1,0 +1,16 @@
+:TITLE:
+Damage Assessment Form
+:CONTENT:
+The Damage Assessment Form is editable and displays 
+:LIST:
+Address of the Damage
+A button that takes you to a map showing the location of the address
+The User Name giving the current report
+A table of Damage Assessments
+A space for notes
+A button to display contact information associated with this address
+A Submit button to record any changes
+A Send Team button to take you to the Manage Response Team menu
+A chronology of changes to the Damage Assessments 
+:ENDLIST:
+NOTE: If there are any SpecialNeeds for this address they will appear on the earliest Notes=.

@@ -1,0 +1,15 @@
+:TITLE:
+ICC Staffing Menu
+:CONTENT:
+This menu displays the logical organizational structure 
+of the Incident Command Center (ICC) with the hierarchy shown by the '>'.
+It displays who is currently assigned to the role.
+Pushing on any of the role buttons takes you to the assignment menu 
+where current ICS personnel are listed by their skill and their assignment.
+Selecting any one of the names will assign them 
+to the 'Assign Role' role.
+Any person already assigned to that role will be unassigned.  
+The selected person will be unassigned their current role 
+and assigned to the one on this form.
+'Submit' will make assignments and take you back to the Main Menu.
+Messages to everyone concerned will be sent.

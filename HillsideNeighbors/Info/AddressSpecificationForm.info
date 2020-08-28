@@ -1,0 +1,8 @@
+:TITLE:
+Address Specification Form
+:CONTENT:
+There are two ways to specify addresses:
+:LIST:
+Previously reported addresses will appear in the 'Reported Address' list.  You 'Select' one of these addresses.
+You can specify the 'Street Name' and 'Address' of the location. You can choose from a list of known 'Street Names' or you can specify a 'New Street Name'. After specifying a street name (with 'Go'), you must specify an address for the 'Street Name' from the list of 'Known Addresses' or by specify a 'New Address'. A SubAddress field is provided if more precision is needed, e.g., apartment number, location on property. 
+:ENDLIST:

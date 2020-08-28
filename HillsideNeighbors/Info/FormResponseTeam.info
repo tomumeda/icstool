@@ -1,0 +1,10 @@
+:TITLE:
+Form Response Team Form
+:CONTENT:
+This form displays all ICS personnel grouped into skill categories 
+and their current assignment.
+Each invocation of this form creates a new Response Team.
+Form the team by selecting personnel and pushing 'Submit'.
+All personnel selected will be assigned to the team.
+Previous assignments will be unassigned.
+Messages to everyone concerned will be sent.

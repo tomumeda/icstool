@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="../MemberInformation.css">
+</head>
+<body>
+<hr>
+<h4>ICS Tool Info
+</h4>
+<p>
+ICSTool is an Web based tool to help neighborhood CERT groups 
+rapidly establish their Incident Command System (ICS) 
+at their Incident Command Center (ICC) during an emergency incident.
+This Tool will facilitate ICS operations by:
+<ul>
+<li>Imposing the ICS structure on CERT group operations</li>
+<li>Providing explanations of different components of the ICS and the duties ICS roles</li>
+<li>Easy reporting of emergency situations</li>
+<li>Keeping of detailed records of:</li>
+<ul>
+<li>Emergency situations (also located on maps)</li>
+<li>ICS personnel status</li>
+<li>Response Teams status</li>
+<li>Communications</li>
+</ul>
+</ul>
+<ul>
+<li>Providing a WEB based communication system that logs all messages</li>
+<li>Providing access to neighborhood data base information: residents, maps, inventory</li>
+</ul>
+</ul>
+NOTE: The ICSTool depends on WEB communication and will be most effective if there is internet-like connection between neighborhood CERT members.  However, during disasters normal internet communication (WEB, cell phone, cable) may not be available, but a battery power local area network(LAN) can 
+be established at the ICC, and if possible extended to the neighborhood, to provide ICSTool functionality at the ICC where it is needed most.  
+<br>----------------------------------<br>
+<h3>
+Comments on the ICSTool
+</h3>
+<strong>
+The ICSTool can assist in basic ICS requirements: 
+</strong>
+<ul>
+<li>Staff: Sign-In, catalog Skills, and track Assignments</li>
+<li>Neighborhood Info: Damage Reports, Status, people with Special Needs, Contact Information, and Pets</li>
+<li>Communication between ICS staff</li>
+<li>Manage ICC staff availability and assignments</li>
+<li>Response Team Management: composition, deployment, and status </li>
+<li>Map of neighborhood locations with issues (and of staff with GPS**)</li>
+<li>(Resource/Inventory tracking**)</li>
+<li>Maintain complete history of: ICS actions, ICS personnel, neighborhood status, and communications</li>
+<li>(How-To Documents, e.g., Search and Rescue*)</li>
+<li>(Report neighborhood status to City-services**)</li>
+</ul>
+</ul>
+(**) Not Implemented
+(*) In development
+<br>----------------------------------<br>
+<strong>
+Using ICSTool for Disasters
+</strong> 
+ -- The extent of use of the ICSTool depends on the LAN/internet connectivity in the neighborhood.  
+A battery powered LAN can be established at the ICC easily.
+ICS LAN/internet connectivity throughout the neighborhood is situation dependent.
+<br>----------------------------------<br>
+<strong>
+General considerations in using the ICSTool.
+</strong>
+<ul>
+<li>The ICSTool may fail. Always have alternative ways of communications, displaying ICC status, and maintaining a history of the status, communications, and staff of the ICS.</li>
+<li>The ICC status board (white board) that contains basic information needed for ICC operations is always necessary (e.g., ICSTool failure). It must be maintained with information from ICSTool and all other sources.</li>
+<li>There will be people without ICSTool access or that have difficulty using the ICSTool. Knowledgable staff with ICSTool access must help them interface with the ICSTool.</li>
+</ul>
+</ul>
+<br>----------------------------------<br>
+<h3>
+Maintaining Redundancy of Realtime Data between ICSTool and Tradition Methods
+</h3>
+<br>
+It is necessary to maintain paper records of realtime data in case the ICSTool is unavailable.A possible way to maintain redundant paper records of realtime data is to use 5 binders/clipboards to track:
+<ul>
+<ul>
+<li>       Personnel (Sign Ins)</li>
+<li>       Damage Assessments</li>
+<li>       Messages</li>
+<li>       Response Teams</li>
+<li>       ICC Staffing</li>
+</ul>
+</ul>
+<ul>
+<li>Each binder is only directly accessible by the Scribe, the Radio Operator, and the ICS Tool specialist.  The binders are shared among these three roles and are immediately accessible to them.  </li>
+<li>Data flow for each binder:</li>
+</ul>
+</ul>
+<strong>
+SignIn Binder:
+</strong>
+<ul>
+<li>Inputs:</li>
+<ul>
+<li>       SignIns via radio -> [Radio Operator] -> SignIn Binder+Staffing Binder</li>
+<li>       SignIns via runner -> [Scribe] -> SignIn Binder+Staffing Binder</li>
+<li>       SignIns via ICS Tool -> [ICS Tool Specialist] -> SignIn Binder+Staffing Binder</li>
+</ul>
+</ul>
+<ul>
+<li>Outputs:</li>
+<ul>
+<li>       staff availability requests -> [Scribe] -> response from SignIn Binder</li>
+<li>       staff availability requests -> [ICS Tool Specialist] -> response from ICS Tool</li>
+<li>       SignIn Binder -> [ICS Tool Specialist] -> ICS Tool(sync)</li>
+</ul>
+</ul>
+<ul>
+<li><a href="Forms/SignIn.pdf"> Sample Form</a></li>
+</ul>
+</ul>
+<strong>
+Damage Assessments Binder:
+</strong>
+<ul>
+<li>Inputs:</li>
+<ul>
+<li>       DamageInfo via radio -> [Radio Operator] -> Damage Assessment Binder</li>
+<li>       DamageInfo via runner -> [Scribe] -> Damage Assessment Binder</li>
+<li>       DamageInfo via ICS Tool -> [ICS Tool Specialist] -> Damage Assessment Binder</li>
+</ul>
+</ul>
+<ul>
+<li>Outputs:</li>
+<ul>
+<li>       Damage Assessment Binder -> [Scribe] -> status board</li>
+<li>       Damage Assessment Binder -> [ICS Tool Specialist] -> ICS Tool(sync)</li>
+</ul>
+</ul>
+<ul>
+<li><a href="Forms/DamageAssessmentForm.pdf"> Sample Form</a></li>
+</ul>
+</ul>
+<strong>
+Message Binder:
+</strong>
+<ul>
+<li>Inputs:</li>
+<ul>
+<li>       Messages from ICC (note/voice) -> [Scribe] -> Messages Binder</li>
+<li>       Messages (ICS Tool) -> [ICS Tool Specialist] -> Messages Binder</li>
+<li>       Messages via radio -> [Radio Operator] -> Messages Binder</li>
+</ul>
+</ul>
+<ul>
+<li>Outputs:</li>
+<ul>
+<li>       Messages Binder -> [Radio Operator] -> radio</li>
+<li>       Messages Binder -> [Scribe] -> status board+ICC(note/voice)</li>
+</ul>
+</ul>
+<ul>
+<li><a href="Forms/Messages.pdf"> Sample Form  </a></li>
+</ul>
+</ul>
+<strong>
+Response Team Binder:
+</strong>
+<ul>
+<li>Inputs:</li>
+<ul>
+<li>       Assignments from ICC (note/voice) -> [Scribe] -> Response Team Binder+Damage Assessment Binder+Messages Binder(notify)</li>
+<li>       Assignments from ICC (ICS Tool) -> [ICS Tool Specialist] -> Response Team Binder+Damage Assessment Binder+Messages Binder(notify)</li>
+</ul>
+</ul>
+<ul>
+<li>Outputs:</li>
+<ul>
+<li>       Response Team Binder -> [Scribe] -> status board</li>
+<li>       Response Team Binder -> [ICS Tool Specialist] -> ICS Tool(sync)</li>
+</ul>
+</ul>
+<ul>
+<li><a href="Forms/ResponseTeam.pdf"> Sample Form </a></li>
+</ul>
+</ul>
+<strong>
+Staffing Binder:
+</strong>
+<ul>
+<li>Staffing Binder:</li>
+</ul>
+</ul>
+<ul>
+<li>Inputs:</li>
+<ul>
+<li>       Assignments from ICC (note/voice) -> [Scribe] -> Staffing Binder+Messages Binder(notify)</li>
+<li>       Assignments from ICC (ICS Tool) -> [ICS Tool Specialist] -> Staffing Binder+Messages Binder(notify)</li>
+<li>       Self Assignments (note/voice) -> [Scribe] -> Staffing Binder</li>
+<li>       Self Assignments (ICS Tool) -> [ICS Tool Specialist] -> Staffing Binder(sync)</li>
+</ul>
+</ul>
+<ul>
+<li>Outputs:</li>
+</ul>
+</ul>
+</ul>
+</ul>
+</body>
+</html>

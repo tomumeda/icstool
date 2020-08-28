@@ -1,0 +1,12 @@
+:TITLE:
+ICC Staffing Assignment
+:CONTENT:
+This form displays a table of personnel for the ICC Role displayed.
+Clicking on the Role button will take you to a description of the Role.
+The table lists the people signed in to the ICC (grouped by skill) with their current assignment.
+Select the names on the table to be assigned to the 'ICC Role'.
+Any person already assigned to that Role will be unassigned.  
+The selected person will be unassigned their current Role 
+and assigned to the one on this form.
+'Submit' will make assignments and take you back to the Main Menu.
+Messages to everyone concerned will be sent.
