@@ -1,0 +1,5 @@
+http://maps.googleapis.com/maps/api/staticmap?center=1643+le+roy+ave+Berkeley,CA&zoom=18&size=400x400&zoom=21&sensor=false
+
+http://maps.googleapis.com/maps/api/staticmap?center=1643+le+roy+ave+Berkeley,CA&zoom=19&maptype=hybrid&size=400x400&zoom=22&sensor=false
+
+:x

@@ -1,0 +1,21 @@
+# map parameters for Hillside School neighborhoods
+MapFile=Maps/hillside.jpg
+#MapLowerLeftCoordXRef=-122.263129344
+MapLowerLeftCoordXRef=-122.263075
+#MapUpperRightCoordXRef=-122.255516086
+MapUpperRightCoordXRef=-122.25555555
+
+#MapUpperRightCoordYRef=37.883436342
+MapUpperRightCoordYRef=37.883390
+#MapLowerLeftCoordYRef=37.878035934
+MapLowerLeftCoordYRef=37.877981
+# 
+MapLowerLeftPxXRef=1
+MapLowerLeftPxYRef=867
+MapUpperRightPxYRef=1
+MapUpperRightPxXRef=615
+MapXdim=867px
+MapYdim=615px
+MapDimX=867
+MapDimY=615
+

@@ -1,0 +1,15 @@
+
+MapFile=Maps/hillside.neighborhood.jpg
+MapLowerLeftCoordXRef=-122.26465588980244092
+MapLowerLeftCoordYRef=37.8774212112366
+MapUpperRightCoordXRef=-122.254499478671
+MapUpperRightCoordYRef=37.88383414023658702
+
+MapLowerLeftPxXRef=1
+MapLowerLeftPxYRef=615
+MapUpperRightPxYRef=1
+MapUpperRightPxXRef= 974
+MapXdim= 974px
+MapYdim=615px
+MapDimX= 974
+MapDimY=615

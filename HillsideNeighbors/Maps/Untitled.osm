@@ -1,0 +1,4238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2017-10-08T04:14:02Z"/>
+
+  <node id="53021352" lat="37.8834079" lon="-122.2580273"/>
+  <node id="53021355" lat="37.8818578" lon="-122.2580857"/>
+  <node id="53021357" lat="37.8805436" lon="-122.2580795"/>
+  <node id="53026097" lat="37.8824246" lon="-122.2625225"/>
+  <node id="53026098" lat="37.8810819" lon="-122.2625627">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="53026099" lat="37.8793177" lon="-122.2621912"/>
+  <node id="53026102" lat="37.8824170" lon="-122.2615730"/>
+  <node id="53026105" lat="37.8819432" lon="-122.2615178"/>
+  <node id="53026106" lat="37.8819026" lon="-122.2604386"/>
+  <node id="53044398" lat="37.8823787" lon="-122.2632373"/>
+  <node id="53059192" lat="37.8820549" lon="-122.2637651"/>
+  <node id="53059193" lat="37.8809576" lon="-122.2636798"/>
+  <node id="53059195" lat="37.8791497" lon="-122.2634978"/>
+  <node id="53059197" lat="37.8792068" lon="-122.2630602"/>
+  <node id="53059204" lat="37.8834285" lon="-122.2634929"/>
+  <node id="53059205" lat="37.8833855" lon="-122.2633361"/>
+  <node id="53077480" lat="37.8812404" lon="-122.2614411"/>
+  <node id="53080854" lat="37.8820193" lon="-122.2591794"/>
+  <node id="53080870" lat="37.8804498" lon="-122.2614929"/>
+  <node id="53080872" lat="37.8808550" lon="-122.2603387"/>
+  <node id="53080873" lat="37.8810616" lon="-122.2595053"/>
+  <node id="53080875" lat="37.8819367" lon="-122.2595407"/>
+  <node id="53081605" lat="37.8800076" lon="-122.2614001"/>
+  <node id="53081606" lat="37.8799227" lon="-122.2603313">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="53082215" lat="37.8831627" lon="-122.2606361"/>
+  <node id="53082217" lat="37.8832909" lon="-122.2600167"/>
+  <node id="53082219" lat="37.8833943" lon="-122.2592310"/>
+  <node id="53083955" lat="37.8819145" lon="-122.2599627"/>
+  <node id="53083957" lat="37.8818605" lon="-122.2599592"/>
+  <node id="53083959" lat="37.8818332" lon="-122.2604310"/>
+  <node id="53086380" lat="37.8830217" lon="-122.2591637"/>
+  <node id="53086381" lat="37.8829416" lon="-122.2597615"/>
+  <node id="53086385" lat="37.8825035" lon="-122.2591991"/>
+  <node id="53086386" lat="37.8824669" lon="-122.2595196"/>
+  <node id="53100225" lat="37.8831001" lon="-122.2616633">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="53119366" lat="37.8833913" lon="-122.2619013"/>
+  <node id="53119368" lat="37.8833737" lon="-122.2612479"/>
+  <node id="53119370" lat="37.8834530" lon="-122.2610443"/>
+  <node id="53119530" lat="37.8835278" lon="-122.2598711"/>
+  <node id="53142547" lat="37.8840120" lon="-122.2598297"/>
+  <node id="53142548" lat="37.8841678" lon="-122.2589374"/>
+  <node id="53147299" lat="37.8843344" lon="-122.2627027"/>
+  <node id="53149317" lat="37.8794656" lon="-122.2610676">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="53157263" lat="37.8825618" lon="-122.2605344"/>
+  <node id="53157265" lat="37.8803167" lon="-122.2598661"/>
+  <node id="53157266" lat="37.8804416" lon="-122.2589138"/>
+  <node id="53157267" lat="37.8797558" lon="-122.2588328"/>
+  <node id="56006306" lat="37.8828473" lon="-122.2633278"/>
+  <node id="59794840" lat="37.8822417" lon="-122.2634768"/>
+  <node id="59794842" lat="37.8825849" lon="-122.2633203"/>
+  <node id="59794870" lat="37.8825180" lon="-122.2622948"/>
+  <node id="59794874" lat="37.8825335" lon="-122.2620205"/>
+  <node id="59794883" lat="37.8806272" lon="-122.2615170"/>
+  <node id="59794886" lat="37.8820495" lon="-122.2612709"/>
+  <node id="59794888" lat="37.8797243" lon="-122.2623743"/>
+  <node id="59794891" lat="37.8822810" lon="-122.2626284"/>
+  <node id="59794903" lat="37.8839081" lon="-122.2608148"/>
+  <node id="59794905" lat="37.8843206" lon="-122.2607325">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="59805937" lat="37.8794536" lon="-122.2587578"/>
+  <node id="59805940" lat="37.8792576" lon="-122.2586365"/>
+  <node id="59805943" lat="37.8804977" lon="-122.2589551"/>
+  <node id="59805946" lat="37.8804651" lon="-122.2602918"/>
+  <node id="59805954" lat="37.8811391" lon="-122.2583343"/>
+  <node id="59805979" lat="37.8809390" lon="-122.2582203"/>
+  <node id="59942421" lat="37.8840822" lon="-122.2592163"/>
+  <node id="59942422" lat="37.8845306" lon="-122.2588916"/>
+  <node id="59942432" lat="37.8831622" lon="-122.2582390"/>
+  <node id="59942433" lat="37.8824995" lon="-122.2582574"/>
+  <node id="59942434" lat="37.8823082" lon="-122.2581685"/>
+  <node id="59942435" lat="37.8819744" lon="-122.2580522"/>
+  <node id="59942436" lat="37.8818911" lon="-122.2586605"/>
+  <node id="59942469" lat="37.8820454" lon="-122.2595070"/>
+  <node id="59942473" lat="37.8819623" lon="-122.2590116"/>
+  <node id="59942474" lat="37.8841042" lon="-122.2590486"/>
+  <node id="59942475" lat="37.8840762" lon="-122.2597123"/>
+  <node id="59942476" lat="37.8838533" lon="-122.2599158"/>
+  <node id="59942477" lat="37.8838198" lon="-122.2582108"/>
+  <node id="59942478" lat="37.8830933" lon="-122.2606881"/>
+  <node id="239501187" lat="37.8791162" lon="-122.2584562"/>
+  <node id="239511783" lat="37.8795505" lon="-122.2611149"/>
+  <node id="239511788" lat="37.8798425" lon="-122.2613532"/>
+  <node id="239511794" lat="37.8805542" lon="-122.2591551"/>
+  <node id="239511799" lat="37.8803159" lon="-122.2601814"/>
+  <node id="239511805" lat="37.8802898" lon="-122.2600810"/>
+  <node id="239527260" lat="37.8795035" lon="-122.2622375"/>
+  <node id="239527271" lat="37.8799229" lon="-122.2624225"/>
+  <node id="239527284" lat="37.8809975" lon="-122.2625464"/>
+  <node id="239527297" lat="37.8802984" lon="-122.2624555"/>
+  <node id="239527308" lat="37.8810794" lon="-122.2627528"/>
+  <node id="239527314" lat="37.8810859" lon="-122.2630181"/>
+  <node id="239527321" lat="37.8823009" lon="-122.2633038"/>
+  <node id="239527328" lat="37.8832211" lon="-122.2632171"/>
+  <node id="239527371" lat="37.8809764" lon="-122.2614530"/>
+  <node id="239527382" lat="37.8820630" lon="-122.2593659"/>
+  <node id="240469561" lat="37.8828881" lon="-122.2583103"/>
+  <node id="240469562" lat="37.8813590" lon="-122.2583061"/>
+  <node id="258757140" lat="37.8833163" lon="-122.2632206"/>
+  <node id="258757141" lat="37.8820046" lon="-122.2637779"/>
+  <node id="258757142" lat="37.8821983" lon="-122.2636128"/>
+  <node id="258757143" lat="37.8821333" lon="-122.2638228"/>
+  <node id="258757144" lat="37.8824332" lon="-122.2616964"/>
+  <node id="258757145" lat="37.8830426" lon="-122.2616340"/>
+  <node id="258757148" lat="37.8819271" lon="-122.2606465"/>
+  <node id="258757149" lat="37.8819986" lon="-122.2608885"/>
+  <node id="258757150" lat="37.8820570" lon="-122.2611717"/>
+  <node id="260908885" lat="37.8840362" lon="-122.2622493"/>
+  <node id="260908886" lat="37.8841465" lon="-122.2622789"/>
+  <node id="260908887" lat="37.8842684" lon="-122.2622505"/>
+  <node id="260908889" lat="37.8846282" lon="-122.2616401"/>
+  <node id="260908890" lat="37.8846465" lon="-122.2615544"/>
+  <node id="260908892" lat="37.8846288" lon="-122.2613572"/>
+  <node id="260908893" lat="37.8845406" lon="-122.2612202"/>
+  <node id="260908895" lat="37.8843700" lon="-122.2611547"/>
+  <node id="260908896" lat="37.8836310" lon="-122.2609902"/>
+  <node id="260908897" lat="37.8835033" lon="-122.2610748"/>
+  <node id="260908899" lat="37.8834383" lon="-122.2612513"/>
+  <node id="260908900" lat="37.8834278" lon="-122.2614456"/>
+  <node id="260908902" lat="37.8834670" lon="-122.2617035"/>
+  <node id="260908903" lat="37.8835481" lon="-122.2618131"/>
+  <node id="262084217" lat="37.8832371" lon="-122.2604923"/>
+  <node id="262084218" lat="37.8829443" lon="-122.2607009"/>
+  <node id="262084219" lat="37.8824394" lon="-122.2604929"/>
+  <node id="262084221" lat="37.8819117" lon="-122.2583219"/>
+  <node id="262084660" lat="37.8844181" lon="-122.2588643"/>
+  <node id="262084661" lat="37.8846387" lon="-122.2589446"/>
+  <node id="262257196" lat="37.8842254" lon="-122.2626297"/>
+  <node id="262257239" lat="37.8845201" lon="-122.2621823"/>
+  <node id="262257240" lat="37.8844866" lon="-122.2624238"/>
+  <node id="262257241" lat="37.8845120" lon="-122.2624991"/>
+  <node id="262257242" lat="37.8845799" lon="-122.2625517"/>
+  <node id="269301191" lat="37.8808238" lon="-122.2581688"/>
+  <node id="269301196" lat="37.8812303" lon="-122.2583405"/>
+  <node id="269301201" lat="37.8820432" lon="-122.2580610"/>
+  <node id="269301204" lat="37.8826343" lon="-122.2582951"/>
+  <node id="269301248" lat="37.8835308" lon="-122.2580514"/>
+  <node id="269301252" lat="37.8833341" lon="-122.2582237"/>
+  <node id="269301257" lat="37.8832995" lon="-122.2581403"/>
+  <node id="269301262" lat="37.8820678" lon="-122.2594520"/>
+  <node id="269301267" lat="37.8819988" lon="-122.2595369"/>
+  <node id="269301272" lat="37.8824477" lon="-122.2632433"/>
+  <node id="269301276" lat="37.8823348" lon="-122.2632580"/>
+  <node id="269301281" lat="37.8823653" lon="-122.2625905"/>
+  <node id="269301286" lat="37.8809850" lon="-122.2633753"/>
+  <node id="269301289" lat="37.8810580" lon="-122.2631366"/>
+  <node id="269301290" lat="37.8810132" lon="-122.2632485"/>
+  <node id="269301291" lat="37.8813322" lon="-122.2626037"/>
+  <node id="269301292" lat="37.8808944" lon="-122.2614642"/>
+  <node id="269301293" lat="37.8807627" lon="-122.2614952"/>
+  <node id="269301294" lat="37.8819061" lon="-122.2605419"/>
+  <node id="269301295" lat="37.8820374" lon="-122.2610392"/>
+  <node id="269301296" lat="37.8824726" lon="-122.2624416"/>
+  <node id="269301298" lat="37.8825192" lon="-122.2619316"/>
+  <node id="269301299" lat="37.8824194" lon="-122.2616400">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="269301300" lat="37.8801545" lon="-122.2614284"/>
+  <node id="269301301" lat="37.8829818" lon="-122.2607587"/>
+  <node id="269301302" lat="37.8830338" lon="-122.2607717"/>
+  <node id="269301304" lat="37.8831043" lon="-122.2607532"/>
+  <node id="269301305" lat="37.8831697" lon="-122.2607126"/>
+  <node id="269301306" lat="37.8832206" lon="-122.2606340"/>
+  <node id="269301307" lat="37.8832435" lon="-122.2605721"/>
+  <node id="269301308" lat="37.8832010" lon="-122.2605784"/>
+  <node id="269301309" lat="37.8831161" lon="-122.2614673"/>
+  <node id="269301310" lat="37.8831082" lon="-122.2615419"/>
+  <node id="269301311" lat="37.8830987" lon="-122.2615395"/>
+  <node id="269301312" lat="37.8830866" lon="-122.2615393"/>
+  <node id="269301313" lat="37.8831414" lon="-122.2615760"/>
+  <node id="269301314" lat="37.8831267" lon="-122.2615569"/>
+  <node id="269301315" lat="37.8830662" lon="-122.2616461"/>
+  <node id="269301316" lat="37.8835831" lon="-122.2592632"/>
+  <node id="269301317" lat="37.8837796" lon="-122.2583417"/>
+  <node id="269301318" lat="37.8822336" lon="-122.2592433"/>
+  <node id="269301319" lat="37.8820737" lon="-122.2591724"/>
+  <node id="269301320" lat="37.8821244" lon="-122.2591934"/>
+  <node id="269301321" lat="37.8821753" lon="-122.2592262"/>
+  <node id="269301322" lat="37.8827653" lon="-122.2591551"/>
+  <node id="269301323" lat="37.8826058" lon="-122.2591603"/>
+  <node id="269301324" lat="37.8823336" lon="-122.2592456"/>
+  <node id="269301325" lat="37.8830199" lon="-122.2582846"/>
+  <node id="269301327" lat="37.8839421" lon="-122.2598998"/>
+  <node id="269301328" lat="37.8841007" lon="-122.2595578"/>
+  <node id="269301329" lat="37.8842918" lon="-122.2588704"/>
+  <node id="269301330" lat="37.8831715" lon="-122.2608408"/>
+  <node id="280430156" lat="37.8826653" lon="-122.2615959"/>
+  <node id="280430161" lat="37.8806042" lon="-122.2609747"/>
+  <node id="280430163" lat="37.8807405" lon="-122.2607424"/>
+  <node id="280430164" lat="37.8811490" lon="-122.2594391"/>
+  <node id="280430165" lat="37.8818861" lon="-122.2595359"/>
+  <node id="311402996" lat="37.8846179" lon="-122.2627950"/>
+  <node id="311403169" lat="37.8837942" lon="-122.2609922"/>
+  <node id="311403402" lat="37.8834674" lon="-122.2637389"/>
+  <node id="311403484" lat="37.8824531" lon="-122.2626012"/>
+  <node id="311403489" lat="37.8821788" lon="-122.2626412"/>
+  <node id="311403800" lat="37.8827628" lon="-122.2633479"/>
+  <node id="311403802" lat="37.8826759" lon="-122.2633441"/>
+  <node id="317112227" lat="37.8836287" lon="-122.2609008"/>
+  <node id="317112281" lat="37.8831534" lon="-122.2611557"/>
+  <node id="317112282" lat="37.8831303" lon="-122.2611516"/>
+  <node id="317112357" lat="37.8829578" lon="-122.2616192"/>
+  <node id="317112679" lat="37.8805514" lon="-122.2590760"/>
+  <node id="317112680" lat="37.8805325" lon="-122.2590014"/>
+  <node id="317112684" lat="37.8805455" lon="-122.2592275"/>
+  <node id="339928425" lat="37.8844473" lon="-122.2627501"/>
+  <node id="339928426" lat="37.8833998" lon="-122.2611282"/>
+  <node id="339928427" lat="37.8833756" lon="-122.2613940"/>
+  <node id="339928428" lat="37.8834008" lon="-122.2617920"/>
+  <node id="339928429" lat="37.8835443" lon="-122.2609514"/>
+  <node id="339928430" lat="37.8837284" lon="-122.2608548"/>
+  <node id="339928431" lat="37.8840887" lon="-122.2607814"/>
+  <node id="339928495" lat="37.8843594" lon="-122.2621474"/>
+  <node id="339928521" lat="37.8821370" lon="-122.2581089"/>
+  <node id="339928523" lat="37.8827774" lon="-122.2583117"/>
+  <node id="339928524" lat="37.8810563" lon="-122.2582900"/>
+  <node id="339928525" lat="37.8802912" lon="-122.2599771"/>
+  <node id="339928526" lat="37.8803797" lon="-122.2602556"/>
+  <node id="339928527" lat="37.8807069" lon="-122.2603198"/>
+  <node id="339928528" lat="37.8810813" lon="-122.2603538"/>
+  <node id="339928529" lat="37.8807861" lon="-122.2605885"/>
+  <node id="339928530" lat="37.8805265" lon="-122.2611419"/>
+  <node id="339928531" lat="37.8804798" lon="-122.2612901"/>
+  <node id="339928532" lat="37.8799975" lon="-122.2612448"/>
+  <node id="339928533" lat="37.8799392" lon="-122.2609726"/>
+  <node id="339928534" lat="37.8797190" lon="-122.2612704"/>
+  <node id="339928536" lat="37.8819504" lon="-122.2637801"/>
+  <node id="339928537" lat="37.8821391" lon="-122.2636994"/>
+  <node id="339928538" lat="37.8808442" lon="-122.2636862"/>
+  <node id="339928539" lat="37.8810267" lon="-122.2636759"/>
+  <node id="346507427" lat="37.8796188" lon="-122.2610863">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Cedar St"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="56320"/>
+  </node>
+  <node id="354103782" lat="37.8846428" lon="-122.2630183"/>
+  <node id="354166737" lat="37.8845891" lon="-122.2630121"/>
+  <node id="354166742" lat="37.8845503" lon="-122.2630016"/>
+  <node id="354166745" lat="37.8845004" lon="-122.2629439"/>
+  <node id="354166750" lat="37.8844686" lon="-122.2629100"/>
+  <node id="354197714" lat="37.8844650" lon="-122.2626008"/>
+  <node id="354197718" lat="37.8844472" lon="-122.2625281"/>
+  <node id="354197722" lat="37.8844228" lon="-122.2624627"/>
+  <node id="354197726" lat="37.8843987" lon="-122.2624040"/>
+  <node id="354197728" lat="37.8843777" lon="-122.2623275"/>
+  <node id="354197733" lat="37.8843526" lon="-122.2622505"/>
+  <node id="354197736" lat="37.8843838" lon="-122.2621783"/>
+  <node id="354197742" lat="37.8846478" lon="-122.2616804"/>
+  <node id="354197745" lat="37.8846689" lon="-122.2615909"/>
+  <node id="354197749" lat="37.8846751" lon="-122.2614825"/>
+  <node id="354197753" lat="37.8846652" lon="-122.2614087"/>
+  <node id="354197757" lat="37.8846416" lon="-122.2613380"/>
+  <node id="354197762" lat="37.8846069" lon="-122.2612610"/>
+  <node id="354197765" lat="37.8845586" lon="-122.2612108"/>
+  <node id="354197769" lat="37.8845226" lon="-122.2611841"/>
+  <node id="354197774" lat="37.8846664" lon="-122.2612186"/>
+  <node id="354197779" lat="37.8846491" lon="-122.2614731"/>
+  <node id="354197782" lat="37.8842995" lon="-122.2622882"/>
+  <node id="354197785" lat="37.8842573" lon="-122.2623039"/>
+  <node id="354197789" lat="37.8842053" lon="-122.2623196"/>
+  <node id="354197794" lat="37.8841309" lon="-122.2623196"/>
+  <node id="354197798" lat="37.8840701" lon="-122.2623024"/>
+  <node id="354197801" lat="37.8840218" lon="-122.2622772"/>
+  <node id="354197806" lat="37.8835396" lon="-122.2618500"/>
+  <node id="354198170" lat="37.8846744" lon="-122.2609332"/>
+  <node id="354198174" lat="37.8846494" lon="-122.2609648"/>
+  <node id="354198177" lat="37.8846281" lon="-122.2609712"/>
+  <node id="354198181" lat="37.8846183" lon="-122.2609461"/>
+  <node id="354198184" lat="37.8846606" lon="-122.2608508"/>
+  <node id="354198189" lat="37.8846656" lon="-122.2607843"/>
+  <node id="354198199" lat="37.8846769" lon="-122.2605516"/>
+  <node id="354198203" lat="37.8846931" lon="-122.2604376"/>
+  <node id="354198208" lat="37.8846644" lon="-122.2603315"/>
+  <node id="354198211" lat="37.8846519" lon="-122.2602492"/>
+  <node id="354198215" lat="37.8846381" lon="-122.2601637"/>
+  <node id="354198219" lat="37.8846344" lon="-122.2601146"/>
+  <node id="354198224" lat="37.8846219" lon="-122.2600687"/>
+  <node id="354198227" lat="37.8845881" lon="-122.2599959"/>
+  <node id="354198232" lat="37.8845532" lon="-122.2599578"/>
+  <node id="354198235" lat="37.8845182" lon="-122.2598803"/>
+  <node id="354198240" lat="37.8844844" lon="-122.2598146">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="354198244" lat="37.8846837" lon="-122.2600075"/>
+  <node id="354213832" lat="37.8846937" lon="-122.2598369"/>
+  <node id="354213836" lat="37.8846295" lon="-122.2597741"/>
+  <node id="354213839" lat="37.8846059" lon="-122.2597185"/>
+  <node id="354213843" lat="37.8845867" lon="-122.2596328"/>
+  <node id="354213846" lat="37.8845441" lon="-122.2594760"/>
+  <node id="357855972" lat="37.8844425" lon="-122.2629865"/>
+  <node id="357855975" lat="37.8845102" lon="-122.2629607">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="357855976" lat="37.8845915" lon="-122.2629350"/>
+  <node id="357856045" lat="37.8846522" lon="-122.2599891"/>
+  <node id="357856047" lat="37.8846210" lon="-122.2599826"/>
+  <node id="357856058" lat="37.8846356" lon="-122.2608935"/>
+  <node id="357856075" lat="37.8844694" lon="-122.2626690"/>
+  <node id="357856085" lat="37.8844907" lon="-122.2622831"/>
+  <node id="361207190" lat="37.8843707" lon="-122.2630674"/>
+  <node id="407681496" lat="37.8827180" lon="-122.2606137"/>
+  <node id="407681497" lat="37.8828563" lon="-122.2606757"/>
+  <node id="407681499" lat="37.8830294" lon="-122.2607057"/>
+  <node id="407681501" lat="37.8800101" lon="-122.2613302"/>
+  <node id="407681502" lat="37.8797599" lon="-122.2613058"/>
+  <node id="407681504" lat="37.8799335" lon="-122.2608531"/>
+  <node id="408726610" lat="37.8833990" lon="-122.2616523"/>
+  <node id="408726611" lat="37.8829043" lon="-122.2598211">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="408726612" lat="37.8819008" lon="-122.2587908"/>
+  <node id="408726613" lat="37.8818986" lon="-122.2585688"/>
+  <node id="408726614" lat="37.8819051" lon="-122.2581962"/>
+  <node id="408726633" lat="37.8793457" lon="-122.2587011"/>
+  <node id="408726634" lat="37.8791768" lon="-122.2585451"/>
+  <node id="408726635" lat="37.8790135" lon="-122.2582623"/>
+  <node id="408726654" lat="37.8826928" lon="-122.2597368"/>
+  <node id="408726655" lat="37.8827308" lon="-122.2597651"/>
+  <node id="408726656" lat="37.8827606" lon="-122.2598097"/>
+  <node id="408726657" lat="37.8828065" lon="-122.2598302"/>
+  <node id="408726658" lat="37.8826624" lon="-122.2597722"/>
+  <node id="408726659" lat="37.8826095" lon="-122.2598027"/>
+  <node id="408726660" lat="37.8825940" lon="-122.2598612"/>
+  <node id="408726661" lat="37.8819287" lon="-122.2596903"/>
+  <node id="408726662" lat="37.8818444" lon="-122.2602876"/>
+  <node id="408726768" lat="37.8793471" lon="-122.2611200">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Cedar St"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="54780"/>
+  </node>
+  <node id="408727085" lat="37.8812643" lon="-122.2614977">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Vine Ln"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="50227"/>
+  </node>
+  <node id="408727091" lat="37.8831002" lon="-122.2615663">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Rose Walk"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="54865"/>
+  </node>
+  <node id="414245762" lat="37.8826285" lon="-122.2638838"/>
+  <node id="414247682" lat="37.8820791" lon="-122.2637970"/>
+  <node id="420477564" lat="37.8801822" lon="-122.2602997"/>
+  <node id="420477565" lat="37.8799389" lon="-122.2602563"/>
+  <node id="420477566" lat="37.8798732" lon="-122.2601478">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2525"/>
+    <tag k="addr:street" v="Hill Court"/>
+  </node>
+  <node id="420477568" lat="37.8800542" lon="-122.2611553">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:street" v="Hill Court"/>
+  </node>
+  <node id="420477569" lat="37.8798791" lon="-122.2611365">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2502"/>
+    <tag k="addr:street" v="Hill Court"/>
+  </node>
+  <node id="420477570" lat="37.8796033" lon="-122.2608149">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="420477571" lat="37.8797189" lon="-122.2610839">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1599"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="420477572" lat="37.8806505" lon="-122.2605162">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2530"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="420477573" lat="37.8805427" lon="-122.2604994">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1536"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="420477580" lat="37.8814737" lon="-122.2580262">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1509"/>
+    <tag k="addr:street" v="La Loma Avenue"/>
+  </node>
+  <node id="420477581" lat="37.8815377" lon="-122.2584562">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1508"/>
+    <tag k="addr:street" v="La Loma Avenue"/>
+  </node>
+  <node id="420477582" lat="37.8821325" lon="-122.2582090">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1480"/>
+    <tag k="addr:street" v="La Loma Avenue"/>
+  </node>
+  <node id="420477584" lat="37.8835404" lon="-122.2589524">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2621"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="420477585" lat="37.8834543" lon="-122.2597155">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Tamalpais Road"/>
+  </node>
+  <node id="420477586" lat="37.8834187" lon="-122.2600388">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Tamalpais Road"/>
+  </node>
+  <node id="420477588" lat="37.8832694" lon="-122.2607198">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2555"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="420477589" lat="37.8830393" lon="-122.2608982">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="420477590" lat="37.8830746" lon="-122.2604899">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="420477591" lat="37.8830423" lon="-122.2612616">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2518"/>
+    <tag k="addr:street" v="Rose Walk"/>
+  </node>
+  <node id="420477595" lat="37.8841723" lon="-122.2628506">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="420477596" lat="37.8840434" lon="-122.2631100">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1305"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="420477597" lat="37.8842936" lon="-122.2632716">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1304"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="420477598" lat="37.8843826" lon="-122.2626224">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Bayview Pl"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="52105"/>
+  </node>
+  <node id="420477599" lat="37.8844453" lon="-122.2628317">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Bayview Pl"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="52102"/>
+  </node>
+  <node id="420477600" lat="37.8810816" lon="-122.2594716">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="420477601" lat="37.8831085" lon="-122.2617731">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Codornices Park"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="52216"/>
+  </node>
+  <node id="420477602" lat="37.8833033" lon="-122.2589897">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:street" v="Greenwood Terrace"/>
+  </node>
+  <node id="420477603" lat="37.8794576" lon="-122.2620822">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2451"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="420477604" lat="37.8795977" lon="-122.2621423">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1597"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="420477605" lat="37.8794315" lon="-122.2623438">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1598"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="420477606" lat="37.8791111" lon="-122.2628370">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2404"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="420477607" lat="37.8793200" lon="-122.2629784">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="420477608" lat="37.8793081" lon="-122.2633212">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2375"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="420477609" lat="37.8792678" lon="-122.2636851">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2365"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="427500161" lat="37.8833595" lon="-122.2587002">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="Greenwood Terrace"/>
+  </node>
+  <node id="427500163" lat="37.8836576" lon="-122.2580728">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2637"/>
+    <tag k="addr:street" v="La Loma Avenue"/>
+  </node>
+  <node id="427500164" lat="37.8834568" lon="-122.2594225">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2611"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="427500165" lat="37.8830365" lon="-122.2614415">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:street" v="Rose Walk"/>
+  </node>
+  <node id="427500167" lat="37.8836715" lon="-122.2596821">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:street" v="Shasta Road"/>
+  </node>
+  <node id="427500170" lat="37.8823832" lon="-122.2628093">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1412"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="427500171" lat="37.8825389" lon="-122.2627892">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="427500172" lat="37.8817248" lon="-122.2613923">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Euclid Av &amp; Hawthrone Ter"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="54375"/>
+  </node>
+  <node id="427500173" lat="37.8819273" lon="-122.2602137">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1497"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="427500174" lat="37.8817761" lon="-122.2601840">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1501"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="427500175" lat="37.8823170" lon="-122.2597819">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2599"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="427500176" lat="37.8819230" lon="-122.2593718">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="427500179" lat="37.8836289" lon="-122.2598143">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="427500187" lat="37.8831729" lon="-122.2637134">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2330"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="427500188" lat="37.8833513" lon="-122.2639065">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2333"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="427500189" lat="37.8832964" lon="-122.2634382">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1350"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="427500190" lat="37.8836457" lon="-122.2633437">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1345"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="427500191" lat="37.8834966" lon="-122.2632142">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1351"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="427500192" lat="37.8825021" lon="-122.2630577">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="427500193" lat="37.8823445" lon="-122.2630145">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1423"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="427500194" lat="37.8825745" lon="-122.2617814">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="427500195" lat="37.8823679" lon="-122.2618758">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="427500196" lat="37.8817774" lon="-122.2606514">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="427500197" lat="37.8818502" lon="-122.2613216">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1475"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="427500198" lat="37.8824377" lon="-122.2627431"/>
+  <node id="427500199" lat="37.8823985" lon="-122.2630842"/>
+  <node id="427500200" lat="37.8833446" lon="-122.2592220"/>
+  <node id="427500201" lat="37.8833920" lon="-122.2587379"/>
+  <node id="440602812" lat="37.8846392" lon="-122.2639889"/>
+  <node id="440602813" lat="37.8846333" lon="-122.2638702"/>
+  <node id="440602841" lat="37.8835143" lon="-122.2594263">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2606"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="440602842" lat="37.8827700" lon="-122.2617366">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1406"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="440602843" lat="37.8822827" lon="-122.2616730">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1440"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="440602844" lat="37.8823921" lon="-122.2633709">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1422"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="469612693" lat="37.8805290" lon="-122.2581910">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1530"/>
+    <tag k="addr:street" v="La Loma Avenue"/>
+  </node>
+  <node id="469612694" lat="37.8804600" lon="-122.2580367"/>
+  <node id="472623407" lat="37.8812097" lon="-122.2637934">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1492"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623409" lat="37.8808085" lon="-122.2639459">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2340"/>
+    <tag k="addr:street" v="Vine Street"/>
+  </node>
+  <node id="472623414" lat="37.8806111" lon="-122.2638117">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1516"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623415" lat="37.8806962" lon="-122.2631916">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1515"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623416" lat="37.8808503" lon="-122.2633664">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2350"/>
+    <tag k="addr:street" v="Vine Street"/>
+  </node>
+  <node id="472623418" lat="37.8811070" lon="-122.2633237">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2353"/>
+    <tag k="addr:street" v="Vine Street"/>
+  </node>
+  <node id="472623419" lat="37.8813814" lon="-122.2635087">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1479"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623420" lat="37.8819784" lon="-122.2635880">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1451"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623421" lat="37.8819864" lon="-122.2638625">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1444"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623422" lat="37.8822833" lon="-122.2636368">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1434"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="472623423" lat="37.8826797" lon="-122.2625816">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="472623424" lat="37.8823876" lon="-122.2627178">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="472623426" lat="37.8826123" lon="-122.2637670">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623427" lat="37.8826059" lon="-122.2639642">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1404"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623428" lat="37.8824984" lon="-122.2639439">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623429" lat="37.8823684" lon="-122.2639174">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1412B"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623430" lat="37.8822994" lon="-122.2639113">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1412"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623431" lat="37.8822143" lon="-122.2638808">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1416"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623432" lat="37.8821116" lon="-122.2638686">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1418"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623433" lat="37.8824406" lon="-122.2639418">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:street" v="Spring Way"/>
+  </node>
+  <node id="472623434" lat="37.8821293" lon="-122.2616809">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="472623435" lat="37.8819832" lon="-122.2616483">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1460"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="472623437" lat="37.8819752" lon="-122.2612397">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2506"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="472623438" lat="37.8820554" lon="-122.2607720">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2535"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="472623439" lat="37.8822833" lon="-122.2613617">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1445"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="472623440" lat="37.8824149" lon="-122.2613718">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1435"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="472623441" lat="37.8821212" lon="-122.2613251">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="472623442" lat="37.8818725" lon="-122.2608513">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2528"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+  </node>
+  <node id="472623443" lat="37.8820972" lon="-122.2605850">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1480"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+  </node>
+  <node id="472623444" lat="37.8819961" lon="-122.2596680">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2595"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="472623445" lat="37.8821020" lon="-122.2597859">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2597"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="472623446" lat="37.8818581" lon="-122.2596334">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2593"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="472623447" lat="37.8820394" lon="-122.2587896">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2655"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="472623449" lat="37.8820041" lon="-122.2583789">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2655"/>
+    <tag k="addr:interpolation" v="2683"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="472623451" lat="37.8818083" lon="-122.2586941">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2660"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="472623452" lat="37.8818195" lon="-122.2583871">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2678"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+  </node>
+  <node id="555969111" lat="37.8833132" lon="-122.2580324"/>
+  <node id="555969112" lat="37.8831980" lon="-122.2581354"/>
+  <node id="555969113" lat="37.8830625" lon="-122.2582041"/>
+  <node id="555969114" lat="37.8828661" lon="-122.2582470"/>
+  <node id="555969116" lat="37.8826628" lon="-122.2582298"/>
+  <node id="555969117" lat="37.8825206" lon="-122.2581955"/>
+  <node id="555969118" lat="37.8822970" lon="-122.2580753"/>
+  <node id="555969122" lat="37.8815044" lon="-122.2581611"/>
+  <node id="555969123" lat="37.8812673" lon="-122.2582641"/>
+  <node id="555969125" lat="37.8811521" lon="-122.2582641"/>
+  <node id="555969137" lat="37.8810438" lon="-122.2582126"/>
+  <node id="555969151" lat="37.8808608" lon="-122.2581182"/>
+  <node id="555969188" lat="37.8794043" lon="-122.2609592"/>
+  <node id="555981332" lat="37.8795266" lon="-122.2609831"/>
+  <node id="555981341" lat="37.8804209" lon="-122.2580821"/>
+  <node id="555981342" lat="37.8805089" lon="-122.2581421"/>
+  <node id="555981343" lat="37.8808014" lon="-122.2582145"/>
+  <node id="555981345" lat="37.8807811" lon="-122.2582832"/>
+  <node id="555981353" lat="37.8804141" lon="-122.2584168"/>
+  <node id="555981364" lat="37.8803396" lon="-122.2589490"/>
+  <node id="555981377" lat="37.8804480" lon="-122.2589919"/>
+  <node id="555981385" lat="37.8804818" lon="-122.2590605"/>
+  <node id="555981397" lat="37.8804818" lon="-122.2591464"/>
+  <node id="555981406" lat="37.8802244" lon="-122.2599188">
+    <tag k="spline:link" v="555981454"/>
+  </node>
+  <node id="555981419" lat="37.8802108" lon="-122.2600562"/>
+  <node id="555981430" lat="37.8802312" lon="-122.2601678"/>
+  <node id="555981440" lat="37.8802854" lon="-122.2602793"/>
+  <node id="555981454" lat="37.8804073" lon="-122.2603652">
+    <tag k="spline:link" v="1305278873"/>
+  </node>
+  <node id="555981459" lat="37.8809154" lon="-122.2604424"/>
+  <node id="555981460" lat="37.8809493" lon="-122.2601678"/>
+  <node id="555981461" lat="37.8810915" lon="-122.2595584"/>
+  <node id="555981475" lat="37.8811457" lon="-122.2595154"/>
+  <node id="555981486" lat="37.8812406" lon="-122.2588288"/>
+  <node id="555981530" lat="37.8809154" lon="-122.2584168"/>
+  <node id="555981543" lat="37.8809378" lon="-122.2583112"/>
+  <node id="555981555" lat="37.8811119" lon="-122.2584082"/>
+  <node id="555981565" lat="37.8812609" lon="-122.2584254"/>
+  <node id="555981574" lat="37.8814032" lon="-122.2583739"/>
+  <node id="555981581" lat="37.8819383" lon="-122.2581250"/>
+  <node id="555981591" lat="37.8820671" lon="-122.2581336"/>
+  <node id="555981606" lat="37.8823177" lon="-122.2582366"/>
+  <node id="555981609" lat="37.8825955" lon="-122.2583567"/>
+  <node id="555981614" lat="37.8827716" lon="-122.2583825"/>
+  <node id="555981626" lat="37.8829410" lon="-122.2583739"/>
+  <node id="555981639" lat="37.8830697" lon="-122.2583396"/>
+  <node id="555981649" lat="37.8832051" lon="-122.2582795"/>
+  <node id="555981659" lat="37.8832864" lon="-122.2582280"/>
+  <node id="555981673" lat="37.8833271" lon="-122.2582795"/>
+  <node id="555981685" lat="37.8835913" lon="-122.2580563"/>
+  <node id="792213527" lat="37.8833525" lon="-122.2632632"/>
+  <node id="792213535" lat="37.8830665" lon="-122.2639975">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2326"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="792213550" lat="37.8842602" lon="-122.2634005">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="792213553" lat="37.8839080" lon="-122.2634883">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="792213568" lat="37.8838447" lon="-122.2639822">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1321"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="792213588" lat="37.8831403" lon="-122.2638659">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2328"/>
+    <tag k="addr:street" v="Rose Street"/>
+  </node>
+  <node id="792213596" lat="37.8841082" lon="-122.2638259">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="792213605" lat="37.8842180" lon="-122.2635894">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="792213609" lat="37.8840239" lon="-122.2633243">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1307"/>
+    <tag k="addr:street" v="Bayview Place"/>
+  </node>
+  <node id="792213624" lat="37.8832743" lon="-122.2632082"/>
+  <node id="792213630" lat="37.8841021" lon="-122.2625366"/>
+  <node id="1302456305" lat="37.8803996" lon="-122.2587737"/>
+  <node id="1302456306" lat="37.8804261" lon="-122.2585382"/>
+  <node id="1302456308" lat="37.8806509" lon="-122.2584665"/>
+  <node id="1302456310" lat="37.8809111" lon="-122.2583297"/>
+  <node id="1302456313" lat="37.8805005" lon="-122.2586212"/>
+  <node id="1302456316" lat="37.8811996" lon="-122.2590675"/>
+  <node id="1302456328" lat="37.8806474" lon="-122.2588298"/>
+  <node id="1302456329" lat="37.8806262" lon="-122.2585898"/>
+  <node id="1302456330" lat="37.8806439" lon="-122.2585337"/>
+  <node id="1302456331" lat="37.8805040" lon="-122.2585831"/>
+  <node id="1302456332" lat="37.8810793" lon="-122.2590271"/>
+  <node id="1302456333" lat="37.8809890" lon="-122.2591684"/>
+  <node id="1302456334" lat="37.8811448" lon="-122.2593747"/>
+  <node id="1302456335" lat="37.8808545" lon="-122.2586862"/>
+  <node id="1302456336" lat="37.8810917" lon="-122.2589576"/>
+  <node id="1302456337" lat="37.8806420" lon="-122.2584330"/>
+  <node id="1302456338" lat="37.8806616" lon="-122.2585382"/>
+  <node id="1302456340" lat="37.8804332" lon="-122.2585629"/>
+  <node id="1302456342" lat="37.8803699" lon="-122.2588993"/>
+  <node id="1302456344" lat="37.8808917" lon="-122.2584710"/>
+  <node id="1302456358" lat="37.8808014" lon="-122.2586773"/>
+  <node id="1302456360" lat="37.8809678" lon="-122.2593164"/>
+  <node id="1302456362" lat="37.8808846" lon="-122.2584373"/>
+  <node id="1302456364" lat="37.8806421" lon="-122.2586616"/>
+  <node id="1302460987" lat="37.8807345" lon="-122.2592563">
+    <tag k="leisure" v="playground"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1553408470" lat="37.8845615" lon="-122.2593331"/>
+  <node id="1718810905" lat="37.8811010" lon="-122.2624700">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1864932007" lat="37.8805767" lon="-122.2587583">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1581"/>
+    <tag k="addr:postcode" v="94708"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hillside School"/>
+    <tag k="operator" v="German International School of Silicon Valley"/>
+    <tag k="phone" v="+1 510 558 0436"/>
+    <tag k="website" v="http://www.gissv.org/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1984290845" lat="37.8827344" lon="-122.2598006"/>
+  <node id="1984290848" lat="37.8826984" lon="-122.2598402"/>
+  <node id="1984290851" lat="37.8826582" lon="-122.2599709"/>
+  <node id="1984290853" lat="37.8826765" lon="-122.2596397"/>
+  <node id="1984290854" lat="37.8826433" lon="-122.2599488"/>
+  <node id="1984290856" lat="37.8826306" lon="-122.2599401"/>
+  <node id="1984290858" lat="37.8826830" lon="-122.2599568"/>
+  <node id="1984290860" lat="37.8826973" lon="-122.2599448"/>
+  <node id="1984290862" lat="37.8826629" lon="-122.2599602"/>
+  <node id="1984290866" lat="37.8827021" lon="-122.2598911"/>
+  <node id="1984290868" lat="37.8827042" lon="-122.2599320"/>
+  <node id="1984290871" lat="37.8827068" lon="-122.2598489"/>
+  <node id="1984290873" lat="37.8825271" lon="-122.2600675"/>
+  <node id="1984290887" lat="37.8827026" lon="-122.2598227"/>
+  <node id="1984290891" lat="37.8827143" lon="-122.2598167"/>
+  <node id="1984290893" lat="37.8827196" lon="-122.2601024"/>
+  <node id="1984290894" lat="37.8827501" lon="-122.2598385"/>
+  <node id="1984290897" lat="37.8826973" lon="-122.2598643"/>
+  <node id="1984290899" lat="37.8828519" lon="-122.2598448"/>
+  <node id="1984290901" lat="37.8828624" lon="-122.2597349"/>
+  <node id="1984290908" lat="37.8829884" lon="-122.2592159"/>
+  <node id="1984290911" lat="37.8827319" lon="-122.2591861"/>
+  <node id="1984290919" lat="37.8827439" lon="-122.2591924"/>
+  <node id="1984290924" lat="37.8825853" lon="-122.2596268"/>
+  <node id="1984290942" lat="37.8826402" lon="-122.2599642">
+    <tag k="tourism" v="viewpoint"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1984290943" lat="37.8826825" lon="-122.2596698"/>
+  <node id="1984290947" lat="37.8826978" lon="-122.2596760"/>
+  <node id="1984290949" lat="37.8826068" lon="-122.2597952"/>
+  <node id="1984290950" lat="37.8825983" lon="-122.2598066"/>
+  <node id="1984290951" lat="37.8829929" lon="-122.2593784"/>
+  <node id="1984290953" lat="37.8827296" lon="-122.2597919"/>
+  <node id="1984290954" lat="37.8827612" lon="-122.2591900">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="1984290958" lat="37.8826582" lon="-122.2597610"/>
+  <node id="1984290960" lat="37.8826333" lon="-122.2597758"/>
+  <node id="1984290963" lat="37.8826444" lon="-122.2597275"/>
+  <node id="1984290986" lat="37.8826740" lon="-122.2597436"/>
+  <node id="1984290989" lat="37.8826767" lon="-122.2597288"/>
+  <node id="1984290992" lat="37.8825983" lon="-122.2597483"/>
+  <node id="1984290995" lat="37.8825724" lon="-122.2597651"/>
+  <node id="1984290997" lat="37.8825698" lon="-122.2597892"/>
+  <node id="1984290999" lat="37.8825851" lon="-122.2597946"/>
+  <node id="1984291001" lat="37.8829275" lon="-122.2592145">
+    <tag k="genus" v="Sequoia"/>
+    <tag k="natural" v="tree"/>
+    <tag k="type" v="conifer"/>
+  </node>
+  <node id="1984291004" lat="37.8828164" lon="-122.2592058">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="1984291006" lat="37.8828804" lon="-122.2595330">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="1984291007" lat="37.8826920" lon="-122.2599655"/>
+  <node id="1984291008" lat="37.8828392" lon="-122.2596960">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="1984291009" lat="37.8828111" lon="-122.2594868">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="1984291011" lat="37.8827111" lon="-122.2599441"/>
+  <node id="1984291013" lat="37.8827185" lon="-122.2599186"/>
+  <node id="1984291015" lat="37.8827079" lon="-122.2599119"/>
+  <node id="1984291025" lat="37.8827100" lon="-122.2598851"/>
+  <node id="1984291030" lat="37.8827471" lon="-122.2597896"/>
+  <node id="1984291032" lat="37.8827185" lon="-122.2598013"/>
+  <node id="1984291035" lat="37.8829249" lon="-122.2597402"/>
+  <node id="1984291038" lat="37.8827100" lon="-122.2598106"/>
+  <node id="1984291040" lat="37.8827391" lon="-122.2597604"/>
+  <node id="1984291042" lat="37.8827788" lon="-122.2598113"/>
+  <node id="1984291044" lat="37.8826317" lon="-122.2599521"/>
+  <node id="1984291046" lat="37.8827148" lon="-122.2597389"/>
+  <node id="1984291048" lat="37.8827047" lon="-122.2597188"/>
+  <node id="1984291049" lat="37.8827195" lon="-122.2596832"/>
+  <node id="1984291051" lat="37.8829852" lon="-122.2592206"/>
+  <node id="1984291053" lat="37.8829244" lon="-122.2597101"/>
+  <node id="1984291055" lat="37.8828603" lon="-122.2597034"/>
+  <node id="1984291056" lat="37.8828111" lon="-122.2598247"/>
+  <node id="1984291058" lat="37.8827846" lon="-122.2591958"/>
+  <node id="1984291060" lat="37.8828497" lon="-122.2598194"/>
+  <node id="1984291062" lat="37.8827603" lon="-122.2597919"/>
+  <node id="1984291065" lat="37.8827317" lon="-122.2597811"/>
+  <node id="1984291068" lat="37.8827079" lon="-122.2597563"/>
+  <node id="1984291085" lat="37.8826968" lon="-122.2597557"/>
+  <node id="1984291087" lat="37.8827259" lon="-122.2597704"/>
+  <node id="1984291089" lat="37.8826650" lon="-122.2597832"/>
+  <node id="1984291091" lat="37.8826285" lon="-122.2598019"/>
+  <node id="1984291093" lat="37.8826497" lon="-122.2597932"/>
+  <node id="1984291095" lat="37.8826042" lon="-122.2598676"/>
+  <node id="1984291097" lat="37.8826095" lon="-122.2598925"/>
+  <node id="1984291099" lat="37.8826825" lon="-122.2597624"/>
+  <node id="1984291100" lat="37.8826179" lon="-122.2599173"/>
+  <node id="1984291101" lat="37.8826137" lon="-122.2598160"/>
+  <node id="1984291102" lat="37.8826047" lon="-122.2598375"/>
+  <node id="1984291103" lat="37.8826084" lon="-122.2599106"/>
+  <node id="2297665096" lat="37.8802259" lon="-122.2602797"/>
+  <node id="2297665097" lat="37.8803490" lon="-122.2599988"/>
+  <node id="2297665098" lat="37.8803530" lon="-122.2588533"/>
+  <node id="2297665099" lat="37.8803549" lon="-122.2600871"/>
+  <node id="2297665100" lat="37.8803645" lon="-122.2598835"/>
+  <node id="2297665101" lat="37.8803916" lon="-122.2601705"/>
+  <node id="2297665102" lat="37.8804381" lon="-122.2602220"/>
+  <node id="2297665103" lat="37.8804517" lon="-122.2588680"/>
+  <node id="2297665104" lat="37.8804599" lon="-122.2614077">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="2297665105" lat="37.8805097" lon="-122.2602515"/>
+  <node id="2297665106" lat="37.8805233" lon="-122.2589121"/>
+  <node id="2297665107" lat="37.8805596" lon="-122.2589597"/>
+  <node id="2297665108" lat="37.8805833" lon="-122.2590078"/>
+  <node id="2297665109" lat="37.8806027" lon="-122.2592408"/>
+  <node id="2297665110" lat="37.8806066" lon="-122.2589931"/>
+  <node id="2297665111" lat="37.8806104" lon="-122.2591059"/>
+  <node id="2297665112" lat="37.8806162" lon="-122.2591599"/>
+  <node id="2297665113" lat="37.8807072" lon="-122.2591034"/>
+  <node id="2297665114" lat="37.8808036" lon="-122.2582123"/>
+  <node id="2297665115" lat="37.8808098" lon="-122.2602281"/>
+  <node id="2297665116" lat="37.8809893" lon="-122.2593660"/>
+  <node id="2297665117" lat="37.8810519" lon="-122.2593806"/>
+  <node id="2297665118" lat="37.8811597" lon="-122.2594141"/>
+  <node id="2297686124" lat="37.8791117" lon="-122.2631453"/>
+  <node id="2297686125" lat="37.8791338" lon="-122.2629467"/>
+  <node id="2607024441" lat="37.8828818" lon="-122.2634946">
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1398"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="building" v="house"/>
+  </node>
+  <node id="2610109898" lat="37.8841685" lon="-122.2624987"/>
+  <node id="2610109901" lat="37.8841898" lon="-122.2624472"/>
+  <node id="2610109903" lat="37.8842755" lon="-122.2631445"/>
+  <node id="2610109905" lat="37.8842847" lon="-122.2622500"/>
+  <node id="2610109907" lat="37.8843416" lon="-122.2621953"/>
+  <node id="2610109910" lat="37.8843775" lon="-122.2628079"/>
+  <node id="2610109911" lat="37.8843743" lon="-122.2601157"/>
+  <node id="2610109915" lat="37.8844809" lon="-122.2603349"/>
+  <node id="2610109917" lat="37.8844829" lon="-122.2612169"/>
+  <node id="2610109919" lat="37.8844910" lon="-122.2600267"/>
+  <node id="2610109920" lat="37.8844928" lon="-122.2628495"/>
+  <node id="2610109921" lat="37.8845023" lon="-122.2626730"/>
+  <node id="2610109924" lat="37.8845310" lon="-122.2610760"/>
+  <node id="2610109925" lat="37.8845450" lon="-122.2605963"/>
+  <node id="2610109928" lat="37.8845647" lon="-122.2612651"/>
+  <node id="2610109931" lat="37.8845860" lon="-122.2628656"/>
+  <node id="2610109932" lat="37.8846160" lon="-122.2626930"/>
+  <node id="2610109936" lat="37.8846516" lon="-122.2614340"/>
+  <node id="2610109937" lat="37.8846555" lon="-122.2616036"/>
+  <node id="2612218341" lat="37.8792097" lon="-122.2635211"/>
+  <node id="2612218345" lat="37.8792350" lon="-122.2628439"/>
+  <node id="2932064606" lat="37.8808167" lon="-122.2593047">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="no"/>
+  </node>
+  <node id="3137466945" lat="37.8840783" lon="-122.2628487"/>
+  <node id="3137466946" lat="37.8840522" lon="-122.2627381"/>
+  <node id="3137466947" lat="37.8840700" lon="-122.2626844"/>
+  <node id="3137466948" lat="37.8840312" lon="-122.2626637"/>
+  <node id="3137466949" lat="37.8840076" lon="-122.2627346"/>
+  <node id="3137466950" lat="37.8839815" lon="-122.2627445"/>
+  <node id="3137466951" lat="37.8840121" lon="-122.2628739"/>
+  <node id="3137466952" lat="37.8830124" lon="-122.2619918"/>
+  <node id="3137466953" lat="37.8829604" lon="-122.2619795"/>
+  <node id="3137466954" lat="37.8828958" lon="-122.2619902"/>
+  <node id="3137466955" lat="37.8828868" lon="-122.2619022"/>
+  <node id="3137466956" lat="37.8829528" lon="-122.2618913"/>
+  <node id="3137466957" lat="37.8829692" lon="-122.2617799"/>
+  <node id="3137466958" lat="37.8830411" lon="-122.2617969"/>
+  <node id="3137466959" lat="37.8833199" lon="-122.2613637"/>
+  <node id="3137466960" lat="37.8833312" lon="-122.2612402"/>
+  <node id="3137466961" lat="37.8832173" lon="-122.2612193"/>
+  <node id="3137466962" lat="37.8832021" lon="-122.2613460"/>
+  <node id="3137466963" lat="37.8833199" lon="-122.2617213"/>
+  <node id="3137466964" lat="37.8832237" lon="-122.2616459"/>
+  <node id="3137466965" lat="37.8832680" lon="-122.2615353"/>
+  <node id="3137466966" lat="37.8833110" lon="-122.2615609"/>
+  <node id="3137466967" lat="37.8833072" lon="-122.2615834"/>
+  <node id="3137466968" lat="37.8833616" lon="-122.2616203"/>
+  <node id="3137466969" lat="37.8832779" lon="-122.2611965"/>
+  <node id="3137466970" lat="37.8832941" lon="-122.2610770"/>
+  <node id="3137466971" lat="37.8831866" lon="-122.2610535"/>
+  <node id="3137466972" lat="37.8831703" lon="-122.2611730"/>
+  <node id="3137466973" lat="37.8834344" lon="-122.2602827"/>
+  <node id="3137466974" lat="37.8834471" lon="-122.2601667"/>
+  <node id="3137466975" lat="37.8833369" lon="-122.2601474"/>
+  <node id="3137466976" lat="37.8833269" lon="-122.2602390"/>
+  <node id="3137466977" lat="37.8833496" lon="-122.2602430"/>
+  <node id="3137466978" lat="37.8833469" lon="-122.2602675"/>
+  <node id="3137466979" lat="37.8835278" lon="-122.2601160"/>
+  <node id="3137466980" lat="37.8835478" lon="-122.2601200"/>
+  <node id="3137466981" lat="37.8835463" lon="-122.2601321"/>
+  <node id="3137466982" lat="37.8835711" lon="-122.2601370"/>
+  <node id="3137466983" lat="37.8835736" lon="-122.2601168"/>
+  <node id="3137466984" lat="37.8836317" lon="-122.2601284"/>
+  <node id="3137466985" lat="37.8836386" lon="-122.2600735"/>
+  <node id="3137466986" lat="37.8836792" lon="-122.2600815"/>
+  <node id="3137466987" lat="37.8836884" lon="-122.2600073"/>
+  <node id="3137466988" lat="37.8836274" lon="-122.2599951"/>
+  <node id="3137466989" lat="37.8836238" lon="-122.2600244"/>
+  <node id="3137466990" lat="37.8835567" lon="-122.2600110"/>
+  <node id="3137466991" lat="37.8835523" lon="-122.2600466"/>
+  <node id="3137466992" lat="37.8835368" lon="-122.2600435"/>
+  <node id="3137466993" lat="37.8830899" lon="-122.2594078"/>
+  <node id="3137466994" lat="37.8830979" lon="-122.2592792"/>
+  <node id="3137466995" lat="37.8830593" lon="-122.2592753"/>
+  <node id="3137466996" lat="37.8830512" lon="-122.2594040"/>
+  <node id="3137466997" lat="37.8838740" lon="-122.2598033"/>
+  <node id="3137466998" lat="37.8838962" lon="-122.2596310"/>
+  <node id="3137466999" lat="37.8838019" lon="-122.2596115"/>
+  <node id="3137467000" lat="37.8837940" lon="-122.2596733"/>
+  <node id="3137467001" lat="37.8837765" lon="-122.2596697"/>
+  <node id="3137467002" lat="37.8837700" lon="-122.2597204"/>
+  <node id="3137467003" lat="37.8837916" lon="-122.2597249"/>
+  <node id="3137467004" lat="37.8837839" lon="-122.2597846"/>
+  <node id="3137467005" lat="37.8822515" lon="-122.2594217"/>
+  <node id="3137467006" lat="37.8822613" lon="-122.2593395"/>
+  <node id="3137467007" lat="37.8821305" lon="-122.2593144"/>
+  <node id="3137467008" lat="37.8821199" lon="-122.2594035"/>
+  <node id="3137467009" lat="37.8821557" lon="-122.2594103"/>
+  <node id="3137467010" lat="37.8821525" lon="-122.2594372"/>
+  <node id="3137467011" lat="37.8821825" lon="-122.2594429"/>
+  <node id="3137467012" lat="37.8821865" lon="-122.2594092"/>
+  <node id="3137467013" lat="37.8819190" lon="-122.2591889"/>
+  <node id="3137467014" lat="37.8818708" lon="-122.2590086"/>
+  <node id="3137467015" lat="37.8817424" lon="-122.2590636"/>
+  <node id="3137467016" lat="37.8817789" lon="-122.2592000"/>
+  <node id="3137467017" lat="37.8818503" lon="-122.2591694"/>
+  <node id="3137467018" lat="37.8818621" lon="-122.2592134"/>
+  <node id="3137467019" lat="37.8810039" lon="-122.2605980"/>
+  <node id="3137467020" lat="37.8810115" lon="-122.2604782"/>
+  <node id="3137467021" lat="37.8809586" lon="-122.2604729"/>
+  <node id="3137467022" lat="37.8809566" lon="-122.2605050"/>
+  <node id="3137467023" lat="37.8809032" lon="-122.2604996"/>
+  <node id="3137467024" lat="37.8808977" lon="-122.2605872"/>
+  <node id="3137467025" lat="37.8811611" lon="-122.2600178"/>
+  <node id="3137467026" lat="37.8811723" lon="-122.2598498"/>
+  <node id="3137467027" lat="37.8810577" lon="-122.2598374"/>
+  <node id="3137467028" lat="37.8810520" lon="-122.2599219"/>
+  <node id="3137467129" lat="37.8810300" lon="-122.2600037"/>
+  <node id="3927314300" lat="37.8833651" lon="-122.2631270">
+    <tag k="addr:housenumber" v="1355"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314301" lat="37.8830982" lon="-122.2634000">
+    <tag k="addr:housenumber" v="1356"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314302" lat="37.8830147" lon="-122.2634292">
+    <tag k="addr:housenumber" v="1360"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314303" lat="37.8832652" lon="-122.2630412">
+    <tag k="addr:housenumber" v="1387"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314304" lat="37.8827345" lon="-122.2635147">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314305" lat="37.8829555" lon="-122.2630652">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314306" lat="37.8826895" lon="-122.2619781">
+    <tag k="addr:housenumber" v="1402"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314307" lat="37.8823975" lon="-122.2620345">
+    <tag k="addr:housenumber" v="1403"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314308" lat="37.8828075" lon="-122.2631561">
+    <tag k="addr:housenumber" v="1403"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314309" lat="37.8827147" lon="-122.2621548">
+    <tag k="addr:housenumber" v="1404"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314310" lat="37.8826779" lon="-122.2623087">
+    <tag k="addr:housenumber" v="1406"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314311" lat="37.8826107" lon="-122.2635063">
+    <tag k="addr:housenumber" v="1406"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314312" lat="37.8826653" lon="-122.2624088">
+    <tag k="addr:housenumber" v="1406a"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314313" lat="37.8827891" lon="-122.2614868">
+    <tag k="addr:housenumber" v="1407"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314314" lat="37.8825224" lon="-122.2634398">
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314315" lat="37.8824162" lon="-122.2621733">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314316" lat="37.8823973" lon="-122.2623701">
+    <tag k="addr:housenumber" v="1415"/>
+    <tag k="addr:street" v="Hawthorne Terrace"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314317" lat="37.8822943" lon="-122.2631737">
+    <tag k="addr:housenumber" v="1425"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314318" lat="37.8825522" lon="-122.2615078">
+    <tag k="addr:housenumber" v="1429"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="3927314321" lat="37.8832327" lon="-122.2614309">
+    <tag k="addr:housenumber" v="2507"/>
+    <tag k="addr:street" v="Rose Walk"/>
+    <tag k="survey:date" v="2015-12-30"/>
+  </node>
+  <node id="4294292351" lat="37.8792164" lon="-122.2635049">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294292352" lat="37.8794034" lon="-122.2610542">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294292353" lat="37.8794534" lon="-122.2611601">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294292354" lat="37.8794754" lon="-122.2609901">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294292355" lat="37.8795250" lon="-122.2611007">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294455615" lat="37.8790548" lon="-122.2583500">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294455617" lat="37.8797428" lon="-122.2589329">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294455618" lat="37.8798205" lon="-122.2588466">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4294455619" lat="37.8798520" lon="-122.2581083"/>
+  <node id="4294455625" lat="37.8806800" lon="-122.2602625"/>
+  <node id="4294455626" lat="37.8807492" lon="-122.2602575"/>
+  <node id="4294455627" lat="37.8808556" lon="-122.2601449"/>
+  <node id="4294455628" lat="37.8808911" lon="-122.2600384"/>
+  <node id="4295642334" lat="37.8798148" lon="-122.2624009"/>
+  <node id="4295642335" lat="37.8799416" lon="-122.2604947"/>
+  <node id="4295642339" lat="37.8804571" lon="-122.2614318">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4295642340" lat="37.8805037" lon="-122.2615012">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4295642343" lat="37.8806500" lon="-122.2624780"/>
+  <node id="4295642345" lat="37.8807011" lon="-122.2615092"/>
+  <node id="4295642347" lat="37.8808871" lon="-122.2636837">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4295642350" lat="37.8810729" lon="-122.2626444"/>
+  <node id="4295642351" lat="37.8811018" lon="-122.2625665"/>
+  <node id="4295642352" lat="37.8811646" lon="-122.2625787"/>
+  <node id="4295642354" lat="37.8817471" lon="-122.2626362"/>
+  <node id="4295642355" lat="37.8818856" lon="-122.2615115">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4295642356" lat="37.8819697" lon="-122.2614563">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4295642361" lat="37.8843960" lon="-122.2627286">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4585648769" lat="37.8806734" lon="-122.2613308"/>
+  <node id="4585648770" lat="37.8806376" lon="-122.2613274"/>
+  <node id="4585648771" lat="37.8806394" lon="-122.2612969"/>
+  <node id="4585648772" lat="37.8806325" lon="-122.2612962"/>
+  <node id="4585648773" lat="37.8806332" lon="-122.2612848"/>
+  <node id="4585648774" lat="37.8805995" lon="-122.2612816"/>
+  <node id="4585648775" lat="37.8805703" lon="-122.2612789"/>
+  <node id="4585648776" lat="37.8805682" lon="-122.2613161"/>
+  <node id="4585648777" lat="37.8805452" lon="-122.2613139"/>
+  <node id="4585648778" lat="37.8805432" lon="-122.2613481"/>
+  <node id="4585648779" lat="37.8805484" lon="-122.2613486"/>
+  <node id="4585648780" lat="37.8805478" lon="-122.2613583"/>
+  <node id="4585648781" lat="37.8805391" lon="-122.2613575"/>
+  <node id="4585648782" lat="37.8805373" lon="-122.2613878"/>
+  <node id="4585648783" lat="37.8805732" lon="-122.2613912"/>
+  <node id="4585648784" lat="37.8805737" lon="-122.2613827"/>
+  <node id="4585648785" lat="37.8805975" lon="-122.2613849"/>
+  <node id="4585648786" lat="37.8805958" lon="-122.2614142"/>
+  <node id="4585648787" lat="37.8806247" lon="-122.2614169"/>
+  <node id="4585648788" lat="37.8806252" lon="-122.2614080"/>
+  <node id="4585648789" lat="37.8806354" lon="-122.2614090"/>
+  <node id="4585648790" lat="37.8806347" lon="-122.2614194"/>
+  <node id="4585648791" lat="37.8806680" lon="-122.2614225"/>
+  <node id="4585657185" lat="37.8798432" lon="-122.2601156"/>
+  <node id="4585657186" lat="37.8798340" lon="-122.2601234"/>
+  <node id="4585657187" lat="37.8798323" lon="-122.2601325"/>
+  <node id="4585657188" lat="37.8798389" lon="-122.2601462"/>
+  <node id="4585657789" lat="37.8799149" lon="-122.2602075"/>
+  <node id="4585657790" lat="37.8798968" lon="-122.2602037"/>
+  <node id="4585657791" lat="37.8798950" lon="-122.2602179"/>
+  <node id="4585657792" lat="37.8798385" lon="-122.2602063"/>
+  <node id="4585657793" lat="37.8798460" lon="-122.2601480"/>
+  <node id="4585657794" lat="37.8798335" lon="-122.2601412"/>
+  <node id="4585657795" lat="37.8798372" lon="-122.2601181"/>
+  <node id="4585657796" lat="37.8798507" lon="-122.2601161"/>
+  <node id="4585657797" lat="37.8798550" lon="-122.2600828"/>
+  <node id="4585657798" lat="37.8799052" lon="-122.2600931"/>
+  <node id="4585657799" lat="37.8799046" lon="-122.2600983"/>
+  <node id="4585657800" lat="37.8799196" lon="-122.2601014"/>
+  <node id="4585657801" lat="37.8799180" lon="-122.2601139"/>
+  <node id="4585657802" lat="37.8799267" lon="-122.2601157"/>
+  <node id="4585657803" lat="37.8799244" lon="-122.2598783"/>
+  <node id="4585657804" lat="37.8798391" lon="-122.2598599"/>
+  <node id="4585657805" lat="37.8798401" lon="-122.2598524"/>
+  <node id="4585657806" lat="37.8797956" lon="-122.2598428"/>
+  <node id="4585657807" lat="37.8798103" lon="-122.2597328"/>
+  <node id="4585657808" lat="37.8798546" lon="-122.2597424"/>
+  <node id="4585657809" lat="37.8798583" lon="-122.2597147"/>
+  <node id="4585657810" lat="37.8799439" lon="-122.2597331"/>
+  <node id="4585657811" lat="37.8797592" lon="-122.2599887"/>
+  <node id="4585657812" lat="37.8797797" lon="-122.2599927"/>
+  <node id="4585657813" lat="37.8797914" lon="-122.2598971"/>
+  <node id="4585657814" lat="37.8797692" lon="-122.2598928"/>
+  <node id="4585657815" lat="37.8797712" lon="-122.2598762"/>
+  <node id="4585657816" lat="37.8797022" lon="-122.2598626"/>
+  <node id="4585657817" lat="37.8796836" lon="-122.2600147"/>
+  <node id="4585657818" lat="37.8797543" lon="-122.2600286"/>
+  <node id="4585657819" lat="37.8798495" lon="-122.2602992"/>
+  <node id="4585657820" lat="37.8798420" lon="-122.2602976"/>
+  <node id="4585657821" lat="37.8798359" lon="-122.2603438"/>
+  <node id="4585657822" lat="37.8798659" lon="-122.2603501"/>
+  <node id="4585657823" lat="37.8798591" lon="-122.2604021"/>
+  <node id="4585657824" lat="37.8797960" lon="-122.2603888"/>
+  <node id="4585657825" lat="37.8798001" lon="-122.2603572"/>
+  <node id="4585657826" lat="37.8797575" lon="-122.2603483"/>
+  <node id="4585657827" lat="37.8797585" lon="-122.2603409"/>
+  <node id="4585657828" lat="37.8796949" lon="-122.2603276"/>
+  <node id="4585657829" lat="37.8796988" lon="-122.2602974"/>
+  <node id="4585657830" lat="37.8796943" lon="-122.2602840"/>
+  <node id="4585657831" lat="37.8796922" lon="-122.2602665"/>
+  <node id="4585657832" lat="37.8796946" lon="-122.2602404"/>
+  <node id="4585657833" lat="37.8797028" lon="-122.2602226"/>
+  <node id="4585657834" lat="37.8797105" lon="-122.2602177"/>
+  <node id="4585657835" lat="37.8797114" lon="-122.2602111"/>
+  <node id="4585657836" lat="37.8798570" lon="-122.2602416"/>
+  <node id="4585657837" lat="37.8797215" lon="-122.2607740"/>
+  <node id="4585657838" lat="37.8796216" lon="-122.2607539"/>
+  <node id="4585657839" lat="37.8796131" lon="-122.2608224"/>
+  <node id="4585657840" lat="37.8795943" lon="-122.2608187"/>
+  <node id="4585657841" lat="37.8795850" lon="-122.2608931"/>
+  <node id="4585657842" lat="37.8797036" lon="-122.2609169"/>
+  <node id="4585657843" lat="37.8798943" lon="-122.2605875"/>
+  <node id="4585657844" lat="37.8798080" lon="-122.2605869"/>
+  <node id="4585657845" lat="37.8798079" lon="-122.2606157"/>
+  <node id="4585657846" lat="37.8798004" lon="-122.2606157"/>
+  <node id="4585657847" lat="37.8798002" lon="-122.2606783"/>
+  <node id="4585657848" lat="37.8798293" lon="-122.2606785"/>
+  <node id="4585657849" lat="37.8798290" lon="-122.2607335"/>
+  <node id="4585657850" lat="37.8798937" lon="-122.2607339"/>
+  <node id="4585657851" lat="37.8797808" lon="-122.2615553"/>
+  <node id="4585657852" lat="37.8797705" lon="-122.2615532"/>
+  <node id="4585657853" lat="37.8797840" lon="-122.2614469"/>
+  <node id="4585657854" lat="37.8796775" lon="-122.2614251"/>
+  <node id="4585657855" lat="37.8796559" lon="-122.2615945"/>
+  <node id="4585657856" lat="37.8797727" lon="-122.2616184"/>
+  <node id="4585657857" lat="37.8798121" lon="-122.2609881"/>
+  <node id="4585657858" lat="37.8797129" lon="-122.2609670"/>
+  <node id="4585657859" lat="37.8797091" lon="-122.2609961"/>
+  <node id="4585657860" lat="37.8796907" lon="-122.2609922"/>
+  <node id="4585657861" lat="37.8796826" lon="-122.2610538"/>
+  <node id="4585657862" lat="37.8797137" lon="-122.2610604"/>
+  <node id="4585657863" lat="37.8797090" lon="-122.2610960"/>
+  <node id="4585657864" lat="37.8797427" lon="-122.2611032"/>
+  <node id="4585657865" lat="37.8797391" lon="-122.2611304"/>
+  <node id="4585657866" lat="37.8797918" lon="-122.2611416"/>
+  <node id="4585657867" lat="37.8799278" lon="-122.2611945"/>
+  <node id="4585657868" lat="37.8799131" lon="-122.2611915"/>
+  <node id="4585657869" lat="37.8799223" lon="-122.2611195"/>
+  <node id="4585657870" lat="37.8799062" lon="-122.2611162"/>
+  <node id="4585657871" lat="37.8799142" lon="-122.2610534"/>
+  <node id="4585657872" lat="37.8799044" lon="-122.2610514"/>
+  <node id="4585657873" lat="37.8799088" lon="-122.2610163"/>
+  <node id="4585657874" lat="37.8798448" lon="-122.2610032"/>
+  <node id="4585657875" lat="37.8798261" lon="-122.2611503"/>
+  <node id="4585657876" lat="37.8798334" lon="-122.2611518"/>
+  <node id="4585657877" lat="37.8798224" lon="-122.2612382"/>
+  <node id="4585657878" lat="37.8799197" lon="-122.2612580"/>
+  <node id="4585657879" lat="37.8801218" lon="-122.2608282"/>
+  <node id="4585657880" lat="37.8800124" lon="-122.2608031"/>
+  <node id="4585657881" lat="37.8800016" lon="-122.2608788"/>
+  <node id="4585657882" lat="37.8801110" lon="-122.2609039"/>
+  <node id="4585657883" lat="37.8801241" lon="-122.2609379"/>
+  <node id="4585657884" lat="37.8800903" lon="-122.2609304"/>
+  <node id="4585657885" lat="37.8800910" lon="-122.2609256"/>
+  <node id="4585657886" lat="37.8800435" lon="-122.2609150"/>
+  <node id="4585657887" lat="37.8800427" lon="-122.2609204"/>
+  <node id="4585657888" lat="37.8800080" lon="-122.2609127"/>
+  <node id="4585657889" lat="37.8799967" lon="-122.2609944"/>
+  <node id="4585657890" lat="37.8801126" lon="-122.2610202"/>
+  <node id="4585657891" lat="37.8801234" lon="-122.2610892"/>
+  <node id="4585657892" lat="37.8800142" lon="-122.2610653"/>
+  <node id="4585657893" lat="37.8800034" lon="-122.2611447"/>
+  <node id="4585657894" lat="37.8800376" lon="-122.2611522"/>
+  <node id="4585657895" lat="37.8800247" lon="-122.2612473"/>
+  <node id="4585657896" lat="37.8800996" lon="-122.2612637"/>
+  <node id="4585657897" lat="37.8802587" lon="-122.2610913"/>
+  <node id="4585657898" lat="37.8801574" lon="-122.2610709"/>
+  <node id="4585657899" lat="37.8801286" lon="-122.2613000"/>
+  <node id="4585657900" lat="37.8802298" lon="-122.2613204"/>
+  <node id="5035457317" lat="37.8833909" lon="-122.2598940"/>
+  <node id="5035457318" lat="37.8834658" lon="-122.2598729"/>
+  <node id="5035457319" lat="37.8833337" lon="-122.2599396"/>
+  <node id="5035457320" lat="37.8833583" lon="-122.2599132"/>
+  <node id="5035457521" lat="37.8833099" lon="-122.2599781"/>
+  <node id="5035457522" lat="37.8834267" lon="-122.2598794"/>
+  <way id="6327971">
+    <nd ref="240469730"/>
+    <nd ref="53021352"/>
+    <nd ref="269301257"/>
+    <nd ref="59942432"/>
+    <nd ref="269301325"/>
+    <nd ref="240469561"/>
+    <nd ref="339928523"/>
+    <nd ref="269301204"/>
+    <nd ref="59942433"/>
+    <nd ref="59942434"/>
+    <nd ref="339928521"/>
+    <nd ref="269301201"/>
+    <nd ref="59942435"/>
+    <nd ref="53021355"/>
+    <nd ref="240469562"/>
+    <nd ref="269301196"/>
+    <nd ref="59805954"/>
+    <nd ref="339928524"/>
+    <nd ref="59805979"/>
+    <nd ref="269301191"/>
+    <nd ref="53021357"/>
+    <nd ref="469612694"/>
+    <nd ref="240469667"/>
+    <nd ref="240469668"/>
+    <nd ref="59942457"/>
+    <nd ref="317112601"/>
+    <nd ref="4294455624"/>
+    <nd ref="53021359"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:street" v="La Loma Avenue"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="La Loma Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="La Loma"/>
+    <tag k="tiger:name_type" v="Ave"/>
+  </way>
+  <way id="6329140">
+    <nd ref="53026102"/>
+    <nd ref="269301299"/>
+    <nd ref="258757144"/>
+    <nd ref="269301298"/>
+    <nd ref="59794874"/>
+    <nd ref="59794870"/>
+    <nd ref="269301296"/>
+    <nd ref="53026097"/>
+    <nd ref="269301281"/>
+    <nd ref="59794891"/>
+    <nd ref="311403489"/>
+    <nd ref="4295642354"/>
+    <nd ref="269301291"/>
+    <nd ref="4295642352"/>
+    <nd ref="4295642351"/>
+    <nd ref="53026098"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Hawthorne Terrace"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hawthorne"/>
+    <tag k="tiger:name_type" v="Ter"/>
+  </way>
+  <way id="6329145">
+    <nd ref="53026105"/>
+    <nd ref="4295642356"/>
+    <nd ref="59794886"/>
+    <nd ref="258757150"/>
+    <nd ref="269301295"/>
+    <nd ref="258757149"/>
+    <nd ref="258757148"/>
+    <nd ref="269301294"/>
+    <nd ref="53026106"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Hawthorne Terrace"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hawthorne"/>
+    <tag k="tiger:name_type" v="Ter"/>
+  </way>
+  <way id="6334931">
+    <nd ref="53026097"/>
+    <nd ref="311403484"/>
+    <nd ref="427500198"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Hawthorne Steps"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hawthorne Ter Steps"/>
+    <tag k="tiger:name_direction_suffix" v="W"/>
+  </way>
+  <way id="6339575">
+    <nd ref="53059204"/>
+    <nd ref="53059205"/>
+    <nd ref="792213527"/>
+    <nd ref="258757140"/>
+    <nd ref="792213624"/>
+    <nd ref="239527328"/>
+    <nd ref="56006306"/>
+    <nd ref="311403800"/>
+    <nd ref="311403802"/>
+    <nd ref="59794842"/>
+    <nd ref="269301272"/>
+    <nd ref="53044398"/>
+    <nd ref="269301276"/>
+    <nd ref="239527321"/>
+    <nd ref="59794840"/>
+    <nd ref="258757142"/>
+    <nd ref="339928537"/>
+    <nd ref="53059192"/>
+    <nd ref="258757141"/>
+    <nd ref="339928536"/>
+    <nd ref="339928539"/>
+    <nd ref="53059193"/>
+    <nd ref="4295642347"/>
+    <nd ref="339928538"/>
+    <nd ref="4294292351"/>
+    <nd ref="53059195"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Scenic Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Scenic"/>
+    <tag k="tiger:name_type" v="Ave"/>
+  </way>
+  <way id="6339579">
+    <nd ref="53059197"/>
+    <nd ref="2297686121"/>
+    <nd ref="4294292341"/>
+    <nd ref="53059198"/>
+    <nd ref="4294292338"/>
+    <nd ref="2297686118"/>
+    <nd ref="53059199"/>
+    <nd ref="4616420905"/>
+    <nd ref="532751352"/>
+    <nd ref="339928551"/>
+    <nd ref="2010214253"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Scenic Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Scenic"/>
+    <tag k="tiger:name_type" v="Ave"/>
+  </way>
+  <way id="6346264">
+    <nd ref="53077480"/>
+    <nd ref="4295642351"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Vine Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Vine"/>
+    <tag k="tiger:name_type" v="Ln"/>
+  </way>
+  <way id="6347181">
+    <nd ref="53080872"/>
+    <nd ref="53080873"/>
+    <nd ref="420477600"/>
+    <nd ref="280430164"/>
+    <nd ref="280430165"/>
+    <nd ref="53080875"/>
+    <nd ref="269301267"/>
+    <nd ref="59942469"/>
+    <nd ref="269301262"/>
+    <nd ref="239527382"/>
+    <nd ref="53080854"/>
+    <nd ref="59942473"/>
+    <nd ref="408726612"/>
+    <nd ref="59942436"/>
+    <nd ref="408726613"/>
+    <nd ref="262084221"/>
+    <nd ref="408726614"/>
+    <nd ref="53021355"/>
+    <nd ref="269301187"/>
+    <nd ref="262084220"/>
+    <nd ref="269301181"/>
+    <nd ref="408726615"/>
+    <nd ref="408726616"/>
+    <nd ref="408726617"/>
+    <nd ref="408726618"/>
+    <nd ref="53080856"/>
+    <nd ref="59942448"/>
+    <nd ref="269301176"/>
+    <nd ref="59942447"/>
+    <nd ref="59942443"/>
+    <nd ref="262084296"/>
+    <nd ref="53080858"/>
+    <nd ref="262084298"/>
+    <nd ref="262084292"/>
+    <nd ref="59942444"/>
+    <nd ref="59942445"/>
+    <nd ref="59942446"/>
+    <nd ref="408726619"/>
+    <nd ref="53080860"/>
+    <nd ref="262084319"/>
+    <nd ref="59942442"/>
+    <nd ref="408726620"/>
+    <nd ref="59942441"/>
+    <nd ref="408726621"/>
+    <nd ref="59942440"/>
+    <nd ref="262084284"/>
+    <nd ref="53080861"/>
+    <nd ref="408726622"/>
+    <nd ref="59942438"/>
+    <nd ref="59942439"/>
+    <nd ref="408726623"/>
+    <nd ref="59942437"/>
+    <nd ref="408726624"/>
+    <nd ref="53080863"/>
+    <nd ref="59942428"/>
+    <nd ref="408726625"/>
+    <nd ref="262084276"/>
+    <nd ref="262084271"/>
+    <nd ref="408726626"/>
+    <nd ref="472623488"/>
+    <nd ref="53055696"/>
+    <nd ref="59942460"/>
+    <nd ref="408726627"/>
+    <nd ref="59942461"/>
+    <nd ref="408726628"/>
+    <nd ref="59942464"/>
+    <nd ref="262084258"/>
+    <nd ref="53039732"/>
+    <nd ref="472623466"/>
+    <nd ref="262084267"/>
+    <nd ref="472623469"/>
+    <nd ref="269301331"/>
+    <nd ref="1962398886"/>
+    <nd ref="472623487"/>
+    <nd ref="269301332"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Buena Vista Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Buena Vista"/>
+    <tag k="tiger:name_type" v="Way"/>
+  </way>
+  <way id="6347383">
+    <nd ref="53081605"/>
+    <nd ref="407681501"/>
+    <nd ref="339928532"/>
+    <nd ref="339928533"/>
+    <nd ref="407681504"/>
+    <nd ref="4295642335"/>
+    <nd ref="53081606"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Hill Court"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hill"/>
+    <tag k="tiger:name_type" v="Ct"/>
+  </way>
+  <way id="6347531">
+    <nd ref="53082169"/>
+    <nd ref="258757138"/>
+    <nd ref="100548510"/>
+    <nd ref="258757139"/>
+    <nd ref="53059204"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Rose Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Rose"/>
+    <tag k="tiger:name_type" v="St"/>
+  </way>
+  <way id="6347543">
+    <nd ref="53082215"/>
+    <nd ref="269301308"/>
+    <nd ref="262084217"/>
+    <nd ref="53082217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Rose Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Rose"/>
+    <tag k="tiger:name_type" v="St"/>
+  </way>
+  <way id="6347978">
+    <nd ref="408726661"/>
+    <nd ref="53080875"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="La Loma Steps"/>
+    <tag k="tiger:cfcc" v="A72"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="La Loma Steps"/>
+  </way>
+  <way id="6348795">
+    <nd ref="53086380"/>
+    <nd ref="1984290951"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="service"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Greenwood Common"/>
+    <tag k="oneway" v="no"/>
+    <tag k="service" v="driveway"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Greenwood Com"/>
+  </way>
+  <way id="6348800">
+    <nd ref="53086385"/>
+    <nd ref="53086386"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Greenwood Common"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Greenwood Com"/>
+  </way>
+  <way id="6354995">
+    <nd ref="53082219"/>
+    <nd ref="427500200"/>
+    <nd ref="53086380"/>
+    <nd ref="269301322"/>
+    <nd ref="269301323"/>
+    <nd ref="53086385"/>
+    <nd ref="269301324"/>
+    <nd ref="269301318"/>
+    <nd ref="269301321"/>
+    <nd ref="269301320"/>
+    <nd ref="269301319"/>
+    <nd ref="53080854"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Greenwood Terrace"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Greenwood"/>
+    <tag k="tiger:name_type" v="Ter"/>
+  </way>
+  <way id="6359949">
+    <nd ref="53100225"/>
+    <nd ref="269301313"/>
+    <nd ref="269301314"/>
+    <nd ref="269301310"/>
+    <nd ref="269301311"/>
+    <nd ref="269301312"/>
+    <nd ref="258757145"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Rose Walk"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Rose"/>
+    <tag k="tiger:name_type" v="Walk"/>
+  </way>
+  <way id="6369207">
+    <nd ref="414245762"/>
+    <nd ref="258757143"/>
+    <nd ref="414247682"/>
+    <nd ref="53059192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Spring Way"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Spring"/>
+    <tag k="tiger:name_type" v="Way"/>
+  </way>
+  <way id="6375706">
+    <nd ref="53119366"/>
+    <nd ref="339928428"/>
+    <nd ref="408726610"/>
+    <nd ref="339928427"/>
+    <nd ref="53119368"/>
+    <nd ref="339928426"/>
+    <nd ref="53119370"/>
+    <nd ref="339928429"/>
+    <nd ref="317112227"/>
+    <nd ref="339928430"/>
+    <nd ref="59794903"/>
+    <nd ref="339928431"/>
+    <nd ref="59794905"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Codornices Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Codornices"/>
+    <tag k="tiger:name_type" v="Rd"/>
+  </way>
+  <way id="6375836">
+    <nd ref="53119530"/>
+    <nd ref="269301316"/>
+    <nd ref="269301317"/>
+    <nd ref="59942477"/>
+    <nd ref="53119531"/>
+    <nd ref="59942356"/>
+    <nd ref="59942359"/>
+    <nd ref="262084216"/>
+    <nd ref="262084215"/>
+    <nd ref="53119533"/>
+    <nd ref="3978759351"/>
+    <nd ref="3985420303"/>
+    <nd ref="59942357"/>
+    <nd ref="269301231"/>
+    <nd ref="53119534"/>
+    <nd ref="339928504"/>
+    <nd ref="59942360"/>
+    <nd ref="269301238"/>
+    <nd ref="59942358"/>
+    <nd ref="53119535"/>
+    <nd ref="440602832"/>
+    <nd ref="262084672"/>
+    <nd ref="262084674"/>
+    <nd ref="53119537"/>
+    <nd ref="53119540"/>
+    <nd ref="440602831"/>
+    <nd ref="339928436"/>
+    <nd ref="262084675"/>
+    <nd ref="339928437"/>
+    <nd ref="59942361"/>
+    <nd ref="59942362"/>
+    <nd ref="53119542"/>
+    <nd ref="262084677"/>
+    <nd ref="53119544"/>
+    <nd ref="262084676"/>
+    <nd ref="59942363"/>
+    <nd ref="443611672"/>
+    <nd ref="262257267"/>
+    <nd ref="53119546"/>
+    <nd ref="339928439"/>
+    <nd ref="59942364"/>
+    <nd ref="339928438"/>
+    <nd ref="59942365"/>
+    <nd ref="59942366"/>
+    <nd ref="59942367"/>
+    <nd ref="59942368"/>
+    <nd ref="262084640"/>
+    <nd ref="53063915"/>
+    <nd ref="262084641"/>
+    <nd ref="443611671"/>
+    <nd ref="59942372"/>
+    <nd ref="262084639"/>
+    <nd ref="262084638"/>
+    <nd ref="262084637"/>
+    <nd ref="443611670"/>
+    <nd ref="262084636"/>
+    <nd ref="53081759"/>
+    <nd ref="262084634"/>
+    <nd ref="59942465"/>
+    <nd ref="443611612"/>
+    <nd ref="53033516"/>
+    <nd ref="262084635"/>
+    <nd ref="443611659"/>
+    <nd ref="262084625"/>
+    <nd ref="59942414"/>
+    <nd ref="443611658"/>
+    <nd ref="59942417"/>
+    <nd ref="53119552"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Shasta Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Shasta"/>
+    <tag k="tiger:name_type" v="Rd"/>
+  </way>
+  <way id="6385550">
+    <nd ref="53021357"/>
+    <nd ref="239501207"/>
+    <nd ref="408726609"/>
+    <nd ref="239501216"/>
+    <nd ref="59805962"/>
+    <nd ref="59942458"/>
+    <nd ref="408726607"/>
+    <nd ref="53130712"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="La Vereda Road"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="La Vereda"/>
+    <tag k="tiger:name_type" v="Rd"/>
+  </way>
+  <way id="6394595">
+    <nd ref="53082217"/>
+    <nd ref="5035457521"/>
+    <nd ref="5035457319"/>
+    <nd ref="5035457320"/>
+    <nd ref="5035457317"/>
+    <nd ref="5035457522"/>
+    <nd ref="5035457318"/>
+    <nd ref="53119530"/>
+    <nd ref="59942476"/>
+    <nd ref="269301327"/>
+    <nd ref="53142547"/>
+    <nd ref="59942475"/>
+    <nd ref="269301328"/>
+    <nd ref="59942421"/>
+    <nd ref="59942474"/>
+    <nd ref="53142548"/>
+    <nd ref="269301329"/>
+    <nd ref="262084660"/>
+    <nd ref="59942422"/>
+    <nd ref="262084661"/>
+    <nd ref="59942423"/>
+    <nd ref="59942424"/>
+    <nd ref="262257266"/>
+    <nd ref="339928432"/>
+    <nd ref="53142551"/>
+    <nd ref="100548685"/>
+    <nd ref="262257150"/>
+    <nd ref="262084665"/>
+    <nd ref="53059475"/>
+    <nd ref="262084666"/>
+    <nd ref="262084664"/>
+    <nd ref="262084662"/>
+    <nd ref="262084663"/>
+    <nd ref="339928433"/>
+    <nd ref="59942426"/>
+    <nd ref="100548694"/>
+    <nd ref="339928434"/>
+    <nd ref="59942425"/>
+    <nd ref="339928435"/>
+    <nd ref="440602833"/>
+    <nd ref="262084673"/>
+    <nd ref="53119535"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Tamalpais Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Tamalpais"/>
+    <tag k="tiger:name_type" v="Rd"/>
+  </way>
+  <way id="6398981">
+    <nd ref="332317208"/>
+    <nd ref="53147301"/>
+    <nd ref="56006308"/>
+    <nd ref="792213666"/>
+    <nd ref="311403401"/>
+    <nd ref="239527358"/>
+    <nd ref="311403402"/>
+    <nd ref="53059204"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Bay View Place"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Bayview"/>
+    <tag k="tiger:name_type" v="Pl"/>
+  </way>
+  <way id="6400775">
+    <nd ref="100548657"/>
+    <nd ref="100548660"/>
+    <nd ref="262257148"/>
+    <nd ref="100548543"/>
+    <nd ref="339928479"/>
+    <nd ref="262084667"/>
+    <nd ref="100548539"/>
+    <nd ref="262257146"/>
+    <nd ref="53105549"/>
+    <nd ref="100548530"/>
+    <nd ref="262084668"/>
+    <nd ref="262084683"/>
+    <nd ref="280430141"/>
+    <nd ref="53149311"/>
+    <nd ref="280430146"/>
+    <nd ref="100548511"/>
+    <nd ref="100548513"/>
+    <nd ref="280430151"/>
+    <nd ref="100548517"/>
+    <nd ref="262084670"/>
+    <nd ref="311402893"/>
+    <nd ref="100548521"/>
+    <nd ref="339929236"/>
+    <nd ref="262084669"/>
+    <nd ref="53147192"/>
+    <nd ref="4295642367"/>
+    <nd ref="262257195"/>
+    <nd ref="354687122"/>
+    <nd ref="339928423"/>
+    <nd ref="339928424"/>
+    <nd ref="4295642362"/>
+    <nd ref="262257197"/>
+    <nd ref="262257220"/>
+    <nd ref="53149314"/>
+    <nd ref="59794877"/>
+    <nd ref="59794880"/>
+    <nd ref="311402996"/>
+    <nd ref="339928425"/>
+    <nd ref="4295642361"/>
+    <nd ref="53147299"/>
+    <nd ref="262257196"/>
+    <nd ref="792213630"/>
+    <nd ref="53119366"/>
+    <nd ref="53100225"/>
+    <nd ref="269301315"/>
+    <nd ref="258757145"/>
+    <nd ref="317112357"/>
+    <nd ref="280430156"/>
+    <nd ref="53026102"/>
+    <nd ref="53026105"/>
+    <nd ref="4295642355"/>
+    <nd ref="53077480"/>
+    <nd ref="239527371"/>
+    <nd ref="269301292"/>
+    <nd ref="269301293"/>
+    <nd ref="4295642345"/>
+    <nd ref="59794883"/>
+    <nd ref="4295642340"/>
+    <nd ref="53080870"/>
+    <nd ref="269301300"/>
+    <nd ref="53081605"/>
+    <nd ref="239511788"/>
+    <nd ref="407681502"/>
+    <nd ref="339928534"/>
+    <nd ref="239511783"/>
+    <nd ref="4294292355"/>
+    <nd ref="53149317"/>
+    <nd ref="4294292352"/>
+    <nd ref="4294292345"/>
+    <nd ref="53062886"/>
+    <nd ref="4294292342"/>
+    <nd ref="4294292337"/>
+    <nd ref="53091826"/>
+    <nd ref="4294292334"/>
+    <nd ref="4294292324"/>
+    <nd ref="53107080"/>
+    <nd ref="4294292319"/>
+    <nd ref="1954704176"/>
+    <nd ref="4294292318"/>
+    <nd ref="53148316"/>
+    <nd ref="4294292315"/>
+    <nd ref="1281866063"/>
+    <nd ref="4188788152"/>
+    <nd ref="53055202"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Euclid Avenue"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="utility_wires" v="underground"/>
+  </way>
+  <way id="6407485">
+    <nd ref="53080872"/>
+    <nd ref="339928527"/>
+    <nd ref="59805946"/>
+    <nd ref="339928526"/>
+    <nd ref="239511799"/>
+    <nd ref="239511805"/>
+    <nd ref="339928525"/>
+    <nd ref="53157265"/>
+    <nd ref="317112684"/>
+    <nd ref="239511794"/>
+    <nd ref="317112679"/>
+    <nd ref="317112680"/>
+    <nd ref="59805943"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Le Roy Avenue"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Le Roy"/>
+    <tag k="tiger:name_base_1" v="Leroy"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+  </way>
+  <way id="22273541">
+    <nd ref="239500944"/>
+    <nd ref="4295642344"/>
+    <nd ref="2976013636"/>
+    <nd ref="53146430"/>
+    <nd ref="53059193"/>
+    <nd ref="269301286"/>
+    <nd ref="269301290"/>
+    <nd ref="269301289"/>
+    <nd ref="239527314"/>
+    <nd ref="239527308"/>
+    <nd ref="4295642350"/>
+    <nd ref="53026098"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Vine Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Vine"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+  </way>
+  <way id="24054274">
+    <nd ref="260908885"/>
+    <nd ref="260908886"/>
+    <nd ref="260908887"/>
+    <nd ref="339928495"/>
+    <nd ref="260908889"/>
+    <nd ref="260908890"/>
+    <nd ref="354197779"/>
+    <nd ref="260908892"/>
+    <nd ref="260908893"/>
+    <nd ref="260908895"/>
+    <nd ref="311403169"/>
+    <nd ref="260908896"/>
+    <nd ref="260908897"/>
+    <nd ref="260908899"/>
+    <nd ref="260908900"/>
+    <nd ref="260908902"/>
+    <nd ref="260908903"/>
+    <nd ref="260908885"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="ele" v="156"/>
+    <tag k="gnis:county_id" v="001"/>
+    <tag k="gnis:created" v="01/19/1981"/>
+    <tag k="gnis:feature_id" v="219088"/>
+    <tag k="gnis:state_id" v="06"/>
+    <tag k="man_made" v="reservoir_covered"/>
+    <tag k="name" v="Berryman Reservoir"/>
+    <tag k="source:name" v="GNIS"/>
+  </way>
+  <way id="24221432">
+    <nd ref="262257200"/>
+    <nd ref="262257221"/>
+    <nd ref="262257222"/>
+    <nd ref="262257223"/>
+    <nd ref="262257224"/>
+    <nd ref="354198071"/>
+    <nd ref="354198077"/>
+    <nd ref="354198080"/>
+    <nd ref="354198083"/>
+    <nd ref="354198087"/>
+    <nd ref="354198091"/>
+    <nd ref="357856053"/>
+    <nd ref="354198095"/>
+    <nd ref="354198098"/>
+    <nd ref="354198102"/>
+    <nd ref="354197774"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="24221435">
+    <nd ref="262257238"/>
+    <nd ref="357856088"/>
+    <nd ref="262257239"/>
+    <nd ref="357856085"/>
+    <nd ref="262257240"/>
+    <nd ref="262257241"/>
+    <nd ref="262257242"/>
+    <nd ref="262257243"/>
+    <nd ref="354228879"/>
+    <nd ref="262257244"/>
+    <nd ref="357856074"/>
+    <nd ref="262257245"/>
+    <nd ref="262257246"/>
+    <nd ref="262257247"/>
+    <nd ref="354228882"/>
+    <nd ref="262257248"/>
+    <nd ref="262257249"/>
+    <nd ref="262257238"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="baseball"/>
+  </way>
+  <way id="24785080">
+    <nd ref="269301248"/>
+    <nd ref="269301252"/>
+    <nd ref="269301257"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Rose Steps"/>
+  </way>
+  <way id="24785081">
+    <nd ref="262084218"/>
+    <nd ref="269301301"/>
+    <nd ref="269301302"/>
+    <nd ref="269301304"/>
+    <nd ref="269301305"/>
+    <nd ref="269301306"/>
+    <nd ref="269301307"/>
+    <nd ref="262084217"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="24785082">
+    <nd ref="269301310"/>
+    <nd ref="269301309"/>
+    <nd ref="317112281"/>
+    <nd ref="317112282"/>
+    <nd ref="269301330"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Rose Walk"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Rose"/>
+    <tag k="tiger:name_type" v="Walk"/>
+  </way>
+  <way id="31656174">
+    <nd ref="354197762"/>
+    <nd ref="354197774"/>
+    <tag k="access" v="no"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="31656176">
+    <nd ref="354197806"/>
+    <nd ref="354197801"/>
+    <nd ref="354197798"/>
+    <nd ref="354197794"/>
+    <nd ref="354197789"/>
+    <nd ref="354197785"/>
+    <nd ref="354197782"/>
+    <nd ref="354197733"/>
+    <nd ref="354197736"/>
+    <nd ref="354197742"/>
+    <nd ref="354197745"/>
+    <nd ref="354197749"/>
+    <nd ref="354197753"/>
+    <nd ref="354197757"/>
+    <nd ref="354197762"/>
+    <nd ref="354197765"/>
+    <nd ref="354197769"/>
+    <tag k="access" v="no"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="31656189">
+    <nd ref="354198091"/>
+    <nd ref="354198141"/>
+    <nd ref="354198145"/>
+    <nd ref="354198148"/>
+    <nd ref="354198154"/>
+    <nd ref="354198157"/>
+    <nd ref="354198161"/>
+    <nd ref="354198164"/>
+    <nd ref="354198170"/>
+    <nd ref="354198174"/>
+    <nd ref="354198177"/>
+    <nd ref="354198181"/>
+    <nd ref="357856058"/>
+    <nd ref="354198184"/>
+    <nd ref="354198189"/>
+    <nd ref="354198192"/>
+    <nd ref="354198196"/>
+    <nd ref="354198199"/>
+    <nd ref="354198203"/>
+    <nd ref="354198208"/>
+    <nd ref="354198211"/>
+    <nd ref="354198215"/>
+    <nd ref="354198219"/>
+    <nd ref="354198224"/>
+    <nd ref="354198227"/>
+    <nd ref="354198232"/>
+    <nd ref="354198235"/>
+    <nd ref="354198240"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="31656190">
+    <nd ref="354198227"/>
+    <nd ref="357856047"/>
+    <nd ref="357856045"/>
+    <nd ref="354198244"/>
+    <nd ref="354198248"/>
+    <nd ref="354198253"/>
+    <nd ref="354198256"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="31656202">
+    <nd ref="354197774"/>
+    <nd ref="354198105"/>
+    <nd ref="354198108"/>
+    <nd ref="354198112"/>
+    <nd ref="354198115"/>
+    <nd ref="354198119"/>
+    <nd ref="354198121"/>
+    <nd ref="354198125"/>
+    <nd ref="354198130"/>
+    <nd ref="354198133"/>
+    <nd ref="354198137"/>
+    <nd ref="354198087"/>
+    <nd ref="354199042"/>
+    <nd ref="354199044"/>
+    <nd ref="354199049"/>
+    <nd ref="354199052"/>
+    <nd ref="354199057"/>
+    <nd ref="354199061"/>
+    <nd ref="354198145"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="31657519">
+    <nd ref="354213846"/>
+    <nd ref="354213843"/>
+    <nd ref="354213839"/>
+    <nd ref="354213836"/>
+    <nd ref="354213832"/>
+    <nd ref="354213829"/>
+    <nd ref="354213825"/>
+    <nd ref="354213820"/>
+    <nd ref="354213818"/>
+    <nd ref="354213813"/>
+    <nd ref="354213810"/>
+    <nd ref="357856038"/>
+    <nd ref="354213806"/>
+    <nd ref="354213804"/>
+    <nd ref="354213799"/>
+    <nd ref="354213796"/>
+    <nd ref="354213791"/>
+    <nd ref="354213788"/>
+    <nd ref="354213784"/>
+    <nd ref="354213780"/>
+    <nd ref="354213777"/>
+    <nd ref="354213773"/>
+    <nd ref="354213769"/>
+    <nd ref="354213765"/>
+    <nd ref="357856072"/>
+    <tag k="name" v="Codornices Creek"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="31951888">
+    <nd ref="361207190"/>
+    <nd ref="357855972"/>
+    <nd ref="357855975"/>
+    <nd ref="357855976"/>
+    <nd ref="357855979"/>
+    <nd ref="357855982"/>
+    <nd ref="357855983"/>
+    <nd ref="357855985"/>
+    <nd ref="357855987"/>
+    <nd ref="357855988"/>
+    <nd ref="260908875"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="31951900">
+    <nd ref="357856056"/>
+    <nd ref="354198789"/>
+    <nd ref="354198792"/>
+    <nd ref="354198796"/>
+    <nd ref="354198800"/>
+    <nd ref="354198805"/>
+    <nd ref="354198809"/>
+    <nd ref="354198812"/>
+    <nd ref="354198816"/>
+    <nd ref="354198820"/>
+    <nd ref="354198244"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="32210743">
+    <nd ref="354166742"/>
+    <nd ref="357855975"/>
+    <nd ref="354166745"/>
+    <nd ref="354166750"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="32210757">
+    <nd ref="354103781"/>
+    <nd ref="354103782"/>
+    <nd ref="354166737"/>
+    <nd ref="354166742"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="34865265">
+    <nd ref="269301322"/>
+    <nd ref="1984290954"/>
+    <nd ref="1984290947"/>
+    <nd ref="408726654"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Greenwood Common"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="34865266">
+    <nd ref="1984291030"/>
+    <nd ref="1984290845"/>
+    <nd ref="1984290891"/>
+    <nd ref="1984290871"/>
+    <nd ref="1984291025"/>
+    <nd ref="1984291013"/>
+    <nd ref="1984291011"/>
+    <nd ref="1984291007"/>
+    <nd ref="1984290851"/>
+    <nd ref="1984291044"/>
+    <nd ref="1984291103"/>
+    <nd ref="408726660"/>
+    <nd ref="408726659"/>
+    <nd ref="408726658"/>
+    <nd ref="408726654"/>
+    <nd ref="408726655"/>
+    <nd ref="1984291030"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Greenwood Common"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="34865267">
+    <nd ref="408726661"/>
+    <nd ref="53083955"/>
+    <nd ref="53083957"/>
+    <nd ref="408726662"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="La Loma Steps"/>
+    <tag k="tiger:cfcc" v="A72"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="La Loma Steps"/>
+  </way>
+  <way id="34865268">
+    <nd ref="53083959"/>
+    <nd ref="408726662"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="La Loma Steps"/>
+    <tag k="tiger:cfcc" v="A72"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="La Loma Steps"/>
+  </way>
+  <way id="35973828">
+    <nd ref="239511799"/>
+    <nd ref="2297665096"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Hill Court Steps"/>
+  </way>
+  <way id="35973829">
+    <nd ref="339928425"/>
+    <nd ref="357856075"/>
+    <nd ref="354197714"/>
+    <nd ref="354197718"/>
+    <nd ref="354197722"/>
+    <nd ref="354197726"/>
+    <nd ref="354197728"/>
+    <nd ref="354197733"/>
+    <tag k="access" v="no"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="36767681">
+    <nd ref="427500198"/>
+    <nd ref="427500199"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Hawthorne Steps"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hawthorne Ter Steps"/>
+    <tag k="tiger:name_direction_suffix" v="W"/>
+  </way>
+  <way id="36767682">
+    <nd ref="427500199"/>
+    <nd ref="53044398"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Hawthorne Steps"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hawthorne Ter Steps"/>
+    <tag k="tiger:name_direction_suffix" v="W"/>
+  </way>
+  <way id="36767683">
+    <nd ref="269301330"/>
+    <nd ref="269301305"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Rose Walk"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Rose"/>
+    <tag k="tiger:name_type" v="Walk"/>
+  </way>
+  <way id="36767684">
+    <nd ref="427500200"/>
+    <nd ref="427500201"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="37585459">
+    <nd ref="262251117"/>
+    <nd ref="440602811"/>
+    <nd ref="440602812"/>
+    <nd ref="440602813"/>
+    <nd ref="440602814"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="43875907">
+    <nd ref="3137996231"/>
+    <nd ref="3137985528"/>
+    <nd ref="3137974884"/>
+    <nd ref="3137974883"/>
+    <nd ref="3137974887"/>
+    <nd ref="3137974889"/>
+    <nd ref="555922037"/>
+    <nd ref="555922051"/>
+    <nd ref="3137996233"/>
+    <nd ref="555922068"/>
+    <nd ref="555922084"/>
+    <nd ref="555922102"/>
+    <nd ref="3137996235"/>
+    <nd ref="555922113"/>
+    <nd ref="555922126"/>
+    <nd ref="555922141"/>
+    <nd ref="555922161"/>
+    <nd ref="555922178"/>
+    <nd ref="555922193"/>
+    <nd ref="555922270"/>
+    <nd ref="555922282"/>
+    <nd ref="555922289"/>
+    <nd ref="555922306"/>
+    <nd ref="555922336"/>
+    <nd ref="555922347"/>
+    <nd ref="555922362"/>
+    <nd ref="555989692"/>
+    <nd ref="555989683"/>
+    <nd ref="555989672"/>
+    <nd ref="555989658"/>
+    <nd ref="555989643"/>
+    <nd ref="555989638"/>
+    <nd ref="555989624"/>
+    <nd ref="555989609"/>
+    <nd ref="555989571"/>
+    <nd ref="555989559"/>
+    <nd ref="555989546"/>
+    <nd ref="567788951"/>
+    <nd ref="555989537"/>
+    <nd ref="555989523"/>
+    <nd ref="555989513"/>
+    <nd ref="555989499"/>
+    <nd ref="555989484"/>
+    <nd ref="555989470"/>
+    <nd ref="555989457"/>
+    <nd ref="555989439"/>
+    <nd ref="555989424"/>
+    <nd ref="555989414"/>
+    <nd ref="555989402"/>
+    <nd ref="555989347"/>
+    <nd ref="555989336"/>
+    <nd ref="555989323"/>
+    <nd ref="555989310"/>
+    <nd ref="555989304"/>
+    <nd ref="555989289"/>
+    <nd ref="555989276"/>
+    <nd ref="555989264"/>
+    <nd ref="555989235"/>
+    <nd ref="555989223"/>
+    <nd ref="555982355"/>
+    <nd ref="555982348"/>
+    <nd ref="555982347"/>
+    <nd ref="555982336"/>
+    <nd ref="555982323"/>
+    <nd ref="555982312"/>
+    <nd ref="555982303"/>
+    <nd ref="555982291"/>
+    <nd ref="555982274"/>
+    <nd ref="555982252"/>
+    <nd ref="555982238"/>
+    <nd ref="555982181"/>
+    <nd ref="555982166"/>
+    <nd ref="555982150"/>
+    <nd ref="555982135"/>
+    <nd ref="555982118"/>
+    <nd ref="555982101"/>
+    <nd ref="555982087"/>
+    <nd ref="555982069"/>
+    <nd ref="555982059"/>
+    <nd ref="555982058"/>
+    <nd ref="555982043"/>
+    <nd ref="555982028"/>
+    <nd ref="555982012"/>
+    <nd ref="555981997"/>
+    <nd ref="555981987"/>
+    <nd ref="555981976"/>
+    <nd ref="555981964"/>
+    <nd ref="555981951"/>
+    <nd ref="555981934"/>
+    <nd ref="555981920"/>
+    <nd ref="555981911"/>
+    <nd ref="268007167"/>
+    <nd ref="268007166"/>
+    <nd ref="268007164"/>
+    <nd ref="268007186"/>
+    <nd ref="268007185"/>
+    <nd ref="268007184"/>
+    <nd ref="555981909"/>
+    <nd ref="555981897"/>
+    <nd ref="555981883"/>
+    <nd ref="555981868"/>
+    <nd ref="555981857"/>
+    <nd ref="555981845"/>
+    <nd ref="555981793"/>
+    <nd ref="555981782"/>
+    <nd ref="555981774"/>
+    <nd ref="555981765"/>
+    <nd ref="268007182"/>
+    <nd ref="268007181"/>
+    <nd ref="555981761"/>
+    <nd ref="555981759"/>
+    <nd ref="555981750"/>
+    <nd ref="268007178"/>
+    <nd ref="268007177"/>
+    <nd ref="268007176"/>
+    <nd ref="555981739"/>
+    <nd ref="555981731"/>
+    <nd ref="555981722"/>
+    <nd ref="555981709"/>
+    <nd ref="555981697"/>
+    <nd ref="555981685"/>
+    <nd ref="555981673"/>
+    <nd ref="555981659"/>
+    <nd ref="555981649"/>
+    <nd ref="555981639"/>
+    <nd ref="555981626"/>
+    <nd ref="555981614"/>
+    <nd ref="555981609"/>
+    <nd ref="555981606"/>
+    <nd ref="555981591"/>
+    <nd ref="555981581"/>
+    <nd ref="555981574"/>
+    <nd ref="555981565"/>
+    <nd ref="555981555"/>
+    <nd ref="555981543"/>
+    <nd ref="555981530"/>
+    <nd ref="555981486"/>
+    <nd ref="2297665118"/>
+    <nd ref="555981475"/>
+    <nd ref="555981461"/>
+    <nd ref="555981460"/>
+    <nd ref="555981459"/>
+    <nd ref="555981454"/>
+    <nd ref="555981440"/>
+    <nd ref="555981430"/>
+    <nd ref="555981419"/>
+    <nd ref="555981406"/>
+    <nd ref="555981397"/>
+    <nd ref="555981385"/>
+    <nd ref="555981377"/>
+    <nd ref="555981364"/>
+    <nd ref="2297665098"/>
+    <nd ref="555981353"/>
+    <nd ref="555981345"/>
+    <nd ref="555981343"/>
+    <nd ref="555981342"/>
+    <nd ref="555981341"/>
+    <nd ref="555981336"/>
+    <nd ref="555981335"/>
+    <nd ref="555981333"/>
+    <nd ref="555981332"/>
+    <nd ref="2612218341"/>
+    <nd ref="555943042"/>
+    <nd ref="555943044"/>
+    <nd ref="2299214177"/>
+    <nd ref="555943045"/>
+    <nd ref="2299214186"/>
+    <nd ref="2299214167"/>
+    <nd ref="555943048"/>
+    <nd ref="2299214169"/>
+    <nd ref="555943050"/>
+    <nd ref="555943053"/>
+    <nd ref="555943057"/>
+    <nd ref="4295642349"/>
+    <nd ref="555943059"/>
+    <nd ref="555943061"/>
+    <nd ref="555943063"/>
+    <nd ref="4295642353"/>
+    <nd ref="555943065"/>
+    <nd ref="555943068"/>
+    <nd ref="555943070"/>
+    <nd ref="2299214178"/>
+    <nd ref="2299214179"/>
+    <nd ref="2299214173"/>
+    <nd ref="2299214185"/>
+    <nd ref="555943074"/>
+    <nd ref="2299214191"/>
+    <nd ref="557376179"/>
+    <nd ref="3093528945"/>
+    <nd ref="3093528998"/>
+    <nd ref="3093528997"/>
+    <nd ref="3137996231"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="115186095">
+    <nd ref="1302456337"/>
+    <nd ref="1302456329"/>
+    <nd ref="1302456306"/>
+    <nd ref="1302456342"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="footway"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="115186097">
+    <nd ref="59805979"/>
+    <nd ref="1302456310"/>
+    <nd ref="1302456362"/>
+    <nd ref="1302456337"/>
+    <tag k="access" v="permissive"/>
+    <tag k="highway" v="steps"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="115186098">
+    <nd ref="1302456334"/>
+    <nd ref="1302456360"/>
+    <nd ref="1302456333"/>
+    <nd ref="1302456328"/>
+    <nd ref="1302456305"/>
+    <nd ref="1302456340"/>
+    <nd ref="1302456331"/>
+    <nd ref="1302456313"/>
+    <nd ref="1302456364"/>
+    <nd ref="1302456338"/>
+    <nd ref="1302456330"/>
+    <nd ref="1302456308"/>
+    <nd ref="1302456344"/>
+    <nd ref="1302456335"/>
+    <nd ref="1302456358"/>
+    <nd ref="1302456336"/>
+    <nd ref="1302456332"/>
+    <nd ref="1302456316"/>
+    <nd ref="1302456334"/>
+    <tag k="aed" v="yes"/>
+    <tag k="board_type" v="history"/>
+    <tag k="building" v="school"/>
+    <tag k="ele" v="168"/>
+    <tag k="gnis:county_id" v="001"/>
+    <tag k="gnis:created" v="01/19/1981"/>
+    <tag k="gnis:edited" v="04/17/2007"/>
+    <tag k="gnis:feature_id" v="225342"/>
+    <tag k="gnis:state_id" v="06"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="nrhp"/>
+    <tag k="historic" v="building"/>
+    <tag k="information" v="board"/>
+    <tag k="name" v="Hillside School"/>
+    <tag k="ref:nrhp" v="82000961"/>
+    <tag k="tourism" v="information"/>
+    <tag k="website" v="http://www.berkeleyplaques.org/index.php?page=hillside-school"/>
+    <tag k="wikipedia" v="en:Hillside Elementary School"/>
+  </way>
+  <way id="141913475">
+    <nd ref="1553408483"/>
+    <nd ref="1553408448"/>
+    <nd ref="1553408484"/>
+    <nd ref="1553408470"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="187789522">
+    <nd ref="1984291038"/>
+    <nd ref="1984290887"/>
+    <nd ref="1984290848"/>
+    <nd ref="1984290897"/>
+    <nd ref="1984290866"/>
+    <nd ref="1984291015"/>
+    <nd ref="1984290868"/>
+    <nd ref="1984290860"/>
+    <nd ref="1984290858"/>
+    <nd ref="1984290862"/>
+    <nd ref="1984290854"/>
+    <nd ref="1984290856"/>
+    <nd ref="1984291100"/>
+    <nd ref="1984291097"/>
+    <nd ref="1984291095"/>
+    <nd ref="1984291102"/>
+    <nd ref="1984291101"/>
+    <nd ref="1984291091"/>
+    <nd ref="1984291093"/>
+    <nd ref="1984291089"/>
+    <nd ref="1984291099"/>
+    <nd ref="1984291085"/>
+    <nd ref="1984291068"/>
+    <nd ref="1984291087"/>
+    <nd ref="1984291065"/>
+    <nd ref="1984290953"/>
+    <nd ref="1984291032"/>
+    <nd ref="1984291038"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="landuse" v="grass"/>
+  </way>
+  <way id="187789523">
+    <nd ref="1984291040"/>
+    <nd ref="1984291046"/>
+    <nd ref="1984291048"/>
+    <nd ref="1984291049"/>
+    <nd ref="1984291058"/>
+    <nd ref="1984291051"/>
+    <nd ref="1984291053"/>
+    <nd ref="1984291055"/>
+    <nd ref="1984291060"/>
+    <nd ref="1984291056"/>
+    <nd ref="1984291042"/>
+    <nd ref="1984291062"/>
+    <nd ref="1984291040"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="landuse" v="grass"/>
+  </way>
+  <way id="187789525">
+    <nd ref="1984291030"/>
+    <nd ref="408726656"/>
+    <nd ref="408726657"/>
+    <nd ref="408726611"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Greenwood Common"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="187789526">
+    <nd ref="1984290873"/>
+    <nd ref="1984290893"/>
+    <nd ref="1984290894"/>
+    <nd ref="1984290899"/>
+    <nd ref="1984290901"/>
+    <nd ref="1984291035"/>
+    <nd ref="1984290908"/>
+    <nd ref="1984290954"/>
+    <nd ref="1984290911"/>
+    <nd ref="1984290853"/>
+    <nd ref="1984290924"/>
+    <nd ref="1984290873"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="architect" v="William Wurster"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Greenwood Common"/>
+  </way>
+  <way id="187789527">
+    <nd ref="1984290919"/>
+    <nd ref="1984290943"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="natural" v="tree_row"/>
+  </way>
+  <way id="187789528">
+    <nd ref="1984290911"/>
+    <nd ref="1984290954"/>
+    <nd ref="1984290908"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="187789530">
+    <nd ref="1984290950"/>
+    <nd ref="1984290949"/>
+    <nd ref="1984290960"/>
+    <nd ref="1984290958"/>
+    <nd ref="1984290986"/>
+    <nd ref="1984290989"/>
+    <nd ref="1984290963"/>
+    <nd ref="1984290992"/>
+    <nd ref="1984290995"/>
+    <nd ref="1984290997"/>
+    <nd ref="1984290999"/>
+    <nd ref="1984290950"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="landuse" v="grass"/>
+  </way>
+  <way id="187789531">
+    <nd ref="1984290951"/>
+    <nd ref="53086381"/>
+    <nd ref="408726611"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="service"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Greenwood Common"/>
+    <tag k="oneway" v="no"/>
+    <tag k="service" v="driveway"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Greenwood Com"/>
+  </way>
+  <way id="220677319">
+    <nd ref="2297665115"/>
+    <nd ref="4294455627"/>
+    <nd ref="4294455628"/>
+    <nd ref="2297665117"/>
+    <nd ref="2297665118"/>
+    <nd ref="555981486"/>
+    <nd ref="555981530"/>
+    <nd ref="555981543"/>
+    <nd ref="2297665114"/>
+    <nd ref="555981345"/>
+    <nd ref="555981353"/>
+    <nd ref="2297665098"/>
+    <nd ref="2297665103"/>
+    <nd ref="2297665106"/>
+    <nd ref="2297665108"/>
+    <nd ref="2297665111"/>
+    <nd ref="2297665112"/>
+    <nd ref="2297665109"/>
+    <nd ref="2297665100"/>
+    <nd ref="2297665097"/>
+    <nd ref="2297665099"/>
+    <nd ref="2297665101"/>
+    <nd ref="2297665102"/>
+    <nd ref="2297665105"/>
+    <nd ref="4294455625"/>
+    <nd ref="4294455626"/>
+    <nd ref="2297665115"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1581"/>
+    <tag k="addr:postcode" v="94708"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="German International School of Silicon Valley - Berkeley Campus"/>
+    <tag k="website" v="http://berkeley.gissv.org/"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="220677320">
+    <nd ref="2297665096"/>
+    <nd ref="420477564"/>
+    <nd ref="420477565"/>
+    <nd ref="53081606"/>
+    <tag k="highway" v="steps"/>
+    <tag k="name" v="Hill Court Steps"/>
+  </way>
+  <way id="220677321">
+    <nd ref="420477600"/>
+    <nd ref="2297665116"/>
+    <nd ref="2297665113"/>
+    <nd ref="2297665110"/>
+    <nd ref="2297665107"/>
+    <nd ref="59805943"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="220679566">
+    <nd ref="2297686124"/>
+    <nd ref="2297686123"/>
+    <nd ref="2297686117"/>
+    <nd ref="2297686120"/>
+    <nd ref="2297686124"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="220839209">
+    <nd ref="2297686125"/>
+    <nd ref="2297686119"/>
+    <nd ref="2297686116"/>
+    <nd ref="2297686122"/>
+    <nd ref="555974670"/>
+    <nd ref="555974615"/>
+    <nd ref="555974600"/>
+    <nd ref="555974587"/>
+    <nd ref="555974570"/>
+    <nd ref="555974549"/>
+    <nd ref="2196215667"/>
+    <nd ref="2299203309"/>
+    <nd ref="2299203311"/>
+    <nd ref="2196215665"/>
+    <nd ref="555974529"/>
+    <nd ref="557386685"/>
+    <nd ref="557386706"/>
+    <nd ref="2299203303"/>
+    <nd ref="2299203301"/>
+    <nd ref="557386705"/>
+    <nd ref="2299203304"/>
+    <nd ref="557386704"/>
+    <nd ref="557386703"/>
+    <nd ref="555969639"/>
+    <nd ref="506457375"/>
+    <nd ref="555975094"/>
+    <nd ref="555975080"/>
+    <nd ref="2880800559"/>
+    <nd ref="2880802307"/>
+    <nd ref="2880800574"/>
+    <nd ref="2880800599"/>
+    <nd ref="2880800595"/>
+    <nd ref="555975031"/>
+    <nd ref="2880802302"/>
+    <nd ref="555975021"/>
+    <nd ref="555975020"/>
+    <nd ref="555975006"/>
+    <nd ref="1382318866"/>
+    <nd ref="1382318846"/>
+    <nd ref="1382318878"/>
+    <nd ref="3143332537"/>
+    <nd ref="555974993"/>
+    <nd ref="555974967"/>
+    <nd ref="555974951"/>
+    <nd ref="555974936"/>
+    <nd ref="555974920"/>
+    <nd ref="555974906"/>
+    <nd ref="2196215631"/>
+    <nd ref="555974876"/>
+    <nd ref="2196215650"/>
+    <nd ref="555974863"/>
+    <nd ref="555974841"/>
+    <nd ref="555974827"/>
+    <nd ref="555974814"/>
+    <nd ref="555974803"/>
+    <nd ref="555974795"/>
+    <nd ref="555974781"/>
+    <nd ref="555974762"/>
+    <nd ref="555974747"/>
+    <nd ref="555974734"/>
+    <nd ref="555974716"/>
+    <nd ref="555974700"/>
+    <nd ref="2364177533"/>
+    <nd ref="2364177535"/>
+    <nd ref="2364177500"/>
+    <nd ref="2364177485"/>
+    <nd ref="2364177525"/>
+    <nd ref="2364177502"/>
+    <nd ref="2364177523"/>
+    <nd ref="2364177530"/>
+    <nd ref="358858492"/>
+    <nd ref="2364177537"/>
+    <nd ref="3134539790"/>
+    <nd ref="3134539792"/>
+    <nd ref="3134539795"/>
+    <nd ref="3134539796"/>
+    <nd ref="555974693"/>
+    <nd ref="3264470609"/>
+    <nd ref="555969189"/>
+    <nd ref="560217115"/>
+    <nd ref="506457425"/>
+    <nd ref="506457426"/>
+    <nd ref="506457427"/>
+    <nd ref="4378664130"/>
+    <nd ref="506457428"/>
+    <nd ref="560217111"/>
+    <nd ref="3264473110"/>
+    <nd ref="560217112"/>
+    <nd ref="555969191"/>
+    <nd ref="555969192"/>
+    <nd ref="555969194"/>
+    <nd ref="3264474661"/>
+    <nd ref="555969195"/>
+    <nd ref="555969197"/>
+    <nd ref="555969053"/>
+    <nd ref="555969054"/>
+    <nd ref="555969055"/>
+    <nd ref="555969056"/>
+    <nd ref="298082766"/>
+    <nd ref="308999317"/>
+    <nd ref="308999318"/>
+    <nd ref="408726647"/>
+    <nd ref="298082767"/>
+    <nd ref="298083007"/>
+    <nd ref="298084431"/>
+    <nd ref="4929589240"/>
+    <nd ref="298083009"/>
+    <nd ref="298083427"/>
+    <nd ref="298083011"/>
+    <nd ref="298082774"/>
+    <nd ref="555969058"/>
+    <nd ref="555969059"/>
+    <nd ref="555969060"/>
+    <nd ref="555969061"/>
+    <nd ref="555969062"/>
+    <nd ref="555969064"/>
+    <nd ref="555969066"/>
+    <nd ref="555969068"/>
+    <nd ref="2700939898"/>
+    <nd ref="301440077"/>
+    <nd ref="301440078"/>
+    <nd ref="301440079"/>
+    <nd ref="555969070"/>
+    <nd ref="555969071"/>
+    <nd ref="555969072"/>
+    <nd ref="555969073"/>
+    <nd ref="555969074"/>
+    <nd ref="555969075"/>
+    <nd ref="555969076"/>
+    <nd ref="555969077"/>
+    <nd ref="555969078"/>
+    <nd ref="555982452"/>
+    <nd ref="555982480"/>
+    <nd ref="555982486"/>
+    <nd ref="555982502"/>
+    <nd ref="555982518"/>
+    <nd ref="555982526"/>
+    <nd ref="555982540"/>
+    <nd ref="555982552"/>
+    <nd ref="555982560"/>
+    <nd ref="555982571"/>
+    <nd ref="555969080"/>
+    <nd ref="555982593"/>
+    <nd ref="555969081"/>
+    <nd ref="555969082"/>
+    <nd ref="555969083"/>
+    <nd ref="555969085"/>
+    <nd ref="555969087"/>
+    <nd ref="555969088"/>
+    <nd ref="555969089"/>
+    <nd ref="555969090"/>
+    <nd ref="555969091"/>
+    <nd ref="555969092"/>
+    <nd ref="555969093"/>
+    <nd ref="555969094"/>
+    <nd ref="555969095"/>
+    <nd ref="555969096"/>
+    <nd ref="555969097"/>
+    <nd ref="555969099"/>
+    <nd ref="555969100"/>
+    <nd ref="555969102"/>
+    <nd ref="268007170"/>
+    <nd ref="268007171"/>
+    <nd ref="268007172"/>
+    <nd ref="268007173"/>
+    <nd ref="268007174"/>
+    <nd ref="288990504"/>
+    <nd ref="555969103"/>
+    <nd ref="555969104"/>
+    <nd ref="555969105"/>
+    <nd ref="555969106"/>
+    <nd ref="555969108"/>
+    <nd ref="555969109"/>
+    <nd ref="555969110"/>
+    <nd ref="555969111"/>
+    <nd ref="555969112"/>
+    <nd ref="555969113"/>
+    <nd ref="555969114"/>
+    <nd ref="555969116"/>
+    <nd ref="555969117"/>
+    <nd ref="555969118"/>
+    <nd ref="555969119"/>
+    <nd ref="555969121"/>
+    <nd ref="555969122"/>
+    <nd ref="555969123"/>
+    <nd ref="555969125"/>
+    <nd ref="555969137"/>
+    <nd ref="555969151"/>
+    <nd ref="555969160"/>
+    <nd ref="555969168"/>
+    <nd ref="555969178"/>
+    <nd ref="555969187"/>
+    <nd ref="555969188"/>
+    <nd ref="2297686125"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="255316871">
+    <nd ref="2610109903"/>
+    <nd ref="2610109941"/>
+    <nd ref="2610110125"/>
+    <nd ref="2610110132"/>
+    <nd ref="2610110142"/>
+    <nd ref="2610110148"/>
+    <nd ref="2610110152"/>
+    <nd ref="2610110179"/>
+    <nd ref="2610110190"/>
+    <nd ref="2610110195"/>
+    <nd ref="2610110196"/>
+    <nd ref="2610110197"/>
+    <nd ref="2610110198"/>
+    <nd ref="2610110199"/>
+    <nd ref="2610110200"/>
+    <nd ref="2610110201"/>
+    <nd ref="2610110202"/>
+    <nd ref="2610110209"/>
+    <nd ref="2610110211"/>
+    <nd ref="4295642370"/>
+    <nd ref="4295642369"/>
+    <nd ref="4295642368"/>
+    <nd ref="2610110207"/>
+    <nd ref="2610110140"/>
+    <nd ref="2610110115"/>
+    <nd ref="2610109947"/>
+    <nd ref="2610109942"/>
+    <nd ref="2610109931"/>
+    <nd ref="2610109920"/>
+    <nd ref="2610109910"/>
+    <nd ref="2610109903"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Berkeley Rose Garden"/>
+    <tag k="website" v="http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12048"/>
+    <tag k="wikidata" v="Q4892095"/>
+  </way>
+  <way id="255316873">
+    <nd ref="2610110212"/>
+    <nd ref="2610110214"/>
+    <nd ref="2610110203"/>
+    <nd ref="2610110192"/>
+    <nd ref="2610110187"/>
+    <nd ref="2610110172"/>
+    <nd ref="2610110158"/>
+    <nd ref="2610110150"/>
+    <nd ref="2610110144"/>
+    <nd ref="2610110134"/>
+    <nd ref="2610110128"/>
+    <nd ref="2610109948"/>
+    <nd ref="2610109944"/>
+    <nd ref="2610109919"/>
+    <nd ref="2610109911"/>
+    <nd ref="2610109915"/>
+    <nd ref="2610109925"/>
+    <nd ref="2610109924"/>
+    <nd ref="2610109917"/>
+    <nd ref="2610109928"/>
+    <nd ref="2610109936"/>
+    <nd ref="2610109937"/>
+    <nd ref="2610109907"/>
+    <nd ref="2610109905"/>
+    <nd ref="2610109901"/>
+    <nd ref="2610109898"/>
+    <nd ref="2610109921"/>
+    <nd ref="2610109932"/>
+    <nd ref="2610109943"/>
+    <nd ref="2610110113"/>
+    <nd ref="2610110154"/>
+    <nd ref="2610110205"/>
+    <nd ref="2610110212"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Codornices Park"/>
+    <tag k="website" v="http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12118"/>
+  </way>
+  <way id="288127321">
+    <nd ref="59794830"/>
+    <nd ref="53059195"/>
+    <nd ref="53059197"/>
+    <nd ref="2612218345"/>
+    <nd ref="53026099"/>
+    <nd ref="4294292353"/>
+    <nd ref="53149317"/>
+    <nd ref="4294292354"/>
+    <nd ref="4294455617"/>
+    <nd ref="53157267"/>
+    <nd ref="4294455619"/>
+    <nd ref="4294455620"/>
+    <nd ref="4294455621"/>
+    <nd ref="53021359"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Cedar Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Cedar"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+  </way>
+  <way id="308461781">
+    <nd ref="3137466945"/>
+    <nd ref="3137466946"/>
+    <nd ref="3137466947"/>
+    <nd ref="3137466948"/>
+    <nd ref="3137466949"/>
+    <nd ref="3137466950"/>
+    <nd ref="3137466951"/>
+    <nd ref="3137466945"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="308461782">
+    <nd ref="3137466952"/>
+    <nd ref="3137466953"/>
+    <nd ref="3137466954"/>
+    <nd ref="3137466955"/>
+    <nd ref="3137466956"/>
+    <nd ref="3137466957"/>
+    <nd ref="3137466958"/>
+    <nd ref="3137466952"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461783">
+    <nd ref="3137466959"/>
+    <nd ref="3137466960"/>
+    <nd ref="3137466961"/>
+    <nd ref="3137466962"/>
+    <nd ref="3137466959"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2515"/>
+    <tag k="addr:street" v="Rose Walk"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461784">
+    <nd ref="3137466963"/>
+    <nd ref="3137466964"/>
+    <nd ref="3137466965"/>
+    <nd ref="3137466966"/>
+    <nd ref="3137466967"/>
+    <nd ref="3137466968"/>
+    <nd ref="3137466963"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2501,2505"/>
+    <tag k="addr:street" v="Rose Walk"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="308461785">
+    <nd ref="3137466969"/>
+    <nd ref="3137466970"/>
+    <nd ref="3137466971"/>
+    <nd ref="3137466972"/>
+    <nd ref="3137466969"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2523,2525"/>
+    <tag k="addr:street" v="Rose Walk"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461786">
+    <nd ref="3137466973"/>
+    <nd ref="3137466974"/>
+    <nd ref="3137466975"/>
+    <nd ref="3137466976"/>
+    <nd ref="3137466977"/>
+    <nd ref="3137466978"/>
+    <nd ref="3137466973"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2577"/>
+    <tag k="addr:street" v="Rose Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461787">
+    <nd ref="3137466979"/>
+    <nd ref="3137466980"/>
+    <nd ref="3137466981"/>
+    <nd ref="3137466982"/>
+    <nd ref="3137466983"/>
+    <nd ref="3137466984"/>
+    <nd ref="3137466985"/>
+    <nd ref="3137466986"/>
+    <nd ref="3137466987"/>
+    <nd ref="3137466988"/>
+    <nd ref="3137466989"/>
+    <nd ref="3137466990"/>
+    <nd ref="3137466991"/>
+    <nd ref="3137466992"/>
+    <nd ref="3137466979"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Tamalpais Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461788">
+    <nd ref="3137466993"/>
+    <nd ref="3137466994"/>
+    <nd ref="3137466995"/>
+    <nd ref="3137466996"/>
+    <nd ref="3137466993"/>
+    <tag k="leisure" v="swimming_pool"/>
+  </way>
+  <way id="308461789">
+    <nd ref="3137466997"/>
+    <nd ref="3137466998"/>
+    <nd ref="3137466999"/>
+    <nd ref="3137467000"/>
+    <nd ref="3137467001"/>
+    <nd ref="3137467002"/>
+    <nd ref="3137467003"/>
+    <nd ref="3137467004"/>
+    <nd ref="3137466997"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Tamalpais Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461790">
+    <nd ref="3137467005"/>
+    <nd ref="3137467006"/>
+    <nd ref="3137467007"/>
+    <nd ref="3137467008"/>
+    <nd ref="3137467009"/>
+    <nd ref="3137467010"/>
+    <nd ref="3137467011"/>
+    <nd ref="3137467012"/>
+    <nd ref="3137467005"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1486"/>
+    <tag k="addr:street" v="Greenwood Terrace"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461791">
+    <nd ref="3137467013"/>
+    <nd ref="3137467014"/>
+    <nd ref="3137467015"/>
+    <nd ref="3137467016"/>
+    <nd ref="3137467017"/>
+    <nd ref="3137467018"/>
+    <nd ref="3137467013"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2626"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461792">
+    <nd ref="3137467019"/>
+    <nd ref="3137467020"/>
+    <nd ref="3137467021"/>
+    <nd ref="3137467022"/>
+    <nd ref="3137467023"/>
+    <nd ref="3137467024"/>
+    <nd ref="3137467019"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="1526"/>
+    <tag k="addr:street" v="Le Roy Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="308461793">
+    <nd ref="3137467025"/>
+    <nd ref="3137467026"/>
+    <nd ref="3137467027"/>
+    <nd ref="3137467028"/>
+    <nd ref="3137467129"/>
+    <nd ref="3137467025"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:housenumber" v="2535"/>
+    <tag k="addr:street" v="Buena Vista Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="430174922">
+    <nd ref="53082215"/>
+    <nd ref="59942478"/>
+    <nd ref="407681499"/>
+    <nd ref="262084218"/>
+    <nd ref="407681497"/>
+    <nd ref="407681496"/>
+    <nd ref="53157263"/>
+    <nd ref="262084219"/>
+    <nd ref="53026106"/>
+    <nd ref="53083959"/>
+    <nd ref="339928528"/>
+    <nd ref="53080872"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Le Roy Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Le Roy"/>
+    <tag k="tiger:name_base_1" v="Leroy"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+  </way>
+  <way id="430174924">
+    <nd ref="59805943"/>
+    <nd ref="53157266"/>
+    <nd ref="1302456342"/>
+    <nd ref="4294455618"/>
+    <nd ref="53157267"/>
+    <nd ref="59805937"/>
+    <nd ref="408726633"/>
+    <nd ref="59805940"/>
+    <nd ref="408726634"/>
+    <nd ref="239501187"/>
+    <nd ref="4294455615"/>
+    <nd ref="408726635"/>
+    <nd ref="53062889"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Le Roy Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Le Roy"/>
+    <tag k="tiger:name_base_1" v="Leroy"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+  </way>
+  <way id="430285891">
+    <nd ref="53147299"/>
+    <nd ref="792213599"/>
+    <nd ref="53147300"/>
+    <nd ref="332317208"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Bay View Place"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Bayview"/>
+    <tag k="tiger:name_type" v="Pl"/>
+  </way>
+  <way id="430285892">
+    <nd ref="53080870"/>
+    <nd ref="4295642339"/>
+    <nd ref="2297665104"/>
+    <nd ref="339928531"/>
+    <nd ref="339928530"/>
+    <nd ref="280430161"/>
+    <nd ref="280430163"/>
+    <nd ref="339928529"/>
+    <nd ref="53080872"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Buena Vista Way"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Buena Vista"/>
+    <tag k="tiger:name_type" v="Way"/>
+  </way>
+  <way id="430285894">
+    <nd ref="53026098"/>
+    <nd ref="239527284"/>
+    <nd ref="4295642343"/>
+    <nd ref="239527297"/>
+    <nd ref="239527271"/>
+    <nd ref="4295642334"/>
+    <nd ref="59794888"/>
+    <nd ref="239527260"/>
+    <nd ref="53026099"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Hawthorne Terrace"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Hawthorne"/>
+    <tag k="tiger:name_type" v="Ter"/>
+  </way>
+  <way id="463281477">
+    <nd ref="4585648791"/>
+    <nd ref="4585648790"/>
+    <nd ref="4585648789"/>
+    <nd ref="4585648788"/>
+    <nd ref="4585648787"/>
+    <nd ref="4585648786"/>
+    <nd ref="4585648785"/>
+    <nd ref="4585648784"/>
+    <nd ref="4585648783"/>
+    <nd ref="4585648782"/>
+    <nd ref="4585648781"/>
+    <nd ref="4585648780"/>
+    <nd ref="4585648779"/>
+    <nd ref="4585648778"/>
+    <nd ref="4585648777"/>
+    <nd ref="4585648776"/>
+    <nd ref="4585648775"/>
+    <nd ref="4585648774"/>
+    <nd ref="4585648773"/>
+    <nd ref="4585648772"/>
+    <nd ref="4585648771"/>
+    <nd ref="4585648770"/>
+    <nd ref="4585648769"/>
+    <nd ref="4585648791"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1537"/>
+    <tag k="addr:postcode" v="CA 94708"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+    <tag k="alt_name" v="Maybeck Studio for the Performing Arts"/>
+    <tag k="amenity" v="theatre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Maybeck Studio"/>
+    <tag k="theatre:genre" v="chamber_music"/>
+  </way>
+  <way id="463282380">
+    <nd ref="4585657802"/>
+    <nd ref="4585657801"/>
+    <nd ref="4585657800"/>
+    <nd ref="4585657799"/>
+    <nd ref="4585657798"/>
+    <nd ref="4585657797"/>
+    <nd ref="4585657796"/>
+    <nd ref="4585657185"/>
+    <nd ref="4585657795"/>
+    <nd ref="4585657186"/>
+    <nd ref="4585657187"/>
+    <nd ref="4585657794"/>
+    <nd ref="4585657188"/>
+    <nd ref="4585657793"/>
+    <nd ref="4585657792"/>
+    <nd ref="4585657791"/>
+    <nd ref="4585657790"/>
+    <nd ref="4585657789"/>
+    <nd ref="4585657802"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282381">
+    <nd ref="4585657810"/>
+    <nd ref="4585657809"/>
+    <nd ref="4585657808"/>
+    <nd ref="4585657807"/>
+    <nd ref="4585657806"/>
+    <nd ref="4585657805"/>
+    <nd ref="4585657804"/>
+    <nd ref="4585657803"/>
+    <nd ref="4585657810"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282382">
+    <nd ref="4585657818"/>
+    <nd ref="4585657817"/>
+    <nd ref="4585657816"/>
+    <nd ref="4585657815"/>
+    <nd ref="4585657814"/>
+    <nd ref="4585657813"/>
+    <nd ref="4585657812"/>
+    <nd ref="4585657811"/>
+    <nd ref="4585657818"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282383">
+    <nd ref="4585657836"/>
+    <nd ref="4585657835"/>
+    <nd ref="4585657834"/>
+    <nd ref="4585657833"/>
+    <nd ref="4585657832"/>
+    <nd ref="4585657831"/>
+    <nd ref="4585657830"/>
+    <nd ref="4585657829"/>
+    <nd ref="4585657828"/>
+    <nd ref="4585657827"/>
+    <nd ref="4585657826"/>
+    <nd ref="4585657825"/>
+    <nd ref="4585657824"/>
+    <nd ref="4585657823"/>
+    <nd ref="4585657822"/>
+    <nd ref="4585657821"/>
+    <nd ref="4585657820"/>
+    <nd ref="4585657819"/>
+    <nd ref="4585657836"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282384">
+    <nd ref="4585657842"/>
+    <nd ref="4585657841"/>
+    <nd ref="4585657840"/>
+    <nd ref="4585657839"/>
+    <nd ref="4585657838"/>
+    <nd ref="4585657837"/>
+    <nd ref="4585657842"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282385">
+    <nd ref="4585657850"/>
+    <nd ref="4585657849"/>
+    <nd ref="4585657848"/>
+    <nd ref="4585657847"/>
+    <nd ref="4585657846"/>
+    <nd ref="4585657845"/>
+    <nd ref="4585657844"/>
+    <nd ref="4585657843"/>
+    <nd ref="4585657850"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282386">
+    <nd ref="4585657856"/>
+    <nd ref="4585657855"/>
+    <nd ref="4585657854"/>
+    <nd ref="4585657853"/>
+    <nd ref="4585657852"/>
+    <nd ref="4585657851"/>
+    <nd ref="4585657856"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282387">
+    <nd ref="4585657866"/>
+    <nd ref="4585657865"/>
+    <nd ref="4585657864"/>
+    <nd ref="4585657863"/>
+    <nd ref="4585657862"/>
+    <nd ref="4585657861"/>
+    <nd ref="4585657860"/>
+    <nd ref="4585657859"/>
+    <nd ref="4585657858"/>
+    <nd ref="4585657857"/>
+    <nd ref="4585657866"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282388">
+    <nd ref="4585657878"/>
+    <nd ref="4585657877"/>
+    <nd ref="4585657876"/>
+    <nd ref="4585657875"/>
+    <nd ref="4585657874"/>
+    <nd ref="4585657873"/>
+    <nd ref="4585657872"/>
+    <nd ref="4585657871"/>
+    <nd ref="4585657870"/>
+    <nd ref="4585657869"/>
+    <nd ref="4585657868"/>
+    <nd ref="4585657867"/>
+    <nd ref="4585657878"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282389">
+    <nd ref="4585657882"/>
+    <nd ref="4585657881"/>
+    <nd ref="4585657880"/>
+    <nd ref="4585657879"/>
+    <nd ref="4585657882"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282390">
+    <nd ref="4585657890"/>
+    <nd ref="4585657889"/>
+    <nd ref="4585657888"/>
+    <nd ref="4585657887"/>
+    <nd ref="4585657886"/>
+    <nd ref="4585657885"/>
+    <nd ref="4585657884"/>
+    <nd ref="4585657883"/>
+    <nd ref="4585657890"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282391">
+    <nd ref="4585657896"/>
+    <nd ref="4585657895"/>
+    <nd ref="4585657894"/>
+    <nd ref="4585657893"/>
+    <nd ref="4585657892"/>
+    <nd ref="4585657891"/>
+    <nd ref="4585657896"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="463282392">
+    <nd ref="4585657900"/>
+    <nd ref="4585657899"/>
+    <nd ref="4585657898"/>
+    <nd ref="4585657897"/>
+    <nd ref="4585657900"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="515660885">
+    <nd ref="53082217"/>
+    <nd ref="53082219"/>
+    <nd ref="269301248"/>
+    <nd ref="59942427"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Rose Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alameda, CA"/>
+    <tag k="tiger:name_base" v="Rose"/>
+    <tag k="tiger:name_type" v="St"/>
+  </way>
+  <relation id="2641700">
+    <member type="node" ref="2074897231" role="stop"/>
+    <member type="node" ref="2074897244" role="stop"/>
+    <member type="node" ref="2074897249" role="stop"/>
+    <member type="node" ref="2074897257" role="stop"/>
+    <member type="node" ref="2074897277" role="stop"/>
+    <member type="node" ref="469612683" role="stop"/>
+    <member type="node" ref="454952309" role="stop"/>
+    <member type="node" ref="469612677" role="stop"/>
+    <member type="node" ref="469612679" role="stop"/>
+    <member type="node" ref="2048740167" role="stop"/>
+    <member type="node" ref="2048740139" role="stop"/>
+    <member type="node" ref="2048740170" role="stop"/>
+    <member type="node" ref="2048740178" role="stop"/>
+    <member type="node" ref="2048740153" role="stop"/>
+    <member type="node" ref="2048740132" role="stop"/>
+    <member type="node" ref="491636548" role="stop"/>
+    <member type="node" ref="491635895" role="stop"/>
+    <member type="node" ref="491635755" role="stop"/>
+    <member type="node" ref="491635323" role="stop"/>
+    <member type="node" ref="491635185" role="stop"/>
+    <member type="node" ref="674538188" role="stop"/>
+    <member type="node" ref="408727198" role="stop"/>
+    <member type="node" ref="469612375" role="stop"/>
+    <member type="node" ref="460378507" role="stop"/>
+    <member type="node" ref="491635094" role="stop"/>
+    <member type="node" ref="339928422" role="stop"/>
+    <member type="node" ref="420477599" role="stop"/>
+    <member type="node" ref="420477601" role="stop"/>
+    <member type="node" ref="408727085" role="stop"/>
+    <member type="node" ref="408726768" role="stop"/>
+    <member type="node" ref="348192390" role="stop"/>
+    <member type="node" ref="346507235" role="stop"/>
+    <member type="node" ref="346507130" role="stop"/>
+    <member type="node" ref="346509804" role="stop"/>
+    <member type="node" ref="2037651264" role="stop"/>
+    <member type="node" ref="2037651258" role="stop"/>
+    <member type="way" ref="196602723" role=""/>
+    <member type="way" ref="196602726" role=""/>
+    <member type="way" ref="190579786" role=""/>
+    <member type="way" ref="190579795" role=""/>
+    <member type="way" ref="196602725" role=""/>
+    <member type="way" ref="194872389" role=""/>
+    <member type="way" ref="190579799" role=""/>
+    <member type="way" ref="190579823" role=""/>
+    <member type="way" ref="190579807" role=""/>
+    <member type="way" ref="190579774" role=""/>
+    <member type="way" ref="190579811" role=""/>
+    <member type="way" ref="190579779" role=""/>
+    <member type="way" ref="190579817" role=""/>
+    <member type="way" ref="6400759" role=""/>
+    <member type="way" ref="190579762" role=""/>
+    <member type="way" ref="24221422" role=""/>
+    <member type="way" ref="6400775" role=""/>
+    <member type="way" ref="22016936" role=""/>
+    <member type="way" ref="22016934" role=""/>
+    <member type="way" ref="415876791" role=""/>
+    <member type="way" ref="195433872" role=""/>
+    <member type="way" ref="415876789" role=""/>
+    <member type="way" ref="415878138" role=""/>
+    <member type="way" ref="415878132" role=""/>
+    <member type="way" ref="415878133" role=""/>
+    <member type="way" ref="415878128" role=""/>
+    <member type="way" ref="22278222" role=""/>
+    <member type="way" ref="196739946" role=""/>
+    <member type="way" ref="415878135" role=""/>
+    <member type="way" ref="232211507" role=""/>
+    <member type="way" ref="194872388" role=""/>
+    <tag k="from" v="Lawrence Hall of Science"/>
+    <tag k="name" v="Line 65 to Downtown Berkeley BART"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="ref" v="65"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Downtown Berkeley BART"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Euclid Avenue &amp; Grizzly Peak Boulevard"/>
+  </relation>
+  <relation id="2641701">
+    <member type="node" ref="2074897289" role="stop"/>
+    <member type="node" ref="443611831" role="stop"/>
+    <member type="node" ref="443611830" role="stop"/>
+    <member type="node" ref="443611829" role="stop"/>
+    <member type="node" ref="427500223" role="stop"/>
+    <member type="node" ref="427500222" role="stop"/>
+    <member type="node" ref="443611747" role="stop"/>
+    <member type="node" ref="443611660" role="stop"/>
+    <member type="node" ref="454952306" role="stop"/>
+    <member type="node" ref="454952307" role="stop"/>
+    <member type="node" ref="454952308" role="stop"/>
+    <member type="node" ref="491636548" role="stop"/>
+    <member type="node" ref="491635895" role="stop"/>
+    <member type="node" ref="491635755" role="stop"/>
+    <member type="node" ref="491635323" role="stop"/>
+    <member type="node" ref="491635185" role="stop"/>
+    <member type="node" ref="674538188" role="stop"/>
+    <member type="node" ref="408727198" role="stop"/>
+    <member type="node" ref="469612375" role="stop"/>
+    <member type="node" ref="460378507" role="stop"/>
+    <member type="node" ref="491635094" role="stop"/>
+    <member type="node" ref="339928422" role="stop"/>
+    <member type="node" ref="420477599" role="stop"/>
+    <member type="node" ref="420477601" role="stop"/>
+    <member type="node" ref="408727085" role="stop"/>
+    <member type="node" ref="408726768" role="stop"/>
+    <member type="node" ref="348192390" role="stop"/>
+    <member type="node" ref="346507235" role="stop"/>
+    <member type="node" ref="346507130" role="stop"/>
+    <member type="node" ref="346509804" role="stop"/>
+    <member type="node" ref="2037651264" role="stop"/>
+    <member type="node" ref="2037651258" role="stop"/>
+    <member type="way" ref="6347389" role=""/>
+    <member type="way" ref="39464697" role=""/>
+    <member type="way" ref="6394300" role=""/>
+    <member type="way" ref="22374751" role=""/>
+    <member type="way" ref="6407092" role=""/>
+    <member type="way" ref="6375842" role=""/>
+    <member type="way" ref="194872389" role=""/>
+    <member type="way" ref="190579799" role=""/>
+    <member type="way" ref="190579823" role=""/>
+    <member type="way" ref="190579807" role=""/>
+    <member type="way" ref="190579774" role=""/>
+    <member type="way" ref="190579811" role=""/>
+    <member type="way" ref="190579779" role=""/>
+    <member type="way" ref="190579817" role=""/>
+    <member type="way" ref="6400759" role=""/>
+    <member type="way" ref="190579762" role=""/>
+    <member type="way" ref="24221422" role=""/>
+    <member type="way" ref="6400775" role=""/>
+    <member type="way" ref="22016936" role=""/>
+    <member type="way" ref="22016934" role=""/>
+    <member type="way" ref="415876791" role=""/>
+    <member type="way" ref="195433872" role=""/>
+    <member type="way" ref="415876789" role=""/>
+    <member type="way" ref="415878138" role=""/>
+    <member type="way" ref="415878132" role=""/>
+    <member type="way" ref="415878133" role=""/>
+    <member type="way" ref="415878128" role=""/>
+    <member type="way" ref="22278222" role=""/>
+    <member type="way" ref="196739946" role=""/>
+    <member type="way" ref="415878135" role=""/>
+    <member type="way" ref="232211507" role=""/>
+    <member type="way" ref="194872388" role=""/>
+    <tag k="from" v="Grizzly Peak Boulevard &amp; Senior Avenue"/>
+    <tag k="name" v="Line 65 to Downtown Berkeley BART"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="ref" v="65"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Downtown Berkeley BART"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Euclid Avenue &amp; Grizzly Peak Boulevard"/>
+  </relation>
+  <relation id="2641702">
+    <member type="node" ref="2037651275" role="stop"/>
+    <member type="node" ref="427902516" role="stop"/>
+    <member type="node" ref="346510117" role="stop"/>
+    <member type="node" ref="2637690059" role="stop"/>
+    <member type="node" ref="346507286" role="stop"/>
+    <member type="node" ref="408726787" role="stop"/>
+    <member type="node" ref="346507427" role="stop"/>
+    <member type="node" ref="427500172" role="stop"/>
+    <member type="node" ref="408727091" role="stop"/>
+    <member type="node" ref="420477598" role="stop"/>
+    <member type="node" ref="339928421" role="stop"/>
+    <member type="node" ref="491635095" role="stop"/>
+    <member type="node" ref="460378508" role="stop"/>
+    <member type="node" ref="469612373" role="stop"/>
+    <member type="node" ref="408727216" role="stop"/>
+    <member type="node" ref="674538183" role="stop"/>
+    <member type="node" ref="408727276" role="stop"/>
+    <member type="node" ref="408727494" role="stop"/>
+    <member type="node" ref="408727490" role="stop"/>
+    <member type="node" ref="408727426" role="stop"/>
+    <member type="node" ref="491635954" role="stop"/>
+    <member type="way" ref="193256685" role=""/>
+    <member type="way" ref="202447070" role=""/>
+    <member type="way" ref="196739959" role=""/>
+    <member type="way" ref="415878140" role=""/>
+    <member type="way" ref="219170373" role=""/>
+    <member type="way" ref="415878141" role=""/>
+    <member type="way" ref="193256687" role=""/>
+    <member type="way" ref="292218770" role=""/>
+    <member type="way" ref="292218769" role=""/>
+    <member type="way" ref="194859188" role=""/>
+    <member type="way" ref="415878134" role=""/>
+    <member type="way" ref="202177316" role=""/>
+    <member type="way" ref="415878127" role=""/>
+    <member type="way" ref="415878136" role=""/>
+    <member type="way" ref="415876789" role=""/>
+    <member type="way" ref="195433872" role=""/>
+    <member type="way" ref="415876791" role=""/>
+    <member type="way" ref="22016937" role=""/>
+    <member type="way" ref="22016936" role=""/>
+    <member type="way" ref="6400775" role=""/>
+    <member type="way" ref="24221419" role=""/>
+    <member type="way" ref="190579762" role=""/>
+    <member type="way" ref="6400759" role=""/>
+    <member type="way" ref="190579817" role=""/>
+    <member type="way" ref="190579779" role=""/>
+    <member type="way" ref="190579811" role=""/>
+    <member type="way" ref="190579774" role=""/>
+    <member type="way" ref="190579807" role=""/>
+    <member type="way" ref="190579823" role=""/>
+    <member type="way" ref="190579799" role=""/>
+    <member type="way" ref="194872389" role=""/>
+    <member type="way" ref="196602725" role=""/>
+    <member type="way" ref="190579795" role=""/>
+    <member type="way" ref="190579786" role=""/>
+    <tag k="from" v="Downtown Berkeley BART"/>
+    <tag k="name" v="Line 65 to Grizzly Peak Boulevard &amp; Senior Avenue"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="ref" v="65"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Grizzly Peak Boulevard &amp; Senior Avenue"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Euclid Avenue &amp; Grizzly Peak Boulevard"/>
+  </relation>
+  <relation id="2641703">
+    <member type="node" ref="2037651275" role="stop"/>
+    <member type="node" ref="427902516" role="stop"/>
+    <member type="node" ref="346510117" role="stop"/>
+    <member type="node" ref="2637690059" role="stop"/>
+    <member type="node" ref="346507286" role="stop"/>
+    <member type="node" ref="408726787" role="stop"/>
+    <member type="node" ref="346507427" role="stop"/>
+    <member type="node" ref="427500172" role="stop"/>
+    <member type="node" ref="408727091" role="stop"/>
+    <member type="node" ref="420477598" role="stop"/>
+    <member type="node" ref="339928421" role="stop"/>
+    <member type="node" ref="491635095" role="stop"/>
+    <member type="node" ref="460378508" role="stop"/>
+    <member type="node" ref="469612373" role="stop"/>
+    <member type="node" ref="408727216" role="stop"/>
+    <member type="node" ref="674538183" role="stop"/>
+    <member type="node" ref="408727276" role="stop"/>
+    <member type="node" ref="408727494" role="stop"/>
+    <member type="node" ref="408727490" role="stop"/>
+    <member type="node" ref="408727426" role="stop"/>
+    <member type="node" ref="491635954" role="stop"/>
+    <member type="node" ref="2048740136" role="stop"/>
+    <member type="node" ref="2048740147" role="stop"/>
+    <member type="node" ref="2048740173" role="stop"/>
+    <member type="node" ref="2048740144" role="stop"/>
+    <member type="node" ref="2048740162" role="stop"/>
+    <member type="node" ref="469612681" role="stop"/>
+    <member type="node" ref="469612675" role="stop"/>
+    <member type="node" ref="454952311" role="stop"/>
+    <member type="node" ref="469612685" role="stop"/>
+    <member type="node" ref="2074897267" role="stop"/>
+    <member type="node" ref="2074897289" role="stop"/>
+    <member type="node" ref="2074897231" role="stop"/>
+    <member type="way" ref="193256685" role=""/>
+    <member type="way" ref="202447070" role=""/>
+    <member type="way" ref="196739959" role=""/>
+    <member type="way" ref="415878140" role=""/>
+    <member type="way" ref="219170373" role=""/>
+    <member type="way" ref="415878141" role=""/>
+    <member type="way" ref="193256687" role=""/>
+    <member type="way" ref="292218770" role=""/>
+    <member type="way" ref="292218769" role=""/>
+    <member type="way" ref="194859188" role=""/>
+    <member type="way" ref="415878134" role=""/>
+    <member type="way" ref="202177316" role=""/>
+    <member type="way" ref="415878127" role=""/>
+    <member type="way" ref="415878136" role=""/>
+    <member type="way" ref="415876789" role=""/>
+    <member type="way" ref="195433872" role=""/>
+    <member type="way" ref="415876791" role=""/>
+    <member type="way" ref="22016937" role=""/>
+    <member type="way" ref="22016936" role=""/>
+    <member type="way" ref="6400775" role=""/>
+    <member type="way" ref="24221419" role=""/>
+    <member type="way" ref="190579762" role=""/>
+    <member type="way" ref="6400759" role=""/>
+    <member type="way" ref="190579817" role=""/>
+    <member type="way" ref="190579779" role=""/>
+    <member type="way" ref="190579811" role=""/>
+    <member type="way" ref="190579774" role=""/>
+    <member type="way" ref="190579807" role=""/>
+    <member type="way" ref="190579823" role=""/>
+    <member type="way" ref="190579799" role=""/>
+    <member type="way" ref="194872389" role=""/>
+    <member type="way" ref="196602725" role=""/>
+    <member type="way" ref="190579795" role=""/>
+    <member type="way" ref="190579786" role=""/>
+    <member type="way" ref="196602726" role=""/>
+    <member type="way" ref="196602723" role=""/>
+    <tag k="from" v="Downtown Berkeley BART"/>
+    <tag k="name" v="Line 65 to Lawrence Hall of Science"/>
+    <tag k="operator" v="AC Transit"/>
+    <tag k="ref" v="65"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="Lawrence Hall of Science"/>
+    <tag k="type" v="route"/>
+    <tag k="via" v="Euclid Avenue &amp; Grizzly Peak Boulevard"/>
+  </relation>
+  <relation id="7473299">
+    <member type="way" ref="6394595" role="from"/>
+    <member type="node" ref="53082217" role="via"/>
+    <member type="way" ref="515660885" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+
+</osm>
