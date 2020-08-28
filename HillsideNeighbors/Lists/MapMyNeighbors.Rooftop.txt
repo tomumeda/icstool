@@ -1,0 +1,32 @@
+MapTitle=My Neighbors
+MapParameters=Lists/Map.Rooftop.Info.txt
+MapAddressLonLat=ParcelLonLatByAddress
+MapExtraAddressLonLat=NoParcelAddressLL
+address=Le Roy Ave=1643= #dummy address to get routines to work
+
+MapYOffset=0; 	# imageYRef
+MarkerSize=18 
+MarkerBoarderSize=20 
+subMarkerSize=8
+
+#Legend data
+LegendMarkerSize=18 # legend rectangular marker size
+LegendTextSize=30 # legend text size
+
+#Symbol Overlay data
+MapSymbolMarkerSize=18 # legend rectangular marker size
+MapSymbolTextSize=30 # legend text size
+
+MapFixedSymbols=Lists/MapMyNeighbors.Rooftop.FixedSymbols.txt
+
+#SymbolType=BoxSymbol
+SymbolType=CircleSymbol
+
+BoxColor[0]=yellow
+BoxColor[1]=blue
+BoxColor[2]=red
+
+BoxName[0]=Home:
+BoxName[1]=MyNeighbor:
+BoxName[2]=NoData:
+

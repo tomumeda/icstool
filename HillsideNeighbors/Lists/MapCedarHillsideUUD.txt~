@@ -1,0 +1,35 @@
+MapTitle=Cedar-Hillside UUD
+MapParameters=Maps/hillside.neighborhood.txt
+MapAddressLonLat=ParcelLonLatByAddress
+MapExtraAddressLonLat=NoParcelAddressLL
+address=Le Roy Ave=1643= #dummy address to get routines to work
+
+MapYOffset=0; 	# imageYRef
+MarkerSize=18 
+MarkerBoarderSize=20 
+subMarkerSize=4
+
+#Legend data
+LegendMarkerSize=18 # legend rectangular marker size
+LegendTextSize=30 # legend text size
+
+#Symbol Overlay data
+MapSymbolMarkerSize=18 # legend rectangular marker size
+MapSymbolTextSize=30 # legend text size
+
+MapFixedSymbols=Lists/MapCedarHillsideUUD.FixedSymbols.txt
+
+DisplayType=MapCedarHillsideUUD.survey
+
+#SymbolType=BoxSymbol
+SymbolType=CircleSymbol
+SVGClass=
+
+BoxColor[0]=green
+BoxColor[1]=red
+BoxColor[2]=yellow
+
+BoxName[0]=Yes
+BoxName[1]=No
+BoxName[2]=Unknown
+

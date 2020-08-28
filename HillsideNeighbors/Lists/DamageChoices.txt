@@ -1,0 +1,9 @@
+AllClearSign:None,Yes
+Fire:None,Smoke,Small Flames,Large Flames
+Hazards:Gas Leak,Water Leak,Electrical,Chemical:multiple
+Structural:None,Light Damage,Moderate Damage,Heavy Damage,Collapsed
+PeopleInjured:None,1,2,3,4,Many
+PeopleTrapped:None,1,2,3,4,Many
+PeopleDead:None,1,2,3,4,Many
+Roads:Accessible,Inaccessible
+Urgency:None,ImmediateThreat,Delayable,Minor,Hopeless

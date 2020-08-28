@@ -1,0 +1,20 @@
+MapTitle=EmPrep Neighborhood (Parcel Map)<br>with locations of reported issues
+MapParameters=Lists/ParcelMapInfo.txt
+MapAddressData=MapStreetAddressLL
+address=Le Roy Ave=1643= #dummy address to get routines to work
+
+MapYOffset=60; 	# imageYRef
+MarkerSize=22 
+MarkerBoarderSize=24 
+subMarkerSize=10
+
+#Legend data
+LegendMarkerSize=20 # legend rectangular marker size
+LegendTextSize=35 # legend text size
+
+#Symbol Overlay data
+MapSymbolMarkerSize=20 # legend rectangular marker size
+MapSymbolTextSize=35 # legend text size
+
+MapFixedSymbols=Lists/MapParcelMapFixedSymbols.txt
+

@@ -1,0 +1,8 @@
+# ICC organizational hierarchy
+# number of \t's indicates level of hierarchy
+# OrgTable[] text substitution for OrganiztionTable Chart (tabular input)
+City Emergency Agencies <OrgTable[\huge City Emergency Agencies],RequiredRole[]>
+	Incident Commander <OrgTable[\huge \IncidentCommanderC{blue}],RequiredRole[]>
+		Operations Section Chief <OrgTable[\large \OperationsSectionChief],RequiredRole[]>
+		Logistics Section Chief <OrgTable[\large \LogisticsSectionChief],RequiredRole[]>
+		Planning Section Chief <OrgTable[\large \PlanningSectionChief],RequiredRole[]>

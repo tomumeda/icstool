@@ -1,0 +1,18 @@
+# information file for map images
+#MapFile=Maps/parcelMap1.jpg
+MapFile=Maps/parcel_LL.jpg
+MapXdim=822px
+MapDimX=822
+MapYdim=800px
+MapDimY=800
+#reference points {CoordX,CoordY,x-pix,y-pix}
+MapLowerLeftCoordXRef=-122.261257
+MapLowerLeftCoordYRef=37.875480
+MapLowerLeftPxXRef=1
+MapLowerLeftPxYRef=800
+MapUpperRightCoordXRef=-122.254600
+MapUpperRightCoordYRef=37.881991
+MapUpperRightPxXRef=822
+MapUpperRightPxYRef=1 
+DBaddress=ParcelInfoByAddress
+

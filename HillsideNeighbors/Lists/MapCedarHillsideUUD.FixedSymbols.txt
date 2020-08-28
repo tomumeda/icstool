@@ -1,0 +1,7 @@
+<rect x="20" y="10" width="20" height="20" stroke="black" fill="green" />
+<rect x="20" y="50" width="20" height="20" stroke="black" fill="red" />
+<rect x="20" y="90" width="20" height="20" stroke="black" fill="yellow" />
+
+<text x="50" y="30" font-size="20">Yes</text>
+<text x="50" y="70" font-size="20">No</text>
+<text x="50" y="110" font-size="20">Unknown</text>

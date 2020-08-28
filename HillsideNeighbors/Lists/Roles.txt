@@ -1,0 +1,27 @@
+Incident Commander	LEVEL.1	ICC,SelfAssign,canFormTeam,canAssignAll
+Operations Section Chief	LEVEL.2	ICC,canFormTeam
+Response Team Manager	LEVEL.3	ICC,canFormTeam
+Response Team	LEVEL.4	MultiPerson,MultiTeam,ResponseTeam
+Medical Group Leader	LEVEL.3	ICC,canFormTeam
+Field Medical Team	LEVEL.4	MultiPerson,ResponseTeam
+Medical Triage Team	LEVEL.4	ICC,MultiPerson,ResponseTeam
+Logistics Section Chief	LEVEL.2	ICC,canAssignAll
+Communications Manager	LEVEL.3	ICC,canAssignAll
+Radio Operator	LEVEL.4	ICC,canFormTeam,canAssignAll
+Runner	LEVEL.4	MultiPerson,ResponseTeam
+WEB Tool Specialist	LEVEL.4	ICC,canFormTeam,SelfAssign,canAssignAll
+Equipment Manager	LEVEL.3	ICC,canFormTeam
+Inventory Manager	LEVEL.4	ICC
+Supply Team	LEVEL.4	MultiPerson,ResponseTeam
+Shelter Manager	LEVEL.4	ICC
+Planning Section Chief	LEVEL.2	ICC
+Scribe	LEVEL.3	ICC
+Division Leader A	LEVEL.3	ICC,SelfAssign
+Block Damage Assessor A	LEVEL.4	ICC,MultiPerson,SelfAssign,ResponseTeam
+Division Leader B	LEVEL.3	ICC,SelfAssign
+Block Damage Assessor B	LEVEL.4	ICC,MultiPerson,SelfAssign,ResponseTeam
+Division Leader C	LEVEL.3	ICC,SelfAssign
+Block Damage Assessor C	LEVEL.4	ICC,MultiPerson,SelfAssign,ResponseTeam
+Initial Surveyor	LEVEL.9	MultiPerson,SelfAssign,ResponseTeam
+Unassigned	LEVEL.9	MultiPerson,ResponseTeam
+Unavailable	LEVEL.X	MultiPerson,SelfAssign

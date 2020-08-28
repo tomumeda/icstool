@@ -1,0 +1,3 @@
+Type of Radio:Portable,Car Radio,Home Non-portable
+Signal Strength/Clarity:Loud and Clear,Intelligible but with interference,Signal but unintelligible,No Signal
+Location of Radio:Indoors,Outdoors

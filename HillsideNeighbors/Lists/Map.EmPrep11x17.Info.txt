@@ -1,0 +1,19 @@
+# information file for map images
+MapFile=Maps/11x17map.jan2017.jpg
+MapXdim=1700px
+MapDimX=1700
+MapYdim=2550px
+MapDimY=2550
+
+#reference points {CoordX,CoordY,x-pix,y-pix}
+MapLowerLeftCoordXRef=1
+MapUpperRightCoordXRef=1700
+MapLowerLeftCoordYRef=2550
+MapUpperRightCoordYRef=1
+MapLowerLeftPxXRef=1
+MapLowerLeftPxYRef=2550
+MapUpperRightPxXRef=1700
+MapUpperRightPxYRef=1
+DBaddress=MapStreetAddressPIXEmPrep
+#
+#

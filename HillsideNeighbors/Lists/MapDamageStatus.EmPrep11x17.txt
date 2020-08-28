@@ -1,0 +1,32 @@
+MapTitle=EmPrep Neighborhood<br>Damage Status
+MapParameters=Lists/Map.EmPrep11x17.Info.txt
+MapAddressLonLat=MapStreetAddressPIXEmPrep
+MapExtraAddressLonLat=NoParcelAddressLL
+address=Le Roy Ave=1643= #dummy address to get routines to work
+
+MapYOffset=0 	# imageYRef
+MarkerSize=30 	# NOT USED?
+MarkerBoarderSize=32 
+subMarkerSize=15
+
+#Legend data
+LegendMarkerSize=24 # rectangular marker size
+LegendTextSize=24 # legend text size
+
+MapFixedSymbols=Lists/MapDamageStatus.EmPrep11x17.FixedSymbols.txt
+#############################################
+#Symbol Overlay data
+MapSymbolMarkerSize=18 # legend rectangular marker size
+MapSymbolTextSize=30 # legend text size
+
+DisplayType=DamageStatus
+GraphType=BoxSymbol
+BoxColor[0]=magenta
+BoxColor[1]=red
+BoxColor[2]=green
+BoxColor[3]=blue
+BoxName[0]=fire
+BoxName[1]=people
+BoxName[2]=structure
+BoxName[3]=hazard
+

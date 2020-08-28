@@ -1,0 +1,36 @@
+# ICC organizational hierarchy
+# number of \t's indicates level of hierarchy
+# OrgTable[] text substitution for OrganiztionTable Chart (tabular input)
+Incident Commander <OrgTable[\Large \IncidentCommanderC{blue}],RequiredRole[]>
+	Damage Assessment Team <OrgTable[DamageAssessment]>
+		Division A Captain <OrgTable[Division A],RequiredRole[]>
+			Block A1 Captain <OrgTable[Block A1],RequiredRole[]>
+			Block A2 Captain <OrgTable[Block A2],RequiredRole[]>
+			Block A3 Captain <OrgTable[Block A3],RequiredRole[]>
+		Division B Captain <OrgTable[Division B],RequiredRole[]>
+			Block B1 Captain <OrgTable[Block B1],RequiredRole[]>
+			Block B2 Captain <OrgTable[Block B2],RequiredRole[]>
+			Block B3 Captain <OrgTable[Block B3],RequiredRole[]>
+		Division C Captain <OrgTable[Division C],RequiredRole[]>
+			Block C1 Captain <OrgTable[Block C1],RequiredRole[]>
+			Block C2 Captain <OrgTable[Block C2],RequiredRole[]>
+			Block C3 Captain <OrgTable[Block C3],RequiredRole[]>
+	Logistics Captain <OrgTable[\LogisticsCaptain],RequiredRole[]>
+		Scribe  <OrgTable[],RequiredRole[]>
+		Radio Operator <OrgTable[],RequiredRole[]>
+		Shelter Manager <>
+		Logistics Team A <OrgTable[],RequiredRole[]>
+	Fire Suppression Captain <OrgTable[],RequiredRole[]>
+		Fire Suppression Team A	<OrgTable[],RequiredRole[]>
+		Fire Suppression Team B <OrgTable[],RequiredRole[]>
+		Fire Suppression Team C <OrgTable[]>
+	Search And Rescue Captain <OrgTable[],RequiredRole[]>
+		Search Rescue Team A <OrgTable[],RequiredRole[]>
+		Search Rescue Team B <OrgTable[],RequiredRole[]>
+		Search Rescue Team C <OrgTable[]>
+	First Aid Captain <OrgTable[],RequiredRole[]>
+		First Aid Team A <OrgTable[],RequiredRole[]>
+		First Aid Team B <OrgTable[],RequiredRole[]>
+		First Aid Team C <OrgTable[]>
+	Safety Officer <OrgTable[\SafetyOfficer],RequiredRole[]>
+	ICS WEB Tool Manager<OrgTable[]>

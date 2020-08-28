@@ -1,0 +1,21 @@
+#Title	Minimum Number	Maximum Number
+Command Center Team	1	1
+> Incident Commander	1	1
+> Safety Officer	1	1
+> Radio Operator	1	1
+> Scribe	1	1
+Divisional Team	3	3
+> Division Captain 1	1
+>> Division Block Captain 1	3
+First Aid Team	1	4
+> First Aid Team Captain	1	4
+>> First Aid Team Member	1	4
+Search and Rescue Team	1	4
+> Search-Rescue Team Captain	1	4
+>> Search-Rescue Team Member	1	4
+Fire Suppression Team	1	4
+> Fire Suppression Team Captain	1	4
+>> Fire Suppression Team Member	1	4
+Logistics Team	1	1
+> Logistics Manager	1	1
+>> Logistics Team Member	1	4

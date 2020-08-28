@@ -1,0 +1,17 @@
+<rect x="20" y="10" width="20" height="20" stroke="black" fill="magenta" />
+<rect x="20" y="50" width="20" height="20" stroke="black" fill="blue" />
+<rect x="300" y="10" width="20" height="20" stroke="black" fill="red" />
+<rect x="300" y="50" width="20" height="20" stroke="black" fill="green" />
+<text x="50" y="30" font-size="20">Fire Related Issues</text>
+<text x="50" y="70" font-size="20">Hazards</text>
+<text x="330" y="30" font-size="20">People Related Issues</text>
+<text x="330" y="70" font-size="20">Structural Issues</text>
+
+<circle cx="590" cy="20" r="10" fill="cyan" stroke="black"/>
+<text x="610" y="30" font-size="20">All Clear</text>
+
+<text x="350" y="310" font-size="18" fill="red" id="Incident Command Center">ICC</text>
+<text x="400" y="355" font-size="18" fill="red" id="Division A meeting point">A</text>
+<text x="510" y="620" font-size="18" fill="red" id="Division B meeting point">B</text>
+<text x="595" y="460" font-size="18" fill="red" id="Division C meeting point">C</text>
+

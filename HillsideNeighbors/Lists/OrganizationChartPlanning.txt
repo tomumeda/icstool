@@ -1,0 +1,14 @@
+# ICC organizational hierarchy
+# number of \t's indicates level of hierarchy
+# OrgTable[] text substitution for OrganiztionTable Chart (tabular input)
+Planning Section Chief <OrgTable[\Large \PlanningSectionChief],RequiredRole[]>
+	Division Leader A <OrgTable[\DivisionLeader A],RequiredRole[]>
+		Block Damage Assessors <OrgTable[\BlockDamageAssessors],RequiredRole[]>
+		Block Damage Assessors <OrgTable[\BlockDamageAssessors],RequiredRole[]>
+	Division Leader B <OrgTable[\DivisionLeader B],RequiredRole[]>
+		Block Damage Assessors <OrgTable[\BlockDamageAssessors],RequiredRole[]>
+		Block Damage Assessors <OrgTable[\BlockDamageAssessors],RequiredRole[]>
+	Division Leader C <OrgTable[\DivisionLeader C],RequiredRole[]>
+		Block Damage Assessors <OrgTable[\BlockDamageAssessors],RequiredRole[]>
+		Block Damage Assessors <OrgTable[\BlockDamageAssessors],RequiredRole[]>
+	Scribe <OrgTable[\Scribe],RequiredRole[]>

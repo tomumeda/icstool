@@ -1,0 +1,10 @@
+# ICC organizational hierarchy
+# number of \t's indicates level of hierarchy
+# OrgTable[] text substitution for OrganiztionTable Chart (tabular input)
+Operations Section Chief <OrgTable[\Large \OperationsSectionChief],RequiredRole[]>
+	Response Team Manager <OrgTable[\large \ResponseTeamManager],RequiredRole[]>
+		Response Teams <OrgTable[\ResponseTeams],RequiredRole[]>
+		Response Teams <OrgTable[\ResponseTeams],RequiredRole[]>
+	Medical Group Leader <OrgTable[\large \MedicalGroupLeader],RequiredRole[]>
+		Field Medical Teams <OrgTable[\FieldMedicalTeams],RequiredRole[]>
+		Medical Triage Team <OrgTable[\MedicalTriageTeam],RequiredRole[]>

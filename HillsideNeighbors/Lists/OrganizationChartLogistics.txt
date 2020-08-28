@@ -1,0 +1,12 @@
+# ICC organizational hierarchy
+# number of \t's indicates level of hierarchy
+# OrgTable[] text substitution for OrganiztionTable Chart (tabular input)
+Logistics Section Chief <OrgTable[\Large \LogisticsSectionChief],RequiredRole[]>
+	Communications Manager <OrgTable[\CommunicationsManager],RequiredRole[]>
+		Radio Operator <OrgTable[\RadioOperator],RequiredRole[]>
+		Runners <OrgTable[\Runners],RequiredRole[]>
+		WEB Tool Specialist <OrgTable[\WEBToolSpecialist],RequiredRole[]>
+	Equipment Manager <OrgTable[\EquipmentManager],RequiredRole[]>
+		Inventory Manager <OrgTable[\InventoryManager],RequiredRole[]>
+		Supply Team <OrgTable[\SupplyTeam],RequiredRole[]>
+		Shelter Manager <OrgTable[\ShelterManager],RequiredRole[]>

@@ -1,0 +1,7 @@
+# SkillLabel	Detail
+Communications	(Walkie-Talkie)
+First Aid 
+Search And Rescue 
+Fire Suppression 
+Logistics	(Supplies, Equipment, Neighborhood)
+People Management 
