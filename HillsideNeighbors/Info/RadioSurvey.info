@@ -1,0 +1,8 @@
+:TITLE:
+Radio Survey
+:CONTENT:
+This option allows you to enter your Radio Survey Observations and has two steps:
+:LIST:
+Specify the location of your observation by street name and address.  You may select a previously reported address if you need to make changes.
+Enter your radio survey data: Type of Radio, Signal Strength/Clarity, Location of Radio, and any Notes.  If you are entering data for someone else and their name does not appear on the menu , please ChangeUser on the Main Menu to enter their name.
+:ENDLIST:

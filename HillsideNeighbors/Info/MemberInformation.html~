@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="MemberInformation.css">
+</head>
+<body>
+<hr>
+<h4>Member Information Info
+</h4>
+<p>
+The Member Information Form is used to store information into and update information in the Member Database. 
+The database will be sharable with others in the neighborhood and will to be used during emergencies, such as, earthquakes, evacuations, and  wildfires.
+With this form you can store images of 
+<ul>
+<li>yourself,</li>
+<li>the people and pets you live with,</li>
+<li>your living structure.</li>
+</ul>
+</ul>
+There are a number of files available for download:
+<ul>
+<li>The member database in the form of a comma separate variable spreadsheet</li>
+</ul>
+</ul>
+</p>
+
+</body>
+</html>

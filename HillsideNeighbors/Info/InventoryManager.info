@@ -1,0 +1,11 @@
+:TITLE:
+Inventory Manager
+:CONTENT:
+The Inventory Manager keeps track of all equipment and supplieswithin the ICS and the neighborhood.
+:LIST:
+
+Takes direction from and reports to the Equipment Manager.
+Maintains an inventory of all equipment and supplies at the ICC cache and in the field.
+Issues to and receives from ICS personnel cache equipment.
+Logs changes in cache inventory and/or the availability of neighborhood resources.
+:ENDLIST:

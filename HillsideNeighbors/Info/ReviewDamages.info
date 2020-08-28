@@ -1,0 +1,22 @@
+:TITLE:
+Review Damages Menu
+:CONTENT:
+Review Damages Menu allows you to view damages by type:
+:LIST:
+'Urgency Issues' shows addresses with any Urgency flags.
+'Injured People' 
+'Trapped People'
+'Dead People' 
+'Fires' 
+'Structural Damage'
+'Vehicle Inaccessible' shows addresses that have vehicle obstructions.
+'Latest Five' displays addresses with the most recent change.
+'All Unresolved' displays all addresses with any issue.
+:ENDLIST:
+The list show the current status for each address.
+Each item in the list has an active address button 
+that will send you to the address's Damage Assessment Form 
+and, if any Response Teams are deployed, there are active buttons 
+that will send you to their status forms.
+The 'Back' button takes you to the previous menu.
+The 'Cancel' will take you to the User Action Menu.

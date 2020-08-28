@@ -1,0 +1,15 @@
+:TITLE:
+Review Radio Assessment Data
+:CONTENT:
+There are two options:
+:LIST:
+Map observational locations and your position where colors indicate:
+:LIST:
+Blue: Signal Strength/Clarity: Loud and Clear
+Brown: Signal Strength/Clarity: Intelligible but with interference
+Pink: Signal Strength/Clarity: Signal but unintelligible
+Red: Signal Strength/Clarity: No Signal
+Orange: Your GPS position
+:ENDLIST:
+List by address all assessment data.
+:ENDLIST:

@@ -1,0 +1,18 @@
+:TITLE:
+Radio Operator
+:CONTENT:
+The Radio Operator handles all walkie-talkie communications between personnel in the field and Incident Command Center(ICC)and has the following responsibilities:
+:LIST:
+
+Ensure cache walkie-talkies are operational and are set to channel 17.17. 
+Receives and transmits all walkie-talkie communications between the ICC and the field. 
+Records all incoming and outgoing ICC walkie-talkie communications into the ICSDatabase:
+:LIST:
+
+Personnel Sign Ins
+Damage Assessments
+Damage Status Changes
+Messages to and from ICS personnel
+:ENDLIST:
+
+:ENDLIST:

@@ -1,0 +1,14 @@
+:TITLE:
+Compose Response Team Form
+:CONTENT:
+Compose Response Team Form allows you to compose Response Teams from signed-in members of the ICC.
+This form is similar to the ICC Staffing Form.
+This form displays a table of personnel for the ICS Role displayed.
+Clicking on the Role button will take you to a description of the Role.
+The table lists the people signed in to the ICC (grouped by skill) with their current assignment.
+Select the names on the table to be assigned to the Response Team.
+Any person already assigned to that Role will be unassigned.  
+The selected person will be unassigned their current Role 
+and assigned to the one on this form.
+'Submit' will make assignments and take you back to the Main Menu.
+Messages to everyone concerned will be sent.

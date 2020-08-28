@@ -1,0 +1,24 @@
+:TITLE:
+Report Damage Menu
+:CONTENT:
+The Report Damage section records damage information about a specific address.
+Initially you must specify the location of the damage.
+There are two options:
+:LIST:
+Selecting the address of a previous report, or
+Selecting or specifying:
+:LIST:
+the street name, and
+the address on the street
+:ENDLIST:
+:ENDLIST:
+The Damage Assessment form provides several optional inputs:
+:LIST:
+Reported By: identifies the person making the report in situations where you are recording the information for someone else.
+Any Response Teams deployed to this location are listed.  Clicking on the Response Team will take you to their status form.
+The Damage Assessment Form follows.  The information should reflect current status.  Additional Notes may be added.
+The 'Submit' button will save any changes and send you back to the main menu.
+The 'Send Team' button will save changes and send you to the Compose Response Team form.
+Appended is a History (most recent first) of the information input for this location.
+:ENDLIST:
+
