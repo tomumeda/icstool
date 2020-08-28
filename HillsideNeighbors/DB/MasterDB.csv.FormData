@@ -1,0 +1,29 @@
+Timestamp	date
+LastName	textfield
+FirstName	textfield
+StreetName	popup_menu	
+StreetAddress	textfield
+subAddress	textfield
+GroupAffiliation	scrolling_list
+# DivisionBlock	popup_menu
+HomePhone	tel
+CellPhone	tel
+EmailAddress	email
+
+OtherContactInfo	textarea
+SkillsForEmergency	checkbox_group
+
+CERTClasses	textarea
+BirthYear	number
+
+EmergencyContactInfo	textarea
+SpecialNeeds	textarea
+Visitors	textarea
+Pets	textarea
+EmergencyEquipment	textarea
+ACAlertSignUp	radio_group
+GasShutOffValveInfo	textarea
+Comments	textarea
+# InactiveMember	radio_group
+InvolvementLevel	popup_menu
+

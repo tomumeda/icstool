@@ -1,0 +1,36 @@
+SpreadSheet Items
+
+Timestamp
+NameLast
+NameFirst
+Street
+Address
+subAddress
+Phone
+Cell
+Email
+SpecialNeeds
+SkillsForEmergency
+Visitors
+Pets
+EmergencyEquipment
+LastChanged
+InactiveMember
+CERTClasses     
+Comments
+
+Daniella’s spreadsheet has these additional data columns:
+
+Division/Block
+Zip Code
+Business Phone
+Fax
+Emergency Contact Name
+Emergency Contact Info
+Prep Kits? (What is this?)
+
+We are proposing to add the following:
+
+Gas shutoff valve data (We need a standard way of describing this info.)
+Birthdays
+

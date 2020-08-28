@@ -1,0 +1,40 @@
+Initialize {SignedIn,SignInLog,MemberLog,...}
+	>Initialize.pl
+
+MemberLog = { Time, MemberId, action = {SignedIn,Assignment} } 
+
+
+SignedIn = { MemberId } 
+	SignedInLog = { Time, MemberId, {in,out} } 
+	>SignIn.pl
+	>NewMember.pl
+
+AssignmentsByRole = { RoleId, { MemberId } } 
+	RoleId = {IC,RadioOperator,Logistics,MedicalTeamCaptain,... } 
+	AssignmentsByRoleLog = { Time, {RoleId,MemberId} } 
+	>Assign.pl
+
+Skills = { Skill,{MemberId} }
+	>Skills.pl
+
+Incidents = { AddressId,{Time,Status,MessageId } } 
+	>IncidentStatus.pl
+
+Teams = { Team,Deployment,{MemberId} } Team = {ICC Team, Response Team}
+	>TeamStatus.pl
+	>TeamStatus.pl
+	>ResponxeTeamSafetyCheck.pl
+
+EquipmentInventory = {Item,Status}
+	>EquipmentStatus.pl
+
+Messages = { Time,Message } --flat file
+	>Messages.pl
+
+ICCOrganizationTable
+	Roles-Positions
+	Equipment
+
+CommunicationToOthers
+	FireDepartment
+

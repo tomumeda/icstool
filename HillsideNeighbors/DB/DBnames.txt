@@ -1,0 +1,11 @@
+DBmaster
+DBrecName
+DBrecAddress
+DBrecSkills
+DBSpecialNeeds
+DBAddressOnStreet
+DBrecEmergencyEquipment
+DBcontactInfo
+DBrecSpecialNeeds
+DBrecPets
+DBrecVisitors
