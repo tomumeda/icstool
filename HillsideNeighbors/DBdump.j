@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+use lib ("/Users/Tom/Sites/ICSTool/Lib", "/home/tom/Sites/ICSTool/Lib");
+
 require "subCommon.pl";
 require "subDamageReport.pl";
 
